@@ -2,8 +2,32 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+
+<script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 <h1>{{ title }}</h1>
 
+<p>{% for auth in author %}{{ auth.name }}, {% endfor %} {{ date | readableDate }} <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="/img/cc_by-nc.png" height=15pt/></a> [<a href="/pdfs/{{ id }}.pdf">PDF</a>]<br/>    
+    {% for tag in tags %}
+      {%- if collections.tagList.indexOf(tag) != -1 -%}
+      {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+      <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+</p>
+
+<p class="abstract"> {{ abstract  }} </p>
+
+
 {{ content | safe }}
+
+<hr>
+
+<p>{% for auth in author %}{{ auth.name }}, {% endfor %} "{{ title }}"; <i>argumentation.online</i> (hrsg. von Georg Brun, Jonas Pfister u.a.), {{ date | readableDate }}. [<a href="/pdfs/{{ id }}.pdf">PDF</a>]</p>
 
 <p><a href="{{ '/' | url }}">← Home</a></p>

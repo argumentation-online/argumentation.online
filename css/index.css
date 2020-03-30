@@ -15,7 +15,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family: Palatino, serif;
   color: var(--darkgray);
   background-color: var(--white);
 }
@@ -125,6 +125,12 @@ pre {
   text-decoration: none;
 }
 
+/* Abstract */
+.abstract {
+  font-style: italic;
+  font-size: 17px;
+}
+
 /* Nav */
 .nav {
   padding: 0;
@@ -209,7 +215,7 @@ a[href].tag:visited {
 
 /* Direct Links / Markdown Headers */
 .direct-link {
-  font-family: sans-serif;
+  font-family: Palatino, serif;
   text-decoration: none;
   font-style: normal;
   margin-left: .1em;
