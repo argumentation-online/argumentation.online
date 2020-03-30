@@ -1,5 +1,4 @@
 ---
-# Macintosh-4:11ty-test ggbetz$ pandoc posts/Bizet_AAO-2018-1.md -o pdfs/Bizet_AAO-2018-1.pdf --metadata-file=pdfs/styles/meta_aao-latex.yaml --template=pdfs/styles/argonl_latex.template --pdf-engine=xelatex
 documentclass: scrarticle
 classoption:
 - a4paper

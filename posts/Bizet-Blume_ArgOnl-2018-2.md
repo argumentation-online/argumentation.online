@@ -7,7 +7,7 @@ author:
     affiliation: UMC
     email: helena@umc.edu
   - name: Samuel Blume
-id: Bizet-Stein_ArgOnl-2018-2
+id: Bizet-Blume_ArgOnl-2018-2
 tags:
   - tag2
   - Kant
