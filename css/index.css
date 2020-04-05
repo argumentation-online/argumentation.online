@@ -131,6 +131,22 @@ pre {
   font-size: 17px;
 }
 
+/* Citation */
+.citeas {
+  border-top: 1px dashed
+}
+
+/*Inference rule*/
+hr {
+  max-width: 15em;
+  color:black;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  margin-left: 1em;
+  border-style: solid;
+  border-width: 1px 0px 0px 0px;
+  border-color: currentColor;
+}
 /* Nav */
 .nav {
   padding: 0;

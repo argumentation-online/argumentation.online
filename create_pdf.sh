@@ -1,7 +1,8 @@
 #!/bin/bash
 
-pandoc posts/Bruntel_ArgOnl-2018-3.md \
-  -o pdfs/Bruntel_ArgOnl-2018-3.pdf \
+pandoc posts/Zinke_ArgOnl-2020-02.md \
+  -o pdfs/Zinke_ArgOnl-2020-02.pdf \
   --metadata-file=pdfs/styles/meta_aao-latex.yaml \
   --template=pdfs/styles/argonl_latex.template \
-  --pdf-engine=xelatex
+  --pdf-engine=xelatex \
+  --lua-filter=inferenceline.lua
