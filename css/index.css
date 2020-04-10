@@ -15,7 +15,8 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: Palatino, serif;
+  font-family: 'Merriweather', 'Palatino', serif;
+  /* font-size: 17px; */
   color: var(--darkgray);
   background-color: var(--white);
 }
@@ -30,6 +31,10 @@ img {
 p,
 .tmpl-post li {
   line-height: 1.45;
+}
+h2 {
+  font-size: 1.25em;
+  margin-top: 1.25em;
 }
 a[href] {
   color: var(--blue);
@@ -65,7 +70,7 @@ code {
   line-height: 1.5;
 }
 pre {
-  font-size: 14px;
+  font-size: 0.9em /* 14px */;
   line-height: 1.375;
   direction: ltr;
   text-align: left;
@@ -128,7 +133,7 @@ pre {
 /* Abstract */
 .abstract {
   font-style: italic;
-  font-size: 17px;
+  font-size: 1em;
 }
 
 /* Citation */
@@ -178,8 +183,9 @@ hr {
   display: inline-block;
   pointer-events: none;
   content: "" counter(start-from, decimal-leading-zero) ". ";
-  line-height: 100%;
+  line-height: 150%;
   text-align: right;
+  padding-top: 1em;
 }
 .postlist-date,
 .postlist-item:before {
@@ -190,15 +196,15 @@ hr {
   word-spacing: -0.5px;
 }
 .postlist-link {
-  display: inline-block;
-  padding: 0.25em 0.1875em; /* 4px 3px /16 */
+  display: inline; /*inline-block*/
+  padding: 0.3em 0.3em; /* 4px 3px /16 */
 }
 .postlist-item-active .postlist-link {
   font-weight: bold;
 }
 .tmpl-home .postlist-link {
-  font-size: 1.1875em; /* 19px /16 */
-  font-weight: 700;
+  font-size: 1.1em; /*1.1875em 19px /16 */
+  font-weight: 500;
 }
 
 

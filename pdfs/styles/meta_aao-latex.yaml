@@ -6,7 +6,8 @@ classoption:
 - DIV=8
 lang: de-DE
 colorlinks: true
-mainfont: Palatino Linotype
+mainfont: Linux Libertine O
+mathfont: Linux Libertine O
 header-includes:
     - \setkomafont{disposition}{\bfseries}
     - \usepackage{scrlayer-scrpage}

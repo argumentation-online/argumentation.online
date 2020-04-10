@@ -430,7 +430,7 @@ $endfor$
 
 \parbox{\textwidth}{\footnotesize $for(author)$$author.name$$sep$, $endfor$: ``$title$''; \emph{argumentation.online} (hrsg. von Georg Brun, Jonas Pfister u.a.), $date$, \url{www.argumentation.online/pdfs/$id$.pdf}. Veröffentlicht unter der Creative Commons Lizenz (\href{https://creativecommons.org/licenses/by-nc/4.0/}{by-nc}).}
 
-\vspace{1mm}\hrule\vspace{1mm}
+\vspace{2mm}\hrule\vspace{1mm}
 
 $if(toc)$
 $if(toc-title)$

@@ -12,7 +12,7 @@ templateClass: tmpl-post
 
 <h1>{{ title }}</h1>
 
-<p>{% for auth in author %}{{ auth.name }}, {% endfor %} {{ date | readableDate }} <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a> [<a href="/pdfs/{{ id }}.pdf">PDF</a>]<br/>    
+<p>{% for auth in author %}{{ auth.name }}, {% endfor %} {{ date | readableDate }} <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a> [<a href="{{ '/pdfs/' | url }}{{ id }}.pdf">PDF</a>]<br/>    
     {% for tag in tags %}
       {%- if collections.tagList.indexOf(tag) != -1 -%}
       {% set tagUrl %}/tags/{{ tag }}/{% endset %}
@@ -28,6 +28,6 @@ templateClass: tmpl-post
 
 <p class="citeas"/>
 
-<p>{% for auth in author %}{{ auth.name }}, {% endfor %} "{{ title }}"; <i>argumentation.online</i> (hrsg. von Georg Brun, Jonas Pfister u.a.), {{ date | readableDate }}. [<a href="/pdfs/{{ id }}.pdf">PDF</a>]</p>
+<p>{% for auth in author %}{{ auth.name }}, {% endfor %} "{{ title }}"; <i>argumentation.online</i> (hrsg. von Georg Brun, Jonas Pfister u.a.), {{ date | readableDate }}. [<a href="{{ '/pdfs/' | url }}{{ id }}.pdf">PDF</a>]</p>
 
 <p><a href="{{ '/' | url }}">← Home</a></p>
