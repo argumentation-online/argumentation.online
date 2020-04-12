@@ -15,7 +15,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Merriweather', 'Palatino', serif;
+  font-family: 'Merriweather', serif;
   /* font-size: 17px; */
   color: var(--darkgray);
   background-color: var(--white);
@@ -32,8 +32,15 @@ p,
 .tmpl-post li {
   line-height: 1.45;
 }
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 2.2em;
+}
 h2 {
-  font-size: 1.25em;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 1.5em;
   margin-top: 1.25em;
 }
 a[href] {
@@ -129,6 +136,10 @@ pre {
 .home :link:not(:hover) {
   text-decoration: none;
 }
+h1.home {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+}
 
 /* Abstract */
 .abstract {
@@ -183,17 +194,20 @@ hr {
   display: inline-block;
   pointer-events: none;
   content: "" counter(start-from, decimal-leading-zero) ". ";
-  line-height: 150%;
+  line-height: 100%;
   text-align: right;
-  padding-top: 1em;
+  padding-top: 1.2em;
 }
 .postlist-date,
+.postlist-author,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
   color: var(--darkgray);
 }
-.postlist-date {
+.postlist-date,
+.postlist-author {
   word-spacing: -0.5px;
+  display: inline-block;
 }
 .postlist-link {
   display: inline; /*inline-block*/
@@ -204,7 +218,10 @@ hr {
 }
 .tmpl-home .postlist-link {
   font-size: 1.1em; /*1.1875em 19px /16 */
-  font-weight: 500;
+  font-weight: 700;
+}.postlist-taglist {
+  display: inline-block;
+  margin-top: 3px;
 }
 
 
