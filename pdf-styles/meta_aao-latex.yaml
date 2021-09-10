@@ -1,17 +1,18 @@
 ---
 documentclass: scrarticle
 classoption:
-- a4paper
-- fontsize=12pt
-- DIV=8
+  - a4paper
+  - fontsize=12pt
+  - DIV=8
 lang: de-DE
 colorlinks: true
-mainfont: Linux Libertine O
-mathfont: Linux Libertine O
+mainfont: libertine
+mathfont: libertine
 header-includes:
-    - \setkomafont{disposition}{\bfseries}
-    - \usepackage{scrlayer-scrpage}
-    - \usepackage{titling}
-    - \lohead{\small \thedate}
-    - \rohead{\small argumentation.online}
+  - \setkomafont{disposition}{\bfseries}
+  - \usepackage{scrlayer-scrpage}
+  - \usepackage{titling}
+  - \lohead{\small \thedate}
+  - \rohead{\small argumentation.online}
 ---
+
