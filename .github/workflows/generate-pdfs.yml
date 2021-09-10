@@ -9,6 +9,9 @@ jobs:
       options: --entrypoint=sh
     steps:
       - uses: actions/checkout@v2
+      - name: install font
+        run: |
+          sudo apk add ttf-linux-libertine
       - name: prepare output directories
         run: |
           for d in posts/*/; do
