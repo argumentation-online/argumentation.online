@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: install font
         run: |
-          apk add ttf-linux-libertine
+          tlmgr install libertine
       - name: prepare output directories
         run: |
           for d in posts/*/; do
