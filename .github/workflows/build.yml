@@ -26,7 +26,7 @@ jobs:
           done
       - name: convert md to pdf
         run: |
-          find ./posts/  -printf "%P\n" -iname '*.md' -type f -exec sh -c 'pandoc ${0} -o pdfs/${0%.md}.pdf --metadata-file=pdf-styles/meta_aao-latex.yaml  --template=pdf-styles/argonl_latex.template --pdf-engine=lualatex --lua-filter=pdf-styles/inferenceline.lua' {} \;
+          (cd ./posts && find ./  -iname '*.md' -type f -exec sh -c 'pandoc ${0} -o pdfs/${0%.md}.pdf --metadata-file=pdf-styles/meta_aao-latex.yaml  --template=pdf-styles/argonl_latex.template --pdf-engine=lualatex --lua-filter=pdf-styles/inferenceline.lua' {} \;)
       - uses: actions/upload-artifact@master
         with:
           name: pdfs
