@@ -34,7 +34,7 @@ module.exports = {
       }),
     ],
   ],
-
+  onBrokenLinks: "warn",
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
