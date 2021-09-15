@@ -7,7 +7,7 @@ module.exports = {
   title: "argumentation.online",
   tagline: "Eine kuratierte Sammlung von Argumentrekonstruktionen",
   url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  baseUrl: "/argumentation.online/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
