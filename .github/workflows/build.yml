@@ -21,12 +21,18 @@ jobs:
           tlmgr install libertine && updmap-sys --enable Map=libertine.map
       - name: prepare output directories
         run: |
-          for d in posts/*/; do
+          for d in reconstructions/*/; do
             mkdir -p pdfs/$d
           done
+      - name: copy files into tmp folder
+        run: |
+          cp -R ./reconstructions/. tmp-pandoc/
+      - name: replace authors with author in tmp files
+        run: |
+          find ./tmp-pandoc/ -type f -exec perl -i -w -0777pe 's/---.*\Kauthors:(?=.*---)/author:/s' {} +
       - name: convert md to pdf
         run: |
-          (cd ./posts && find *  -iname '*.md' -type f -exec sh -c 'pandoc ${0} -o ../pdfs/${0%.md}.pdf --metadata-file=../pdf-styles/meta_aao-latex.yaml  --template=../pdf-styles/argonl_latex.template --pdf-engine=lualatex --lua-filter=../pdf-styles/inferenceline.lua' {} \;)
+          (cd ./tmp-pandoc && find *  -iname '*.md' -type f -exec sh -c 'pandoc ${0} -o ../pdfs/${0%.md}.pdf --metadata-file=../pdf-styles/meta_aao-latex.yaml  --template=../pdf-styles/argonl_latex.template --pdf-engine=lualatex --lua-filter=../pdf-styles/inferenceline.lua' {} \;)
       - uses: actions/upload-artifact@master
         with:
           name: pdfs
