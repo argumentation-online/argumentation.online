@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6967],{1347:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/turing","name":"Turing","count":1,"permalink":"/tags/turing"}')}}]);

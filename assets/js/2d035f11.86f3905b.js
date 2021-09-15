@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4515],{6842:function(n){n.exports=JSON.parse('{"allTagsPath":"/argumentation.online/tags","slug":"/argumentation.online/tags/turing","name":"Turing","count":1,"permalink":"/argumentation.online/tags/turing"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8928],{2433:function(n){n.exports=JSON.parse('{"allTagsPath":"/argumentation.online/tags","slug":"/argumentation.online/tags/philosophie","name":"Philosophie","count":6,"permalink":"/argumentation.online/tags/philosophie"}')}}]);
