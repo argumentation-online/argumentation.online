@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Rekonstruktionen",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "Rekonstruktionen",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "Neueste Rekonstruktionen",
+    "description": "The label for the left sidebar"
+  }
+}

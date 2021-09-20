@@ -16,6 +16,7 @@ import EditThisPage from "@theme/EditThisPage";
 import styles from "./styles.module.css";
 import TagsListInline from "@theme/TagsListInline";
 import BlogPostAuthors from "@theme/BlogPostAuthors"; // Very simple pluralization: probably good enough for now
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 function useReadingTimePlural() {
   const { selectMessage } = usePluralForm();
@@ -60,10 +61,14 @@ function BlogPostItem(props) {
     authors,
   } = metadata;
   const image = assets.image ?? frontMatter.image;
+  const {
+    i18n: { currentLocale },
+  } = useDocusaurusContext();
 
   const renderPostHeader = () => {
     const TitleHeading = isBlogPostPage ? "h1" : "h2";
     const slug = permalink.substring(permalink.lastIndexOf("/") + 1);
+    const locale = currentLocale == "de" ? "" : currentLocale + "/";
     return (
       <header>
         <TitleHeading className={styles.blogPostTitle} itemProp="headline">
@@ -88,7 +93,7 @@ function BlogPostItem(props) {
           )}
         </div>
         <BlogPostAuthors authors={authors} assets={assets} />
-        <a href={"/pdfs/" + slug + ".pdf"}>Als PDF herunterladen</a>
+        <a href={"/pdfs/" + locale + slug + ".pdf"}>Als PDF herunterladen</a>
       </header>
     );
   };

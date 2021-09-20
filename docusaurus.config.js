@@ -5,15 +5,18 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "argumentation.online",
-  tagline: "Eine kuratierte Sammlung von Argumentrekonstruktionen",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/argumentation.online/",
+  tagline: "A curated collection of argument reconstructions",
+  url: "https://argumentation.online",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "debatelab", // Usually your GitHub org/user name.
   projectName: "argumentation.online", // Usually your repo name.
-
+  i18n: {
+    defaultLocale: "de",
+    locales: ["de", "en"],
+  },
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -22,6 +25,7 @@ module.exports = {
         docs: false,
         blog: {
           showReadingTime: true,
+          editLocalizedFiles: true,
           // Please change this to your repo.
           path: "./reconstructions",
           routeBasePath: "/",
@@ -68,8 +72,12 @@ module.exports = {
         items: [
           { to: "/tags", label: "Tags", position: "left" },
           { to: "/archive", label: "Archiv", position: "left" },
-          { to: "/about", label: "Über uns", position: "left" },
+          { to: "/about", label: "About", position: "left" },
           { to: "/faq", label: "FAQ", position: "left" },
+          {
+            type: "localeDropdown",
+            position: "left",
+          },
         ],
       },
       footer: {

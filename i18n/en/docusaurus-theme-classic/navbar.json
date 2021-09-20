@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "argumentation.online",
+    "description": "The title in the navbar"
+  },
+  "item.label.Tags": {
+    "message": "Tags",
+    "description": "Navbar item with label Tags"
+  },
+  "item.label.Archiv": {
+    "message": "Archiv",
+    "description": "Navbar item with label Archiv"
+  },
+  "item.label.About": {
+    "message": "About",
+    "description": "Navbar item with label About"
+  },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  }
+}
