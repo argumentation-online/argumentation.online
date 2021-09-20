@@ -7,7 +7,7 @@ module.exports = {
   title: "argumentation.online",
   tagline: "A curated collection of argument reconstructions",
   url: "https://argumentation.online",
-  baseUrl: "/",
+  baseUrl: "/argumentation.online/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
