@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6379],{1411:function(t){t.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/gott","name":"Gott","count":1,"permalink":"/tags/gott"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5504],{5057:function(n){n.exports=JSON.parse('{"allTagsPath":"/argumentation.online/tags","slug":"/argumentation.online/tags/maschinen","name":"Maschinen","count":1,"permalink":"/argumentation.online/tags/maschinen"}')}}]);

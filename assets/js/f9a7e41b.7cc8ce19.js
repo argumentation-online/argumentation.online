@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[342],{8595:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/hume","name":"Hume","count":1,"permalink":"/tags/hume"}')}}]);
