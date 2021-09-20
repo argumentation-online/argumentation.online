@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://argumentation.online/</id>
+    <id>https://argumentation.online/argumentation.online/</id>
     <title>argumentation.online Blog</title>
     <updated>2020-04-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://argumentation.online/"/>
+    <link rel="alternate" href="https://argumentation.online/argumentation.online/"/>
     <subtitle>argumentation.online Blog</subtitle>
-    <icon>https://argumentation.online/img/favicon.ico</icon>
+    <icon>https://argumentation.online/argumentation.online/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Immanuel Kant: Die Welt hat einen Anfang in der Zeit]]></title>
         <id>Immanuel Kant: Die Welt hat einen Anfang in der Zeit</id>
-        <link href="https://argumentation.online/Zinke_ArgOnl-2020-03"/>
+        <link href="https://argumentation.online/argumentation.online/Zinke_ArgOnl-2020-03"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
         <author>
@@ -20,7 +20,7 @@
     <entry>
         <title type="html"><![CDATA[Immanuel Kant: Die Welt hat keinen Anfang in der Zeit]]></title>
         <id>Immanuel Kant: Die Welt hat keinen Anfang in der Zeit</id>
-        <link href="https://argumentation.online/Zinke_ArgOnl-2020-04"/>
+        <link href="https://argumentation.online/argumentation.online/Zinke_ArgOnl-2020-04"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
         <author>
@@ -30,7 +30,7 @@
     <entry>
         <title type="html"><![CDATA[Leibniz: Lebewesen]]></title>
         <id>Leibniz: Lebewesen</id>
-        <link href="https://argumentation.online/Zinke_ArgOnl-2020-05"/>
+        <link href="https://argumentation.online/argumentation.online/Zinke_ArgOnl-2020-05"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
         <author>
@@ -40,7 +40,7 @@
     <entry>
         <title type="html"><![CDATA[Leibniz: Der Raum ist nichts absolut Seiendes]]></title>
         <id>Leibniz: Der Raum ist nichts absolut Seiendes</id>
-        <link href="https://argumentation.online/Zinke_ArgOnl-2020-06"/>
+        <link href="https://argumentation.online/argumentation.online/Zinke_ArgOnl-2020-06"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
         <author>
@@ -50,7 +50,7 @@
     <entry>
         <title type="html"><![CDATA[Anselm: Gottesbeweis (Proslogion 2)]]></title>
         <id>Anselm: Gottesbeweis (Proslogion 2)</id>
-        <link href="https://argumentation.online/Zinke_ArgOnl-2020-07"/>
+        <link href="https://argumentation.online/argumentation.online/Zinke_ArgOnl-2020-07"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
         <author>
@@ -60,7 +60,7 @@
     <entry>
         <title type="html"><![CDATA[David Hume: Das Ich]]></title>
         <id>David Hume: Das Ich</id>
-        <link href="https://argumentation.online/Zinke_ArgOnl-2020-02"/>
+        <link href="https://argumentation.online/argumentation.online/Zinke_ArgOnl-2020-02"/>
         <updated>2020-04-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
         <author>
@@ -70,7 +70,7 @@
     <entry>
         <title type="html"><![CDATA[Robert Nozick -- Das "Experience Machine"-Argument gegen den Hedonismus]]></title>
         <id>Robert Nozick -- Das "Experience Machine"-Argument gegen den Hedonismus</id>
-        <link href="https://argumentation.online/Lanius_ArgOnl-2020-1"/>
+        <link href="https://argumentation.online/argumentation.online/Lanius_ArgOnl-2020-1"/>
         <updated>2020-04-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
         <author>
@@ -80,7 +80,7 @@
     <entry>
         <title type="html"><![CDATA[Alan Turing: Das religiöse Argument gegen maschinelle Intelligenz -- Muster]]></title>
         <id>Alan Turing: Das religiöse Argument gegen maschinelle Intelligenz -- Muster</id>
-        <link href="https://argumentation.online/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER"/>
+        <link href="https://argumentation.online/argumentation.online/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER"/>
         <updated>2018-01-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
         <author>

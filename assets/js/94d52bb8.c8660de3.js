@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6925],{275:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/raum","name":"Raum","count":1,"permalink":"/tags/raum"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[3568],{4543:function(e){e.exports=JSON.parse('{"allTagsPath":"/en/tags","slug":"/en/tags/lebewesen","name":"Lebewesen","count":1,"permalink":"/en/tags/lebewesen"}')}}]);

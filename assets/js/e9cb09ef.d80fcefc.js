@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8241],{8636:function(n){n.exports=JSON.parse('{"allTagsPath":"/argumentation.online/tags","slug":"/argumentation.online/tags/anselm","name":"Anselm","count":1,"permalink":"/argumentation.online/tags/anselm"}')}}]);

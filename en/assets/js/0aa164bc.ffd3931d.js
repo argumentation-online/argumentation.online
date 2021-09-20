@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8487],{1578:function(n){n.exports=JSON.parse('{"allTagsPath":"/argumentation.online/en/tags","slug":"/argumentation.online/en/tags/kunstliche-intelligenz","name":"K\xfcnstliche Intelligenz","count":1,"permalink":"/argumentation.online/en/tags/kunstliche-intelligenz"}')}}]);

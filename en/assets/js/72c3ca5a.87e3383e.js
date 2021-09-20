@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9192],{3239:function(n){n.exports=JSON.parse('{"allTagsPath":"/argumentation.online/en/tags","slug":"/argumentation.online/en/tags/informell","name":"informell","count":2,"permalink":"/argumentation.online/en/tags/informell"}')}}]);

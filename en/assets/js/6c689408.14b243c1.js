@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6842],{8819:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/tags","slug":"/en/tags/informell","name":"informell","count":2,"permalink":"/en/tags/informell"}')}}]);

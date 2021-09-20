@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8109],{5705:function(n){n.exports=JSON.parse('{"allTagsPath":"/argumentation.online/en/tags","slug":"/argumentation.online/en/tags/raum","name":"Raum","count":1,"permalink":"/argumentation.online/en/tags/raum"}')}}]);
