@@ -62,6 +62,7 @@ function BlogPostItem(props) {
   } = metadata;
   const image = assets.image ?? frontMatter.image;
   const {
+    siteConfig: { baseUrl },
     i18n: { currentLocale },
   } = useDocusaurusContext();
 
@@ -69,6 +70,13 @@ function BlogPostItem(props) {
     const TitleHeading = isBlogPostPage ? "h1" : "h2";
     const slug = permalink.substring(permalink.lastIndexOf("/") + 1);
     const locale = currentLocale == "de" ? "" : currentLocale + "/";
+    let defaultBaseUrl = baseUrl;
+    if (locale != "de") {
+      defaultBaseUrl = baseUrl.substring(
+        0,
+        baseUrl.length - (locale + "/").length
+      );
+    }
     return (
       <header>
         <TitleHeading className={styles.blogPostTitle} itemProp="headline">
@@ -93,7 +101,9 @@ function BlogPostItem(props) {
           )}
         </div>
         <BlogPostAuthors authors={authors} assets={assets} />
-        <a href={"/pdfs/" + locale + slug + ".pdf"}>Als PDF herunterladen</a>
+        <a href={defaultBaseUrl + "/pdfs/" + locale + slug + ".pdf"}>
+          Als PDF herunterladen
+        </a>
       </header>
     );
   };
