@@ -6,13 +6,13 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary: #258ac2;
+  --ifm-color-primary-dark: #217caf;
+  --ifm-color-primary-darker: #1f75a5;
+  --ifm-color-primary-darkest: #1a6188;
+  --ifm-color-primary-light: #2998d5;
+  --ifm-color-primary-lighter: #329dd8;
+  --ifm-color-primary-lightest: #4fabdd;
   --ifm-code-font-size: 95%;
 }
 
@@ -23,6 +23,28 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-html[data-theme='dark'] .docusaurus-highlight-code-line {
+html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+element.style {
+}
+.navbar__title {
+  flex: 1 1 auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+* {
+  box-sizing: border-box;
+}
+user agent stylesheet b {
+  font-weight: bold;
+}
+.navbar__title {
+  font-size: 1.5rem;
+  padding-left: 0.2rem;
+}
+.margin-bottom--xl {
+  margin-bottom: 10rem !important;
 }

@@ -42,9 +42,14 @@ module.exports = {
         title: "argumentation.online",
         logo: {
           alt: "argumentation.online Logo",
-          src: "img/logo.svg",
+          src: "img/argumentation-online-logo.svg",
         },
-        items: [{ to: "/", label: "Blog", position: "left" }],
+        items: [
+          { to: "/tags", label: "Tags", position: "left" },
+          { to: "/archive", label: "Archiv", position: "left" },
+          { to: "/about", label: "Über uns", position: "left" },
+          { to: "/faq", label: "FAQ", position: "left" },
+        ],
       },
       footer: {
         style: "dark",
