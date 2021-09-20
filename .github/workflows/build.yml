@@ -24,6 +24,11 @@ jobs:
           for d in reconstructions/*/; do
             mkdir -p pdfs/$d
           done
+      - name: prepare en output directories
+        run: |
+          for d in ./i18n/en/docusaurus-plugin-content-blog/*/; do
+            mkdir -p pdfs/en/$d
+          done
       - name: copy german files into tmp folder
         run: |
           cp -R ./reconstructions/. tmp-pandoc/
