@@ -38,6 +38,27 @@ module.exports = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+        switchConfig: {
+          darkIcon: "🌙",
+          darkIconStyle: {
+            marginLeft: "2px",
+            color: "transparent",
+            textShadow: "0 0 0 #258ac2",
+          },
+          // Unicode icons such as '\u2600' will work
+          // Unicode with 5 chars require brackets: '\u{1F602}'
+          lightIcon: "\u2600",
+          lightIconStyle: {
+            marginLeft: "1px",
+            color: "transparent",
+            textShadow: "0 0 0 #258ac2",
+          },
+        },
+      },
       navbar: {
         title: "argumentation.online",
         logo: {
@@ -85,11 +106,26 @@ module.exports = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} argumentation.online`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        apiKey: "YOUR_API_KEY",
+        indexName: "YOUR_INDEX_NAME",
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: see doc section below
+        appId: "YOUR_APP_ID",
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        //... other Algolia params
       },
     }),
 };

@@ -48,3 +48,6 @@ user agent stylesheet b {
 .margin-bottom--xl {
   margin-bottom: 10rem !important;
 }
+.react-toggle .react-toggle-track {
+  background-color: var(--docsearch-searchbox-background);
+}
