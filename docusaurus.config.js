@@ -1,5 +1,7 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const remarkMath = require("remark-math");
+const rehypeKatex = require("rehype-katex");
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
@@ -31,9 +33,14 @@ module.exports = {
           routeBasePath: "/",
           editUrl:
             "https://github.com/facebook/docusaurus/edit/main/website/blog/",
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [[rehypeKatex, { strict: false }]],
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: [
+            require.resolve("./src/css/custom.css"),
+            require.resolve("katex/dist/katex.min.css"),
+          ],
         },
       }),
     ],
