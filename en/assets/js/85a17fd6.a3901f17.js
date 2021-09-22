@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[308],{6418:function(e){e.exports=JSON.parse('{"allTagsPath":"/en/tags","slug":"/en/tags/moralphilosophie","name":"Moralphilosophie","count":1,"permalink":"/en/tags/moralphilosophie"}')}}]);

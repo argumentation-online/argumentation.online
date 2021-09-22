@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8881],{6112:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/tags","slug":"/en/tags/nozick","name":"Nozick","count":1,"permalink":"/en/tags/nozick"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1536],{7765:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/tags","slug":"/en/tags/maschinen","name":"Maschinen","count":1,"permalink":"/en/tags/maschinen"}')}}]);

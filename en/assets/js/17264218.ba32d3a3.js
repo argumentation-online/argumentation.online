@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[2769],{9128:function(n){n.exports=JSON.parse('{"allTagsPath":"/argumentation.online/en/tags","slug":"/argumentation.online/en/tags/das-ich","name":"das Ich","count":1,"permalink":"/argumentation.online/en/tags/das-ich"}')}}]);

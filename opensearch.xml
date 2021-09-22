@@ -4,8 +4,8 @@
   <ShortName>argumentation.online</ShortName>
   <Description>Search argumentation.online</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://argumentation.online/argumentation.online/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://argumentation.online/argumentation.online/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://argumentation.online/argumentation.online/opensearch.xml" />
-  <moz:SearchForm>https://argumentation.online/argumentation.online/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://argumentation.online/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://argumentation.online/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://argumentation.online/opensearch.xml" />
+  <moz:SearchForm>https://argumentation.online/</moz:SearchForm>
 </OpenSearchDescription>

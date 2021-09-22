@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8422],{2118:function(e){e.exports=JSON.parse('{"allTagsPath":"/en/tags","slug":"/en/tags/existenz","name":"Existenz","count":1,"permalink":"/en/tags/existenz"}')}}]);

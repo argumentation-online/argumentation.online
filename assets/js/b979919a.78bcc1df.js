@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4548],{918:function(e){e.exports=JSON.parse('{"allTagsPath":"/argumentation.online/tags","slug":"/argumentation.online/tags/philosophie-des-geistes","name":"Philosophie des Geistes","count":1,"permalink":"/argumentation.online/tags/philosophie-des-geistes"}')}}]);

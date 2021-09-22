@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9743],{2019:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/tags","slug":"/en/tags/kant","name":"Kant","count":2,"permalink":"/en/tags/kant"}')}}]);
