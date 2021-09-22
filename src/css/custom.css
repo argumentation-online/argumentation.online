@@ -51,10 +51,10 @@ user agent stylesheet b {
 .react-toggle .react-toggle-track {
   background-color: var(--docsearch-searchbox-background);
 }
-.article {
+article {
   border-bottom: 1px solid #ccc;
   padding-bottom: 2rem;
 }
-.article:last-of-type {
+article:last-of-type {
   border-bottom: 0;
 }
