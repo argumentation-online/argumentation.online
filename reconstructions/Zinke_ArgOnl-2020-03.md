@@ -47,7 +47,7 @@ Die Argumentation hat die Form eines Widerspruchbeweises. Aus der Annahme, dass 
 
 ---
 
-5. Die Welt hat inen Anfang in der Zeit.
+5. Die Welt hat einen Anfang in der Zeit.
 
 ## Kommentar
 
