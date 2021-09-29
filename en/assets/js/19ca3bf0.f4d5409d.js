@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5029],{5314:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/reconstructions/tags","slug":"/en/reconstructions/tags/das-ich","name":"das Ich","count":1,"permalink":"/en/reconstructions/tags/das-ich"}')}}]);

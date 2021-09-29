@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>argumentation.online Blog</title>
+        <link>https://argumentation.online/en/reconstructions</link>
+        <description>argumentation.online Blog</description>
+        <lastBuildDate>Sat, 04 Apr 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Immanuel Kant: Die Welt hat einen Anfang in der Zeit]]></title>
+            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-03</link>
+            <guid>Immanuel Kant: Die Welt hat einen Anfang in der Zeit</guid>
+            <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bibliographische Angaben]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Immanuel Kant: Die Welt hat keinen Anfang in der Zeit]]></title>
+            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-04</link>
+            <guid>Immanuel Kant: Die Welt hat keinen Anfang in der Zeit</guid>
+            <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bibliographische Angaben]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Leibniz: Lebewesen]]></title>
+            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-05</link>
+            <guid>Leibniz: Lebewesen</guid>
+            <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bibliographische Angaben]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Leibniz: Der Raum ist nichts absolut Seiendes]]></title>
+            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-06</link>
+            <guid>Leibniz: Der Raum ist nichts absolut Seiendes</guid>
+            <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bibliographische Angaben]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Anselm: Gottesbeweis (Proslogion 2)]]></title>
+            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-07</link>
+            <guid>Anselm: Gottesbeweis (Proslogion 2)</guid>
+            <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bibliographische Angaben]]></description>
+        </item>
+        <item>
+            <title><![CDATA[David Hume: Das Ich]]></title>
+            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-02</link>
+            <guid>David Hume: Das Ich</guid>
+            <pubDate>Fri, 03 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bibliographische Angaben]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Robert Nozick -- Das "Experience Machine"-Argument gegen den Hedonismus]]></title>
+            <link>https://argumentation.online/en/reconstructions/Lanius_ArgOnl-2020-1</link>
+            <guid>Robert Nozick -- Das "Experience Machine"-Argument gegen den Hedonismus</guid>
+            <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bibliographische Angaben]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Alan Turing: Das religiöse Argument gegen maschinelle Intelligenz -- Muster]]></title>
+            <link>https://argumentation.online/en/reconstructions/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER</link>
+            <guid>Alan Turing: Das religiöse Argument gegen maschinelle Intelligenz -- Muster</guid>
+            <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bibliographische Angaben]]></description>
+        </item>
+    </channel>
+</rss>

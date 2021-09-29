@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1236],{927:function(e){e.exports=JSON.parse('{"allTagsPath":"/en/tags","slug":"/en/tags/zeit","name":"Zeit","count":2,"permalink":"/en/tags/zeit"}')}}]);

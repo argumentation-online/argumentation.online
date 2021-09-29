@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5337],{2211:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/kunstliche-intelligenz","name":"K\xfcnstliche Intelligenz","count":1,"permalink":"/tags/kunstliche-intelligenz"}')}}]);

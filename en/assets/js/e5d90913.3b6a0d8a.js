@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[2608],{3179:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/reconstructions/tags","slug":"/en/reconstructions/tags/anselm","name":"Anselm","count":1,"permalink":"/en/reconstructions/tags/anselm"}')}}]);

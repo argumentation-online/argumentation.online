@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[7439],{9564:function(t){t.exports=JSON.parse('{"allTagsPath":"/reconstructions/tags","slug":"/reconstructions/tags/zeit","name":"Zeit","count":2,"permalink":"/reconstructions/tags/zeit"}')}}]);
