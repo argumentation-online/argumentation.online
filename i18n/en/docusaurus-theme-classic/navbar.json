@@ -8,15 +8,19 @@
     "description": "Navbar item with label Tags"
   },
   "item.label.Archiv": {
-    "message": "Archiv",
+    "message": "Archive",
     "description": "Navbar item with label Archiv"
   },
-  "item.label.About": {
-    "message": "About",
-    "description": "Navbar item with label About"
+  "item.label.Reconstructions": {
+    "message": "Reconstructions",
+    "description": "Navbar item with label Reconstructions"
   },
-  "item.label.FAQ": {
-    "message": "FAQ",
-    "description": "Navbar item with label FAQ"
+  "item.label.The Project": {
+    "message": "The Project",
+    "description": "Navbar item with label The Project"
+  },
+  "item.label.About Arguments": {
+    "message": "About Arguments",
+    "description": "Navbar item with label About Arguments"
   }
 }

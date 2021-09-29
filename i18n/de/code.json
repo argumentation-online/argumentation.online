@@ -24,15 +24,15 @@
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.archive.title": {
-    "message": "Archiv",
+    "message": "Archive",
     "description": "The page & hero title of the blog archive page"
   },
   "theme.blog.archive.description": {
-    "message": "Alle Rekonstruktionen nach Jahren geordnet",
+    "message": "Archive",
     "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Navigation der Blog-Listenseite",
+    "message": "Navigation der Rekonstruktionen-Listenseite",
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
@@ -44,23 +44,23 @@
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog Post Seiten Navigation",
+    "message": "Rekonstruktionen Seiten Navigation",
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Neuer Post",
+    "message": "Neuere Rekonstruktion",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Älterer Post",
+    "message": "Ältere Rekonstruktion",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation",
+    "message": "Neueste Rekonstruktionen Navigation",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.blog.post.plurals": {
-    "message": "Ein Post|{count} Posts",
+    "message": "Eine Rekonstruktion|{count} Rekonstruktionen",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
@@ -214,5 +214,13 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "theme.blog.post.downloadPdf": {
+    "message": "Als PDF herunterladen",
+    "description": "The label used in the blog post header to link to the pdf file"
+  },
+  "homepage.subtitle": {
+    "message": "Eine kuratierte Sammlung von Argumentrekonstruktionen",
+    "description": "The subitle in the Hompage header"
   }
 }

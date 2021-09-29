@@ -11,6 +11,8 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
+    "write-en": "docusaurus write-translations --locale en",
+    "write-de": "docusaurus write-translations --locale de",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
     "convert-docx": "(cd ./docx && find *  -iname '*.docx' -type f -exec sh -c 'pandoc ${0} -o ../reconstructions/${0%.docx}.md' {} \\;)"

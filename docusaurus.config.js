@@ -13,7 +13,7 @@ module.exports = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "debatelab", // Usually your GitHub org/user name.
+  organizationName: "argumentation.online", // Usually your GitHub org/user name.
   projectName: "argumentation.online", // Usually your repo name.
   i18n: {
     defaultLocale: "de",
@@ -30,7 +30,7 @@ module.exports = {
           editLocalizedFiles: true,
           // Please change this to your repo.
           path: "./reconstructions",
-          routeBasePath: "/",
+          routeBasePath: "/reconstructions",
           editUrl:
             "https://github.com/facebook/docusaurus/edit/main/website/blog/",
           remarkPlugins: [remarkMath],
@@ -77,13 +77,25 @@ module.exports = {
           src: "img/argumentation-online-logo.svg",
         },
         items: [
-          { to: "/tags", label: "Tags", position: "left" },
-          { to: "/archive", label: "Archiv", position: "left" },
-          { to: "/about", label: "About", position: "left" },
-          { to: "/faq", label: "FAQ", position: "left" },
+          {
+            type: "dropdown",
+            label: "Reconstructions",
+            to: "/reconstructions",
+            position: "left",
+            items: [
+              { to: "/reconstructions/tags", label: "Tags" },
+              { to: "/reconstructions/archive", label: "Archiv" },
+            ],
+          },
+          { to: "/the-project", label: "The Project", position: "left" },
+          {
+            to: "/about-arguments",
+            label: "About Arguments",
+            position: "left",
+          },
           {
             type: "localeDropdown",
-            position: "left",
+            position: "right",
           },
         ],
       },
@@ -91,32 +103,10 @@ module.exports = {
         style: "dark",
         links: [
           {
-            title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                label: "Impressum",
+                to: "/impressum",
               },
             ],
           },

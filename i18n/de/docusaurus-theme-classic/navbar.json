@@ -11,12 +11,16 @@
     "message": "Archiv",
     "description": "Navbar item with label Archiv"
   },
-  "item.label.About": {
-    "message": "Über uns",
-    "description": "Navbar item with label About"
+  "item.label.Reconstructions": {
+    "message": "Rekonstruktionen",
+    "description": "Navbar item with label Reconstructions"
   },
-  "item.label.FAQ": {
-    "message": "FAQ",
-    "description": "Navbar item with label FAQ"
+  "item.label.The Project": {
+    "message": "Das Projekt",
+    "description": "Navbar item with label The Project"
+  },
+  "item.label.About Arguments": {
+    "message": "Über Argumente",
+    "description": "Navbar item with label About Arguments"
   }
 }

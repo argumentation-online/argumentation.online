@@ -1,10 +1,5 @@
 ---
-layout: layouts/home.njk
 title: Über das Projekt
-templateClass: tmpl-base
-eleventyNavigation:
-  key: Über das Projekt
-  order: 3
 ---
 
 # Über das Projekt
