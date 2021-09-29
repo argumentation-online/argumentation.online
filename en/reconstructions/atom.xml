@@ -77,17 +77,4 @@
             <name>David Lanius</name>
         </author>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[Alan Turing: Das religiöse Argument gegen maschinelle Intelligenz -- Muster]]></title>
-        <id>Alan Turing: Das religiöse Argument gegen maschinelle Intelligenz -- Muster</id>
-        <link href="https://argumentation.online/en/reconstructions/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER"/>
-        <updated>2018-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
-        <author>
-            <name>Helena Bizet</name>
-        </author>
-        <author>
-            <name>Samuel Blume</name>
-        </author>
-    </entry>
 </feed>

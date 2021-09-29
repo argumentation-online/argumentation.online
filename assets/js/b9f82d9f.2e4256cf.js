@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9552],{8036:function(e){e.exports=JSON.parse('{"permalink":"/reconstructions","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"previousPage":null,"nextPage":null,"blogDescription":"Rekonstruktionen","blogTitle":"Rekonstruktionen"}')}}]);

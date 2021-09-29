@@ -12,7 +12,7 @@
         <id>Immanuel Kant: Die Welt hat einen Anfang in der Zeit</id>
         <link href="https://argumentation.online/reconstructions/Zinke_ArgOnl-2020-03"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
+        <summary type="html"><![CDATA[Rekonstruiert wird Kants Argument für die These, dass die Welt einen Anfang in der Zeit hat. Zusammen mit Kants Argument für die zugehörige Antithese -- dass die Welt keinen Anfang in der Zeit hat, -- bildet es die erste Antinomie der reinen Vernunft. (Wir ignorieren hier die entsprechenden Behauptungen für die Begrenztheit/Unbegrenztheit des Raumes.)]]></summary>
         <author>
             <name>Alexandra Zinke</name>
         </author>
@@ -22,7 +22,7 @@
         <id>Immanuel Kant: Die Welt hat keinen Anfang in der Zeit</id>
         <link href="https://argumentation.online/reconstructions/Zinke_ArgOnl-2020-04"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
+        <summary type="html"><![CDATA[Rekonstruiert wird Kants Argument dafür, dass die Welt keinen Anfang in der Zeit hat. Zusammen mit Kants Argument dafür, dass die Welt einen Anfang in der Zeit hat, bildet es die erste Antinomie der reinen Vernunft.]]></summary>
         <author>
             <name>Alexandra Zinke</name>
         </author>
@@ -32,7 +32,7 @@
         <id>Leibniz: Lebewesen</id>
         <link href="https://argumentation.online/reconstructions/Zinke_ArgOnl-2020-05"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
+        <summary type="html"><![CDATA[Leibniz unterscheidet zwei Arten von Maschinen: (i) Maschinen, die auch aus Teilen zusammengesetzt sind, welche selbst keine Maschinen sind, und (ii) Maschinen, die keine Teile enthalten, die selbst keine Maschine sind. Menschen können nur Maschinen der ersten Art schaffen, Gott auch Maschinen der zweiten Art. Alle Lebewesen sind nach Leibniz Maschinen der zweiten Art, d.h. "natürliche Maschinen."]]></summary>
         <author>
             <name>Alexandra Zinke</name>
         </author>
@@ -42,7 +42,7 @@
         <id>Leibniz: Der Raum ist nichts absolut Seiendes</id>
         <link href="https://argumentation.online/reconstructions/Zinke_ArgOnl-2020-06"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
+        <summary type="html"><![CDATA[Gemäß der "absoluten Konzeption des Raumes", ist der Raum etwas unabhängig Existierendes, eine Substanz, ein "Behälter" der Dinge, welcher von diesen nicht verändert wird. Diese Vorstellung wird gewöhnlich Newton zugeschrieben. Leibniz vertritt hingegen eine "relationale Konzeption des Raumes", in welcher der Raum nicht unabhängig von den Dingen existiert. Wir rekonstruieren ein Argument von Leibniz gegen die absolute Konzeption des Raumes.]]></summary>
         <author>
             <name>Alexandra Zinke</name>
         </author>
@@ -52,7 +52,7 @@
         <id>Anselm: Gottesbeweis (Proslogion 2)</id>
         <link href="https://argumentation.online/reconstructions/Zinke_ArgOnl-2020-07"/>
         <updated>2020-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
+        <summary type="html"><![CDATA[Anselm v. Canterburys Überlegung aus dem 11. Jh. ist der vielleicht bekannteste Versuch eines Gottesbeweises. In der Literatur finden sich zahlreiche, oft fein ausgearbeitete Rekonstruktions- und Formalisierungsvorschläge. Wir stellen hier lediglich eine grobe Rekonstruktion vor und verweisen den Leser auf weiterführende Literatur.]]></summary>
         <author>
             <name>Alexandra Zinke</name>
         </author>
@@ -62,7 +62,7 @@
         <id>David Hume: Das Ich</id>
         <link href="https://argumentation.online/reconstructions/Zinke_ArgOnl-2020-02"/>
         <updated>2020-04-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
+        <summary type="html"><![CDATA[Rekonstruiert wird eine viel diskutierte Passage aus David Humes "A Treatise of Human Nature", in welcher Hume sich gegen die zu seiner Zeit weit verbreitete Auffassung (z.B. bei Descartes, Locke, Berkeley) wendet, dass wir das eigene Selbst introspektiv wahrnehmen können.]]></summary>
         <author>
             <name>Alexandra Zinke</name>
         </author>
@@ -72,22 +72,9 @@
         <id>Robert Nozick -- Das "Experience Machine"-Argument gegen den Hedonismus</id>
         <link href="https://argumentation.online/reconstructions/Lanius_ArgOnl-2020-1"/>
         <updated>2020-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
+        <summary type="html"><![CDATA[Nozicks "Experience Machine" ist ein berühmtes Gedankenexperiment, in dem man die Wahl hat, sich an eine Maschine anzuschließen, um darin simulierte Glückserfahrungen zu machen. Es soll zeigen, dass sich niemand an eine solche Maschine anschließen würde und deshalb der Hedonismus falsch ist.]]></summary>
         <author>
             <name>David Lanius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alan Turing: Das religiöse Argument gegen maschinelle Intelligenz -- Muster]]></title>
-        <id>Alan Turing: Das religiöse Argument gegen maschinelle Intelligenz -- Muster</id>
-        <link href="https://argumentation.online/reconstructions/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER"/>
-        <updated>2018-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bibliographische Angaben]]></summary>
-        <author>
-            <name>Helena Bizet</name>
-        </author>
-        <author>
-            <name>Samuel Blume</name>
         </author>
     </entry>
 </feed>
