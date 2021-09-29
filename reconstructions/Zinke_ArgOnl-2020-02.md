@@ -1,6 +1,7 @@
 ---
 title: "David Hume: Das Ich"
 abstract: 'Rekonstruiert wird eine viel diskutierte Passage aus David Humes "A Treatise of Human Nature", in welcher Hume sich gegen die zu seiner Zeit weit verbreitete Auffassung (z.B. bei Descartes, Locke, Berkeley) wendet, dass wir das eigene Selbst introspektiv wahrnehmen können.'
+description: 'Rekonstruiert wird eine viel diskutierte Passage aus David Humes "A Treatise of Human Nature", in welcher Hume sich gegen die zu seiner Zeit weit verbreitete Auffassung (z.B. bei Descartes, Locke, Berkeley) wendet, dass wir das eigene Selbst introspektiv wahrnehmen können.'
 date: 2020-04-03
 authors:
   - name: Alexandra Zinke

@@ -3,6 +3,7 @@
 title: "Leibniz: Lebewesen"
 # Im Titel sollte der Name der Autor:in (deren Argument hier analysiert wird) und ein Inhaltshinweis stehen, z.B. "René Descartes: Das Traumargument" oder "Platon: Das Euthyphron-Dilemma".
 abstract: 'Leibniz unterscheidet zwei Arten von Maschinen: (i) Maschinen, die auch aus Teilen zusammengesetzt sind, welche selbst keine Maschinen sind, und (ii) Maschinen, die keine Teile enthalten, die selbst keine Maschine sind. Menschen können nur Maschinen der ersten Art schaffen, Gott auch Maschinen der zweiten Art. Alle Lebewesen sind nach Leibniz Maschinen der zweiten Art, d.h. "natürliche Maschinen."'
+description: 'Leibniz unterscheidet zwei Arten von Maschinen: (i) Maschinen, die auch aus Teilen zusammengesetzt sind, welche selbst keine Maschinen sind, und (ii) Maschinen, die keine Teile enthalten, die selbst keine Maschine sind. Menschen können nur Maschinen der ersten Art schaffen, Gott auch Maschinen der zweiten Art. Alle Lebewesen sind nach Leibniz Maschinen der zweiten Art, d.h. "natürliche Maschinen."'
 # Im Abstract sollte kurz umrissen werden, worum es im Argument geht und ggf. welche Besonderheiten die vorgetragene Rekonstruktion aufweist (etwa: Analogieargument). Umfang: 100-200 Wörter.
 date: 2020-04-04
 authors:

@@ -3,6 +3,7 @@
 title: "Anselm: Gottesbeweis (Proslogion 2)"
 # Im Titel sollte der Name der Autor:in (deren Argument hier analysiert wird) und ein Inhaltshinweis stehen, z.B. "René Descartes: Das Traumargument" oder "Platon: Das Euthyphron-Dilemma".
 abstract: "Anselm v. Canterburys Überlegung aus dem 11. Jh. ist der vielleicht bekannteste Versuch eines Gottesbeweises. In der Literatur finden sich zahlreiche, oft fein ausgearbeitete Rekonstruktions- und Formalisierungsvorschläge. Wir stellen hier lediglich eine grobe Rekonstruktion vor und verweisen den Leser auf weiterführende Literatur."
+description: "Anselm v. Canterburys Überlegung aus dem 11. Jh. ist der vielleicht bekannteste Versuch eines Gottesbeweises. In der Literatur finden sich zahlreiche, oft fein ausgearbeitete Rekonstruktions- und Formalisierungsvorschläge. Wir stellen hier lediglich eine grobe Rekonstruktion vor und verweisen den Leser auf weiterführende Literatur."
 # Im Abstract sollte kurz umrissen werden, worum es im Argument geht und ggf. welche Besonderheiten die vorgetragene Rekonstruktion aufweist (etwa: Analogieargument). Umfang: 100-200 Wörter.
 date: 2020-04-04
 authors:

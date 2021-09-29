@@ -4,6 +4,7 @@ title: "Immanuel Kant: Die Welt hat einen Anfang in der Zeit"
 # Im Titel sollte der Name der Autor:in (deren Argument hier analysiert wird) und ein Inhaltshinweis stehen, z.B. "René Descartes: Das Traumargument" oder "Platon: Das Euthyphron-Dilemma".
 abstract: "Rekonstruiert wird Kants Argument für die These, dass die Welt einen Anfang in der Zeit hat. Zusammen mit Kants Argument für die zugehörige Antithese -- dass die Welt keinen Anfang in der Zeit hat, -- bildet es die erste Antinomie der reinen Vernunft. (Wir ignorieren hier die entsprechenden Behauptungen für die Begrenztheit/Unbegrenztheit des Raumes.)"
 # Im Abstract sollte kurz umrissen werden, worum es im Argument geht und ggf. welche Besonderheiten die vorgetragene Rekonstruktion aufweist (etwa: Analogieargument). Umfang: 100-200 Wörter.
+description: "Rekonstruiert wird Kants Argument für die These, dass die Welt einen Anfang in der Zeit hat. Zusammen mit Kants Argument für die zugehörige Antithese -- dass die Welt keinen Anfang in der Zeit hat, -- bildet es die erste Antinomie der reinen Vernunft. (Wir ignorieren hier die entsprechenden Behauptungen für die Begrenztheit/Unbegrenztheit des Raumes.)"
 date: 2020-04-04
 authors:
   - name: Alexandra Zinke

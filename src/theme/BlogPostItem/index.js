@@ -57,6 +57,7 @@ function BlogPostItem(props) {
     tags,
     readingTime,
     title,
+    description,
     editUrl,
     authors,
   } = metadata;
@@ -131,10 +132,12 @@ function BlogPostItem(props) {
           })}
         />
       )}
-
-      <div className="markdown" itemProp="articleBody">
-        <MDXProvider components={MDXComponents}>{children}</MDXProvider>
-      </div>
+      <div className={`${styles.blogPostAbstract}`}>{description}</div>
+      {isBlogPostPage && (
+        <div className="markdown" itemProp="articleBody">
+          <MDXProvider components={MDXComponents}>{children}</MDXProvider>
+        </div>
+      )}
 
       {(tags.length > 0 || truncated) && (
         <footer
@@ -158,7 +161,7 @@ function BlogPostItem(props) {
             </div>
           )}
 
-          {!isBlogPostPage && truncated && (
+          {!isBlogPostPage && (
             <div className="col col--3 text--right">
               <Link
                 to={metadata.permalink}

@@ -6,7 +6,7 @@
  */
 
 .blogPostTitle {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .blogPostData {
@@ -15,4 +15,10 @@
 
 .blogPostDetailsFull {
   flex-direction: column;
+}
+.blogPostAbstract {
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
 }

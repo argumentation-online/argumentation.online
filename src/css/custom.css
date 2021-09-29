@@ -14,6 +14,7 @@
   --ifm-color-primary-lighter: #329dd8;
   --ifm-color-primary-lightest: #4fabdd;
   --ifm-code-font-size: 95%;
+  --ifm-h2-font-size: 1.5rem;
 }
 
 .docusaurus-highlight-code-line {
@@ -27,8 +28,6 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-element.style {
-}
 .navbar__title {
   flex: 1 1 auto;
   overflow: hidden;
@@ -46,7 +45,7 @@ user agent stylesheet b {
   padding-left: 0.2rem;
 }
 .margin-bottom--xl {
-  margin-bottom: 5rem !important;
+  margin-bottom: 3rem !important;
 }
 .react-toggle .react-toggle-track {
   background-color: var(--docsearch-searchbox-background);
@@ -57,4 +56,7 @@ article {
 }
 article:last-of-type {
   border-bottom: 0;
+}
+.markdown h2 {
+  --ifm-h2-font-size: 1.5rem;
 }

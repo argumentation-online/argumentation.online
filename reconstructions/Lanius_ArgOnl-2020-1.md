@@ -1,6 +1,7 @@
 ---
 title: 'Robert Nozick -- Das "Experience Machine"-Argument gegen den Hedonismus'
-abstract: Nozicks "Experience Machine" ist ein berühmtes Gedankenexperiment, in dem man die Wahl hat, sich an einen Maschine anzuschließen, um darin simulierte Glückserfahrungen zu machen. Es soll zeigen, dass sich niemand an eine solche Maschine anschließen würde und deshalb der Hedonismus falsch ist.
+abstract: Nozicks "Experience Machine" ist ein berühmtes Gedankenexperiment, in dem man die Wahl hat, sich an eine Maschine anzuschließen, um darin simulierte Glückserfahrungen zu machen. Es soll zeigen, dass sich niemand an eine solche Maschine anschließen würde und deshalb der Hedonismus falsch ist.
+description: Nozicks "Experience Machine" ist ein berühmtes Gedankenexperiment, in dem man die Wahl hat, sich an eine Maschine anzuschließen, um darin simulierte Glückserfahrungen zu machen. Es soll zeigen, dass sich niemand an eine solche Maschine anschließen würde und deshalb der Hedonismus falsch ist.
 date: 2020-04-01
 authors:
   - name: David Lanius

@@ -1,6 +1,7 @@
 ---
 title: "Leibniz: Der Raum ist nichts absolut Seiendes"
 abstract: 'Gemäß der "absoluten Konzeption des Raumes", ist der Raum etwas unabhängig Existierendes, eine Substanz, ein "Behälter" der Dinge, welcher von diesen nicht verändert wird. Diese Vorstellung wird gewöhnlich Newton zugeschrieben. Leibniz vertritt hingegen eine "relationale Konzeption des Raumes", in welcher der Raum nicht unabhängig von den Dingen existiert. Wir rekonstruieren ein Argument von Leibniz gegen die absolute Konzeption des Raumes.'
+description: 'Gemäß der "absoluten Konzeption des Raumes", ist der Raum etwas unabhängig Existierendes, eine Substanz, ein "Behälter" der Dinge, welcher von diesen nicht verändert wird. Diese Vorstellung wird gewöhnlich Newton zugeschrieben. Leibniz vertritt hingegen eine "relationale Konzeption des Raumes", in welcher der Raum nicht unabhängig von den Dingen existiert. Wir rekonstruieren ein Argument von Leibniz gegen die absolute Konzeption des Raumes.'
 date: 2020-04-04
 authors:
   - name: Alexandra Zinke
