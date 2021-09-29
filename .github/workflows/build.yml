@@ -24,17 +24,17 @@ jobs:
           for d in reconstructions/*/; do
             mkdir -p pdfs/$d
           done
-      - name: prepare en output directories
-        run: |
-          for d in ./i18n/en/docusaurus-plugin-content-blog/*/; do
-            mkdir -p pdfs/en/$d
-          done
+      # - name: prepare en output directories
+      #   run: |
+      #     for d in ./i18n/en/docusaurus-plugin-content-blog/*/; do
+      #       mkdir -p pdfs/en/$d
+      #     done
       - name: copy german files into tmp folder
         run: |
           cp -R ./reconstructions/. tmp-pandoc/
-      - name: copy english files into tmp folder
-        run: |
-          cp -R ./i18n/en/docusaurus-plugin-content-blog/. tmp-pandoc/en/
+      # - name: copy english files into tmp folder
+      #   run: |
+      #     cp -R ./i18n/en/docusaurus-plugin-content-blog/. tmp-pandoc/en/
       - name: replace authors with author in tmp files
         run: |
           find ./tmp-pandoc/ -type f -exec perl -i -w -0777pe 's/---.*\Kauthors:(?=.*---)/author:/s' {} +

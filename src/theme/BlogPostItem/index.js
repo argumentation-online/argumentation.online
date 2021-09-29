@@ -101,7 +101,8 @@ function BlogPostItem(props) {
           )}
         </div>
         <BlogPostAuthors authors={authors} assets={assets} />
-        <a href={defaultBaseUrl + "/pdfs/" + locale + slug + ".pdf"}>
+        {/* <a href={defaultBaseUrl + "/pdfs/" + locale + slug + ".pdf"}> */}
+        <a href={defaultBaseUrl + "/pdfs/" + slug + ".pdf"}>
           <Translate
             id="theme.blog.post.downloadPdf"
             description="The label used in the blog post header to link to the pdf file"
