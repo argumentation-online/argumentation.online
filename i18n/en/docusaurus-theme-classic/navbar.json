@@ -11,6 +11,10 @@
     "message": "Archive",
     "description": "Navbar item with label Archiv"
   },
+  "item.label.Neueste": {
+    "message": "Newest",
+    "description": "Navbar item with label Neueste"
+  },
   "item.label.Reconstructions": {
     "message": "Reconstructions",
     "description": "Navbar item with label Reconstructions"

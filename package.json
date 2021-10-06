@@ -7,6 +7,7 @@
     "start": "docusaurus start",
     "start-en": "docusaurus start --locale en",
     "build": "docusaurus build",
+    "build-en": "docusaurus build --locale en",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",

@@ -83,6 +83,7 @@ module.exports = {
             to: "/reconstructions",
             position: "left",
             items: [
+              { to: "/reconstructions", label: "Neueste" },
               { to: "/reconstructions/tags", label: "Tags" },
               { to: "/reconstructions/archive", label: "Archiv" },
             ],
