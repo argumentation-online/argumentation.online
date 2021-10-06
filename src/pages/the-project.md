@@ -26,11 +26,11 @@ Schlagen Sie ein Argument zur Analyse vor! (Bitte fügen Sie den entsprechenden 
 
 **Sie haben ein Argument rekonstruiert?**
 
-Reichen Sie Ihre Argumentrekonstruktion zur Veröffentlichung ein! ((Bitte benutzen Sie unsere [Markdown-Vorlage](link) oder [Word-Vorlage](link) und beachten Sie die darin enthaltenen Hinweise.) [→ kontakt](#kontakt)
+Reichen Sie Ihre Argumentrekonstruktion zur Veröffentlichung ein! (Bitte benutzen Sie unsere <a target="_blank" href="/resources/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER.md.zip">Markdown-Vorlage</a> oder [Word-Vorlage](/resources/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER.docx) und beachten Sie die darin enthaltenen Hinweise.) [→ kontakt](#kontakt)
 
 ## herausgeber:innen
 
-**Herausgeberkollegium:** Gregor Betz, Georg Brun, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
+**Herausgeberkollegium:** Gregor Betz, Georg Brun, Sonja Deppe, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
 
 **Geschäftsführende Herausgeber:innen:** Gregor Betz und Jonas Pfister.
 
