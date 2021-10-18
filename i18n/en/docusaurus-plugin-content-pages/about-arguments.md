@@ -1,53 +1,51 @@
-# FAQ Argumente und Argumentanalyse
+# FAQ Arguments and Argument Analysis
 
-TODO: translate into english
+## What is an argument?
 
-## Was ist ein Argument?
+An [argument](http://en.wikipedia.org/wiki/Argument) is a succession of statements such that some of these statements (the premises) infer another (the conclusion).
 
-Ein [Argument](http://de.wikipedia.org/wiki/Argument) ist eine Abfolge von Aussagen derart, dass einige der Aussagen (die Prämissen) eine andere (die Konklusion) begründen.
+## What is the purpose of arguments?
 
-## Wozu dienen Argumente?
+Arguments may be used for various purposes. They may, for instance, be used to draw conclusions, to give reasons for our beliefs and decisions, to search for the truth together with others, to convince someone, and to explain an event. Whether or not an argument is fit for such purposes depends on whether or not it is good.
 
-Die Zwecke, wofür Argumente verwendet werden, sind unterschiedlich. Sie können unter anderem dazu dienen, eine Schlussfolgerung zu ziehen, unsere Überzeugungen und Entscheidungen zu begründen, gemeinsam mit anderen nach einer Wahrheit zu suchen, jemanden von etwas zu überzeugen und ein Ereignis zu erklären. Ob ein Argument seinem Zweck dienlich ist, hängt davon ab, ob es tatsächlich gut ist.
+## What is a good argument?
 
-## Was ist ein gutes Argument?
+One can distinguish between the following questions:
 
-Zu unterscheiden sind die folgenden Fragen:
+1. Are the premises true?
+2. Is the conclusion true?
+3. Is the transition from the premises to the conclusion good?
 
-1. Sind die Prämissen wahr?
-2. Ist die Konklusion wahr?
-3. Ist der Übergang von den Prämissen zur Konklusion gut?
+Usually, a good argument is one for which the third question is answered affirmatively. Here, one can distinguish between deductive and non-deductive criteria. In a deductively valid argument, the conclusion follows from the premises, i.e. it is impossible for the conclusion to be false, while the premises are true. The validity of an argument only concerns the transition, not the actual truth or falsity of the premises. Nevertheless, we are usually interested in arguments that contain true premises. An argument that is deductively valid and only contains true premises is often called "sound". In a non-deductive strong argument, the conclusion does not follow from the premises. It can, however, still be a good argument, if the premises give good reasons for the truth of the conclusion.
 
-Spricht man von der Güte eines Arguments, so meint man zuweilen nur die Antwort auf diese dritte Frage. Hier unterscheidet man zwischen deduktiven und nicht-deduktiven Kriterien. In einem deduktiv gültigen Argument folgt die Konklusion aus den Prämissen, d.h. es ist unmöglich, dass die Konklusion falsch ist, und die Prämissen wahr sind. Die Gültigkeit des Arguments betrifft nur den Übergang, nicht die tatsächliche Wahrheit oder Falschheit der Prämissen. Nun sind wir aber meistens an Argumenten interessiert, die wahre Prämissen enthalten. Ist ein Argument deduktiv gültig und enthält nur wahre Prämissen, so nennt man das Argument „stichhaltig“. In einem nicht-deduktiv starken Argument folgt die Konklusion nicht aus den Prämissen, aber es kann dennoch ein gutes Argument sein, nämlich dann, wenn die Prämissen einen guten Grund für die Konklusion liefern.
+## What is an argument reconstruction?
 
-## Was ist eine Argumentrekonstruktion?
+Arguments are often presented in an incomplete, perhaps incomprehensible, and sometimes misleading way. In order to make an argument comprehensible and to evaluate it, it is often necessary to "reconstruct" it. In an argument reconstruction an existing argument, which is at best incomplete, is presented completely and in a standard form. In this standard form, all and only the necessary premises and the conclusion are formulated in complete sentences so that the transition between the premises and the conclusion is visible. This transition can be displayed in different ways, such as by "therefore" or "from this is follows", with a horizontal line  or sometimes simply by marking the premises and the conclusion as such.
 
-Argumente werden häufig nur lückenhaft, teils unverständlich und manchmal irreführend präsentiert. Um ein Argument verständlich zu machen und bewerten zu können, muss man es häufig zunächst „rekonstruieren“. In einer Argumentrekonstruktion wird ein bestehendes Argument, das allenfalls unvollständig ist, vollständig und in Standardform dargestellt. In der Standardform werden alle und nur die nötigen Prämissen und die Konklusion in vollständigen Sätzen formuliert und der Übergang zwischen Prämissen und Konklusion deutlich gemacht. Dieser Übergang wird unterschiedlich dargestellt, etwa mit "also" oder "daraus folgt", mit einem horizontalen Strich oder manchmal auch nur durch die Kennzeichnung der Prämissen und Konklusion als solche.
+## What is the purpose of an argument reconstruction?
 
-## Wozu dient eine Argumentrekonstruktion?
+The main purpose of an argument reconstruction is to display an argument completely, and to evaluate it regarding its validity (in the case of a deductive argument), its strength (in the case of a non-deductive argument), and its soundness. An argument reconstruction is an interpretation of a text or speech.
 
-Eine Argumentrekonstruktion dient in erster Linie dazu, ein Argument vollständig darzustellen, um es hinsichtlich seiner Gültigkeit (im Falle eines deduktiven Arguments) bzw. seiner Stärke (im Falle eines nicht-deduktiven Arguments) und hinsichtlich seiner Stichhaltigkeit zu beurteilen. Eine Argumentrekonstruktion ist eine Interpretation eines Textes oder einer Rede.
+## How to reconstruct an argument?
 
-## Wie geht man vor, um ein Argument zu rekonstruieren?
+It is best to begin an argument reconstruction by formulating the conclusion, that is, by answering the question: What is argued for? Then one can examine how the argument for this conclusion works, i.e. what premises are used. In some circumstances it might be necessary to reformulate existing sentences in a substantial way or to add to them. If the argument is incomplete, one has to add the missing premises. As soon as the first version of the argument is finished, one has to check whether one really has used all necessary premises in the reconstruction. One thus has to ask two questions: Are all of these premises necessary? Are all of the necessary premises included?
 
-Am besten beginnt man eine Argumentrekonstruktion damit, dass man die Konklusion formuliert, d.h. die Frage beantwortet: Wofür wird argumentiert? Dann untersucht man, wie dafür argumentiert wird, d.h. man sucht nach den Prämissen des Arguments. Unter Umständen muss man bestehende Sätze zum Teil stark umformulieren und ergänzen. Wenn das Argument unvollständig ist, so muss man die fehlenden Prämissen ergänzen. Sobald man eine erste Version des Arguments erstellt hat, muss man prüfen, ob man tatsächlich alle und nur die nötigen Prämissen in die Rekonstruktion aufgenommen hat. Man muss also die beiden Fragen stellen: Ist jede der Prämissen nötig? Sind alle nötigen Prämissen vorhanden?
+The exact formulation of the statements might require excellent skills of interpretation. One should further abide by the principle of charity. That is, one should not unneccesarily attribute false beliefs to the author, and one should reconstruct the argument, if possible, in a valid or inductively strong way. It should be noted that there is often more than one possible reconstruction of an argument and that the differences might be taken as a starting point for further discussions regarding interpretation.
 
-Die genaue Formulierung der Aussagen erfordert unter Umständen einiges an Interpretationsgeschick. Dabei sollte man sich von dem Prinzip der wohlwollenden Interpretation leiten lassen: Man sollte dem Autor des Arguments nicht unnötigerweise falsche Überzeugungen zuschreiben, und man sollte das Argument möglichst als gültig oder induktiv stark rekonstruieren. Zu beachten ist, dass es vielfach mehr als nur eine mögliche Rekonstruktion eines Arguments gibt, und dass die Unterschiede unter Umständen Ausgangspunkt für weitere Interpretationsdiskussionen sein können.
+## Where to find more about argument reconstructions?
 
-## Wo kann man weitere Hinweise zum Rekonstruieren von Argumenten finden?
-
-Weitere Hinweise zur Argumentrekonstruktion findet man auf Deutsch zum Beispiel in den folgenden Büchern:
+Further literature regarding argument reconstructions can be found in these German books:
 
 - Brun, Georg/ Hirsch Hadorn, Gertrude (2009): _Textanalyse in den Wissenschaften. Inhalte und Argumente analysieren und verstehen._ Stuttgart: UTB.
 - Pfister, Jonas (2013): _Werkzeuge des Philosophierens._ Stuttgart: Reclam.
 - Tetens, Holm (2006): _Philosophisches Argumentieren. Eine Einführung._ 2. durchgesehene Auflage, München: Beck.
 
-und auf Englisch zum Beispiel in den folgenden Büchern:
+and in these English books:
 
 - Bowell, Tracy/ Kemp, Gary (2002): _Critical Thinking: A concise guide._ London/ New York: Routledge.
 - Feldman, Richard (2014): _Reason and Argument._ Harlow: Pearson.
 
-Empfehlenswerte Webseiten:
+Recommended Websites:
 
-- [Critical Thinking Web](https://philosophy.hku.hk/think/) – mit mehr als 100 Übungen zum kritischen Denken.
-- [Argdown](http://argdown.org) – ein einfacher Syntax zur Darstellung und Visualisierung komplexer Argumentation.
+- [Critical Thinking Web](https://philosophy.hku.hk/think/) – with more than 100 exercises in critical thinking.
+- [Argdown](http://argdown.org) – an easy syntax for the presentation and visualization of complex argumentation.
