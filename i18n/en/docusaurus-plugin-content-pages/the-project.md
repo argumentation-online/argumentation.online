@@ -1,43 +1,43 @@
 ---
-title: Über das Projekt
+title: About the Project
 ---
 
-# Über das Projekt
+# About the project
 
-_argumentation.online_ sammelt, begutachtet und veröffentlicht hochwertige Argumentrekonstruktionen.
+_argumentation.online_ collects, evaluates, and publishes high-quality argument reconstructions.
 
-## argumentieren lernen
+## Learning how to argue
 
-_argumentation.online_ will dazu beitragen, Argumentanalyse zu lehren und zu lernen. Dem liegt die Annahme zur Grunde, dass man nur dann besser darin wird, Argumente zu verstehen, wenn man viele gute Beispielrekonstruktionen diskutiert und sich vor allem immer wieder auf eigene Faust daran versucht. Siehe auch unser [FAQ Argumente und Argumentanalyse](faq/).
+_argumentation.online_ seeks to contribute to the teaching of and the education about argument analysis. This is based on the assumption that one can only increase one's ability to understand arguments by discussing a number of exemplary reconstructions and even more so by attempting to produce such reconstructions oneself. See also our [FAQ arguments and argument analysis](faq/).
 
-## frei verwendbar
+## Free to use
 
-Die Rekonstruktionen verschiedener Schwierigkeitsgrade sind unter der Creative Commons Lizenz ([CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)) veröffentlicht und können daher entgeltfrei für Bildungszwecke gebraucht werden – sei es von Lehrkräften an Schulen oder Universitäten, von Schüler:innen oder Student:innen. Bitte achten Sie auf eine [vollständige Quellenangabe](https://www.academics.de/ratgeber/zitierregeln-wissenschaft-korrekt-zitieren).
+The reconstructions of various levels of difficulty are published under a Creative Commons Lizenz ([CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)) and can thus be used free of charge for educational purposes – be it by teaching staff at schools or universities or by students at such institutions. Please make sure, however, to include a [complete citation](https://www.academics.de/ratgeber/zitierregeln-wissenschaft-korrekt-zitieren).
 
-## thematisch breit
+## Wide range of topics
 
-Thematisch gibt es für die auf _argumentation.online_ veröffentlichten Argumente keine Einschränkung; faktisch stammen die meisten hier analysierten Argumente derzeit aus philosophischen Texten. Methodisch trägt _argumantation.online_ der Vielfalt argumentationstheoretischer Ansätze Rechnung und versammelt sowohl informelle Rekonstruktionen als auch streng formale Analysen.
+There is no restriction as far as the topics of the arguments go that are published on _argumentation.online_; as it stands, however, most of the arguments currently analysed here come from philosophical texts. In terms of methods, _argumentation.online_ takes into account the diversity og theoretical approaches to arguments and unites both informal reconstructions as well as strictly formal analyses.
 
-## mitmachen
+## Participate
 
-**Sie werden bei der Suche nach einem bestimmten Argument nicht fündig?**
+**You cannot find a particular argument?**
 
-Schlagen Sie ein Argument zur Analyse vor! (Bitte fügen Sie den entsprechenden Textabschnitt Ihrem Vorschlag bei.) [→ kontakt](#kontakt)
+Submit an argument for analysis! (Please include the relevant text passage in your submission.) [→ contact](#Contact)
 
-**Sie haben ein Argument rekonstruiert?**
+**You have reconstructed an argument?**
 
-Reichen Sie Ihre Argumentrekonstruktion zur Veröffentlichung ein! ((Bitte benutzen Sie unsere [Markdown-Vorlage](link) oder [Word-Vorlage](link) und beachten Sie die darin enthaltenen Hinweise.) [→ kontakt](#kontakt)
+Send in your argument reconstruction for publication! (Please use our [Markdown Template](link) or [Word Template](link) and take note of the information they contain.) [→ contact](#Contact)
 
-## herausgeber:innen
+## Editors
 
-**Herausgeberkollegium:** Gregor Betz, Georg Brun, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
+**Council of Editors:** Gregor Betz, Georg Brun, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
 
-**Geschäftsführende Herausgeber:innen:** Gregor Betz und Jonas Pfister.
+**Managing Editors:** Gregor Betz und Jonas Pfister.
 
-Inspiriert von _Just the Arguments. 100 of the Most Important Arguments in Western Philosophy_ (hrsg. von Micheal Bruce und Steven Barbone, Chichester: Wiley-Blackwell, 2011), ist die Idee zu _argumentation.online_ im Rahmen des [DFG-Forschungsnetzwerks „Argumentieren in der Schule“](link) entstanden und wird dort weiterentwickelt.
+Inspired by _Just the Arguments. 100 of the Most Important Arguments in Western Philosophy_ (ed. by Micheal Bruce and Steven Barbone, Chichester: Wiley-Blackwell, 2011), the idea for _argumentation.online_ originated during the [DFG Research Network „Argumentieren in der Schule“ ("Arguing at School")](link) and it continues to be developed there.
 
-## kontakt
+## Contact
 
-Für Einreichungen: [einreichung@argumentation.online](mailto:einreichung@argumentation.online)
+For submissions: [einreichung@argumentation.online](mailto:einreichung@argumentation.online)
 
-Für Vorschläge und weitere Anfragen: [kontakt@argumentation.online](mailto:kontakt@argumentation.online)
+For suggestions and further questions: [kontakt@argumentation.online](mailto:kontakt@argumentation.online)
