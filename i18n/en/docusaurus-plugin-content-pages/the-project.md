@@ -26,7 +26,7 @@ Submit an argument for analysis! (Please include the relevant text passage in yo
 
 **You have reconstructed an argument?**
 
-Send in your argument reconstruction for publication! (Please use our [Markdown Template](link) or [Word Template](link) and take note of the information they contain.) [→ contact](#Contact)
+Submit your argument reconstruction for publication! (Please do so, preferably, via our [Online-Form](https://forms.gle/TfHWZUELvRNJT14s5); alternatively, you may use the <a target="_blank" href="/resources/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER.md.zip">Markdown-Template</a> or [Word-Template](/resources/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER.docx) which contain detailed submission instructions.) [→ contact](#Contact)
 
 ## Editors
 
@@ -38,6 +38,6 @@ Inspired by _Just the Arguments. 100 of the Most Important Arguments in Western 
 
 ## Contact
 
-For submissions: [submission@argumentation.online](mailto:submission@argumentation.online)
+For submissions: [Online-Form](https://forms.gle/TfHWZUELvRNJT14s5) and [submission@argumentation.online](mailto:submission@argumentation.online)
 
 For suggestions and further questions: [info@argumentation.online](mailto:info@argumentation.online)

@@ -26,7 +26,7 @@ Schlagen Sie ein Argument zur Analyse vor! (Bitte fügen Sie den entsprechenden 
 
 **Sie haben ein Argument rekonstruiert?**
 
-Reichen Sie Ihre Argumentrekonstruktion zur Veröffentlichung ein! (Bitte benutzen Sie unsere <a target="_blank" href="/resources/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER.md.zip">Markdown-Vorlage</a> oder [Word-Vorlage](/resources/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER.docx) und beachten Sie die darin enthaltenen Hinweise.) [→ kontakt](#kontakt)
+Reichen Sie Ihre Argumentrekonstruktion zur Veröffentlichung ein! (Bitte verwenden Sie dafür bevorzugt unser [Online-Formular](https://forms.gle/TfHWZUELvRNJT14s5); alternativ können Sie eine <a target="_blank" href="/resources/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER.md.zip">Markdown-Vorlage</a> oder [Word-Vorlage](/resources/AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER.docx) benutzen, beachten Sie dabei die darin enthaltenen Hinweise.) [→ kontakt](#kontakt)
 
 ## herausgeber:innen
 
@@ -38,6 +38,6 @@ Inspiriert von _Just the Arguments. 100 of the Most Important Arguments in Weste
 
 ## kontakt
 
-Für Einreichungen: [einreichung@argumentation.online](mailto:einreichung@argumentation.online)
+Für Einreichungen: [Online-Formular](https://forms.gle/TfHWZUELvRNJT14s5) und [einreichung@argumentation.online](mailto:einreichung@argumentation.online)
 
 Für Vorschläge und weitere Anfragen: [kontakt@argumentation.online](mailto:kontakt@argumentation.online)
