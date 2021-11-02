@@ -34,7 +34,7 @@ Submit your argument reconstruction for publication! (Please do so, preferably, 
 
 **Managing Editors:** Gregor Betz und Jonas Pfister.
 
-Inspired by _Just the Arguments. 100 of the Most Important Arguments in Western Philosophy_ (ed. by Micheal Bruce and Steven Barbone, Chichester: Wiley-Blackwell, 2011), the idea for _argumentation.online_ originated at the [DFG Research Network „Argumentieren in der Schule“ ("Arguing at School")](link), where it is still discussed and further improved.
+Inspired by _Just the Arguments. 100 of the Most Important Arguments in Western Philosophy_ (ed. by Micheal Bruce and Steven Barbone, Chichester: Wiley-Blackwell, 2011), the idea for _argumentation.online_ originated at the [DFG Research Network „Argumentieren in der Schule“ ("Arguing at School")](https://blogs.phil.hhu.de/argumentiereninderschule/), where it is still discussed and further improved.
 
 ## Contact
 
