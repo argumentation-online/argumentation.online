@@ -34,7 +34,7 @@ Reichen Sie Ihre Argumentrekonstruktion zur Veröffentlichung ein! (Bitte verwen
 
 **Geschäftsführende Herausgeber:innen:** Gregor Betz und Jonas Pfister.
 
-Inspiriert von _Just the Arguments. 100 of the Most Important Arguments in Western Philosophy_ (hrsg. von Micheal Bruce und Steven Barbone, Chichester: Wiley-Blackwell, 2011), ist die Idee zu _argumentation.online_ im Rahmen des [DFG-Forschungsnetzwerks „Argumentieren in der Schule“](https://blogs.phil.hhu.de/argumentiereninderschule/) entstanden und wird dort weiterentwickelt.
+Inspiriert von _Just the Arguments. 100 of the Most Important Arguments in Western Philosophy_ (hrsg. von Michael Bruce und Steven Barbone, Chichester: Wiley-Blackwell, 2011), ist die Idee zu _argumentation.online_ im Rahmen des [DFG-Forschungsnetzwerks „Argumentieren in der Schule“](https://blogs.phil.hhu.de/argumentiereninderschule/) entstanden und wird dort weiterentwickelt.
 
 ## kontakt
 
