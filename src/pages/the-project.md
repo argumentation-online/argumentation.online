@@ -16,7 +16,7 @@ Die Rekonstruktionen verschiedener Schwierigkeitsgrade sind unter der Creative C
 
 ## thematisch breit
 
-Thematisch gibt es für die auf _argumentation.online_ veröffentlichten Argumente keine Einschränkung; faktisch stammen die meisten hier analysierten Argumente derzeit aus philosophischen Texten. Methodisch trägt _argumantation.online_ der Vielfalt argumentationstheoretischer Ansätze Rechnung und versammelt sowohl informelle Rekonstruktionen als auch streng formale Analysen.
+Thematisch gibt es für die auf _argumentation.online_ veröffentlichten Argumente keine Einschränkung; faktisch stammen die meisten hier analysierten Argumente derzeit aus philosophischen Texten. Methodisch trägt _argumentation.online_ der Vielfalt argumentationstheoretischer Ansätze Rechnung und versammelt sowohl informelle Rekonstruktionen als auch streng formale Analysen.
 
 ## mitmachen
 
