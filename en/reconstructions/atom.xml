@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://argumentation.online/en/reconstructions</id>
     <title>argumentation.online Blog</title>
-    <updated>2020-04-04T00:00:00.000Z</updated>
+    <updated>2021-12-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://argumentation.online/en/reconstructions"/>
     <subtitle>argumentation.online Blog</subtitle>
     <icon>https://argumentation.online/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Friedrich Nietzsche: Fragment über die Logik]]></title>
+        <id>Friedrich Nietzsche: Fragment über die Logik</id>
+        <link href="https://argumentation.online/en/reconstructions/Loewenstein_ArgOnl-2021-01"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dieses Fragment aus dem Nachlass Friedrich Nietzsches behandelt die Frage nach dem Status des Satzes vom Widerspruch im Besonderen und der Logik im Allgemeinen. Er argumentiert für die Auffassung, dass die Logik keine deskritive, sondern eine normative Rolle spielt.]]></summary>
+        <author>
+            <name>David Löwenstein</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Immanuel Kant: Die Welt hat einen Anfang in der Zeit]]></title>
         <id>Immanuel Kant: Die Welt hat einen Anfang in der Zeit</id>

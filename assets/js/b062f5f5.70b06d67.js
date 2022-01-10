@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[162],{6171:function(s){s.exports=JSON.parse('{"allTagsPath":"/reconstructions/tags","slug":"/reconstructions/tags/disjunktiver-syllogismus","name":"Disjunktiver Syllogismus","count":1,"permalink":"/reconstructions/tags/disjunktiver-syllogismus"}')}}]);

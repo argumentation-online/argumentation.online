@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[3776],{2949:function(t){t.exports=JSON.parse('{"allTagsPath":"/reconstructions/tags","slug":"/reconstructions/tags/aristoteles","name":"Aristoteles","count":1,"permalink":"/reconstructions/tags/aristoteles"}')}}]);

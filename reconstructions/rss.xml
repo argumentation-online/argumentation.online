@@ -4,9 +4,16 @@
         <title>argumentation.online Blog</title>
         <link>https://argumentation.online/reconstructions</link>
         <description>argumentation.online Blog</description>
-        <lastBuildDate>Sat, 04 Apr 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Friedrich Nietzsche: Fragment über die Logik]]></title>
+            <link>https://argumentation.online/reconstructions/Loewenstein_ArgOnl-2021-01</link>
+            <guid>Friedrich Nietzsche: Fragment über die Logik</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dieses Fragment aus dem Nachlass Friedrich Nietzsches behandelt die Frage nach dem Status des Satzes vom Widerspruch im Besonderen und der Logik im Allgemeinen. Er argumentiert für die Auffassung, dass die Logik keine deskritive, sondern eine normative Rolle spielt.]]></description>
+        </item>
         <item>
             <title><![CDATA[Immanuel Kant: Die Welt hat einen Anfang in der Zeit]]></title>
             <link>https://argumentation.online/reconstructions/Zinke_ArgOnl-2020-03</link>

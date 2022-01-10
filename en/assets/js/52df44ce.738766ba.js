@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5e3],{4867:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/reconstructions/tags","slug":"/en/reconstructions/tags/satz-vom-widerspruch","name":"Satz vom Widerspruch","count":1,"permalink":"/en/reconstructions/tags/satz-vom-widerspruch"}')}}]);

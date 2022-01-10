@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9593],{6115:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/reconstructions/tags","slug":"/en/reconstructions/tags/modus-tollens","name":"Modus Tollens","count":1,"permalink":"/en/reconstructions/tags/modus-tollens"}')}}]);
