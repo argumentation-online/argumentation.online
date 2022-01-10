@@ -2,7 +2,7 @@
 title: 'Friedrich Nietzsche: Fragment über die Logik' 
 description: 'Dieses Fragment aus dem Nachlass Friedrich Nietzsches behandelt die Frage nach dem Status des Satzes vom Widerspruch im Besonderen und der Logik im Allgemeinen. Er argumentiert für die Auffassung, dass die Logik keine deskritive, sondern eine normative Rolle spielt.'  
 date: 2021-12-16
-author: 
+authors: 
   - name: David Löwenstein
     affiliation: Heinrich-Heine-Universität Düsseldorf
     email: loewenstein@hhu.de
@@ -20,7 +20,6 @@ tags:
   - Modus Tollendo Ponens
 lang: de
 id: Loewenstein_ArgOnl-2021-01
-layout: layouts/post.njk
 ---
 
 
