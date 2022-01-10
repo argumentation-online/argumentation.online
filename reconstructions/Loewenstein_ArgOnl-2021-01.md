@@ -20,6 +20,7 @@ tags:
   - Modus Tollendo Ponens
 lang: de
 id: Loewenstein_ArgOnl-2021-01
+layout: layouts/post.njk
 ---
 
 
