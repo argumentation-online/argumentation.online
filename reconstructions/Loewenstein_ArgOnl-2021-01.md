@@ -1,5 +1,6 @@
 ---
 title: 'Friedrich Nietzsche: Fragment über die Logik' 
+abstract: 'Dieses Fragment aus dem Nachlass Friedrich Nietzsches behandelt die Frage nach dem Status des Satzes vom Widerspruch im Besonderen und der Logik im Allgemeinen. Er argumentiert für die Auffassung, dass die Logik keine deskritive, sondern eine normative Rolle spielt.'  
 description: 'Dieses Fragment aus dem Nachlass Friedrich Nietzsches behandelt die Frage nach dem Status des Satzes vom Widerspruch im Besonderen und der Logik im Allgemeinen. Er argumentiert für die Auffassung, dass die Logik keine deskritive, sondern eine normative Rolle spielt.'  
 date: 2021-12-16
 authors: 
