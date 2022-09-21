@@ -8,7 +8,7 @@ _argumentation.online_ collects, evaluates, and publishes high-quality argument 
 
 ## Learning how to argue
 
-_argumentation.online_ seeks to facilitate learning and to support teaching of argument analysis. This is based on the assumption that one can only increase one's ability to understand arguments by discussing a number of exemplary reconstructions and even more so by attempting to produce such reconstructions oneself. See also our [FAQ arguments and argument analysis](faq/).
+_argumentation.online_ seeks to facilitate learning and to support teaching of argument analysis. This is based on the assumption that one can only increase one's ability to understand arguments by discussing a number of exemplary reconstructions and even more so by attempting to produce such reconstructions oneself. See also our [FAQ arguments and argument analysis](/about-arguments).
 
 ## Open access
 
