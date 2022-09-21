@@ -30,7 +30,7 @@ Submit your argument reconstruction for publication! (Please do so, preferably, 
 
 ## Editors
 
-**Board of Editors:** J.G. Sandt (pseudonym), i.e., Gregor Betz, Georg Brun, Sonja Deppe, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
+**Board of Editors:** Gregor Betz, Georg Brun, Sonja Deppe, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
 
 **Managing Editors:** Gregor Betz und Jonas Pfister.
 
