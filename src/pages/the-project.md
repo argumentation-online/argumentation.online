@@ -8,7 +8,7 @@ _argumentation.online_ sammelt, begutachtet und veröffentlicht hochwertige Argu
 
 ## argumentieren lernen
 
-_argumentation.online_ will dazu beitragen, Argumentanalyse zu lehren und zu lernen. Dem liegt die Annahme zur Grunde, dass man nur dann besser darin wird, Argumente zu verstehen, wenn man viele gute Beispielrekonstruktionen diskutiert und sich vor allem immer wieder auf eigene Faust daran versucht. Siehe auch unser [FAQ Argumente und Argumentanalyse](faq/).
+_argumentation.online_ will dazu beitragen, Argumentanalyse zu lehren und zu lernen. Dem liegt die Annahme zur Grunde, dass man nur dann besser darin wird, Argumente zu verstehen, wenn man viele gute Beispielrekonstruktionen diskutiert und sich vor allem immer wieder auf eigene Faust daran versucht. Siehe auch unser [FAQ Argumente und Argumentanalyse](/about-arguments).
 
 ## frei verwendbar
 
