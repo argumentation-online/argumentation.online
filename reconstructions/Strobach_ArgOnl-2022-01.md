@@ -1,128 +1,88 @@
 ---
-title: 'Chrysipp: Der stoische Hund'
-description: 'Die Philosophen der älteren Stoa hatten eine Aussagenlogik, die der heutigen klassischen Aussagenlogik recht ähnlich ist (einführend: Strobach 2019, 44-49). Sie orientierten sich beim Argumentieren an dieser Logik, was zu Argumenten von großer Klarheit führte. Von einem der frühesten Stoiker, Chrysipp (ca. 280 – ca. 208 v. Chr.), ist ein bemerkenswertes Argument für eine Konklusion überliefert, welche die Stoiker selbst als These vertraten: Manche Tiere (außer dem Menschen) sind zu logischem Denken in der Lage. Das Argument ist bis zum heutigen Tag systematisch bedeutend, indem es zum Nachdenken über die Frage anregt, ob, und falls ja, wie Tiere denken können (Perler/Wild 2005).'
+title: 'Frank Jackson: Mary'
+abstract: 'Weil der australische Philosoph Frank Jackson der Hauptfigur einer kleinen Geschichte den Allerweltsnamen „Mary“ gegeben hat, ist das Argument, das diese Geschichte illustrieren soll, als Mary-Argument (oder, kürzer, Mary) bekannt. Es ist eines der berühmtesten Argumente in der Philosophie des Geistes (philosophy of mind) geworden, obwohl Jackson es selbst später skeptisch gesehen hat. Es ist ein Argument gegen eine Position, die den Namen „Physikalismus“ („physicalism“) trägt. Aus dem Argument geht nebenbei recht gut verständlich hervor, worin diese Position besteht.'
+description: 'Weil der australische Philosoph Frank Jackson der Hauptfigur einer kleinen Geschichte den Allerweltsnamen „Mary“ gegeben hat, ist das Argument, das diese Geschichte illustrieren soll, als Mary-Argument (oder, kürzer, Mary) bekannt. Es ist eines der berühmtesten Argumente in der Philosophie des Geistes (philosophy of mind) geworden, obwohl Jackson es selbst später skeptisch gesehen hat. Es ist ein Argument gegen eine Position, die den Namen „Physikalismus“ („physicalism“) trägt. Aus dem Argument geht nebenbei recht gut verständlich hervor, worin diese Position besteht.'
 date: 2022-10-14
 authors:
   - name: Niko Strobach
     affiliation: WWU Münster
     email: nstro_01@uni-muenster.de
 tags:
-  - Chrysipp
-  - Stoa
-  - Tiere
-  - Logik
+  - Jackson
+  - Mary
+  - Physikalismus
+  - Philosophie des Geistes
 lang: de
 id: Strobach_ArgOnl-2022-01
 ---
 
 ## Bibliographische Angaben
 
-Das Argument des Chrysipp über den logisch schließenden Hund findet sich als Fragment 36E in Long/Sedley (1987) sowie in Hülser (1987). Es ist überliefert beim antiken Skeptiker Sextus Empiricus (*Grundriß der pyrrhonischen Skepsis*, I 69). Hier verwendete Übersetzung: Malte Hossenfelder. Auslassungen und Ergänzungen in eckigen Klammern: Niko Strobach. Auf eine Wiedergabe des griechischen Originals wird verzichtet.
+Frank Jackson, Journal of Philosophy, 83/5 (1986), 291-295 \[[PhilPapers](https://philpapers.org/rec/JACWMD)\] \[[DOI](https://doi.org/10.2307/2026143)\]
 
 ## Textstelle
 
-Die Stelle lautet:
+Jacksons Argument lautet:
 
->Nach Chrysipp [...] hat der Hund sogar an der vielgepriesenen Dialektik teil. Jedenfalls behauptet Chrysipp, der Hund wende das fünfte mehrgliedrige unbewiesene Argument an, wenn er an einen Dreiweg kommt und nach dem Spüren auf den zwei Wegen, die das Wild nicht entlang gelaufen sei, sofort den dritten entlang stürme, ohne hier überhaupt gespürt zu haben. Er schließe nämlich [...] dem Sinne nach (*dynámei*) folgendermaßen: „Das Wild ist entweder hier oder hier oder hier entlang gelaufen. Weder aber hier noch hier. Also hier.“  
-
-Das griechische Äquivalent zu „Hund“ („*kyôn*“) findet sich zwar nicht an der Textstelle selbst, kann aber sicher ergänzt werden, da ihr Kontext eine Passage über die Fähigkeiten von Hunden ist.
+> „Mary is confined to a black-and-white room, is educated through black-and-white books and through lectures relayed on black-and-white television. In this way she learns everything there is to know about the physical nature of the world. She knows all the physical facts about us and our environment, in a wider sense of “physical” which includes everything in completed physics, chemistry and neurophysiology [...]. **If physicalism is true, she knows all there is to know.** […] It seems, however, that **Mary does not know all there is to know**. For when she is let out of the black-and-white room or given a color television, she will learn what it is like to see something red, say. This is rightly described as *learning* – she will not say ‘ho, hum.’ **Hence, physicalism is false**.”
 
 ## Argumentrekonstruktion
 
-Das Argument hat die Struktur eines doppelten *modus ponens*. Der *modus ponens* ist eine Schlussform, welche die Stoiker akzeptierten: Wenn p, dann q; nun aber p; also q.
+Es scheint auf den ersten Blick so, dass das Mary-Argument ein ganz einfach gebautes Argument ist, nämlich ein so genannter *modus tollens*, kurz *m.t.*: Wenn p, dann q; nun aber nicht q; also nicht p. 
 
-* P1: Wenn es einen Hund gibt, der einen *disjunktiven modus tollens* mit drei Fällen anwendet, dann gibt es ist wenigstens einen Hund, der zu logischem Denken in der Lage ist (er „nimmt an der vielgepriesenen Dialektik teil“).
-* P2:	Wenn es einen (Jagd-) Hund gibt, der an einer dreifachen Weggabelung, nachdem er in zwei Wege geschnüffelt hat, die das verfolgte Tier nicht genommen hat, ohne weiteres Schnüffeln in den dritten Weg läuft, *dann* gibt es einen Hund, der den *disjunktiven modus tollens* mit drei Fällen (Entweder p oder q oder r; nun aber weder p noch q; also r) anwendet.
-* P3:	Es gibt einen Hund, der an einer dreifachen Weggabelung, nachdem er in zwei Wege geschnüffelt hat, die das verfolgte Tier nicht genommen hat, ohne weiteres Schnüffeln in den dritten Weg läuft.
-* Z1:	Es gibt einen Hund, der einen *disjunktiven modus tollens* mit drei Fällen anwendet. (aus P2 und P3 mit *modus ponens*)
-* K: Es gibt es ist wenigstens einen Hund, der zu logischem Denken in der Lage ist. (aus P1 und Z1 mit *modus ponens*)
+Rekonstruktionsversuch
+
+Prämisse 1: Wenn der Physikalismus wahr ist, weiß Mary alles, was es zu wissen gibt.  
+Prämisse 2: Mary weiß nicht alles, was es zu wissen gibt.  
+Konklusion: Der Physikalismus ist nicht wahr. (*modus tollens* aus P1, P2)
+
+Der *modus tollens* wird für gewöhnlich als gültig anerkannt und ist auch ein gültiger Schluss der klassischen Aussagenlogik. Dieser erste Rekonstruktionsversuch fängt zwar schon wichtige Elemente des Textes ein. Aber er berücksichtigt einen Punkt nicht, der doch zum Kern des Arguments gehört: das Lernen. Es ist daher besser, eine etwas kompliziertere Rekonstruktion vorzunehmen, in der dieser Punkt berücksichtigt ist. In ihr ist der *modus tollens* kombiniert mit einem so genannten *modus ponens*, kurz *m.p.*: Wenn p, dann q; nun aber p; also q.
+
+Rekonstruktion
+
+Prämisse 1: Wenn der Physikalismus wahr ist, weiß Mary alles, was es zu wissen gibt.  
+Prämisse 2a: Wenn Mary etwas lernt, dann weiß Mary nicht alles, was es zu wissen gibt.  
+Prämisse 3: Mary lernt etwas.  
+Zwischenkonklusion Z: Mary weiß nicht alles, was es zu wissen gibt. (*m.p.* aus P2a, P3)  
+Konklusion: Der Physikalismus ist nicht wahr. (*m.t.* aus P1, Z)
+ 
+Der *modus ponens* wird gewöhnlich ebenfalls als gültig anerkannt und ist auch ein gültiger Schluss der klassischen Aussagenlogik.
 
 ## Kommentar
 
-Die Rekonstruktion bedient sich einer aussagenlogischen Schlussformel, die die Stoiker akzeptierten und die auch in der klassischen Aussagenlogik gelten. Die Rekonstruktion ist deduktiv gültig. Ist sie auch stichhaltig? Dafür müssten alle Prämissen wahr sein. Chrysipp hat sie offenbar für wahr gehalten. Aber sind sie das? Es ist sinnvoll, die Prämissen in umgekehrter Reihenfolge zu betrachten.
+An der deduktiven Gültigkeit besteht kein Zweifel. Die Frage ist, ob das Argument auch stichhaltig ist. Das ist so, falls es nicht nur deduktiv gültig ist, sondern auch seine Prämissen wahr sind.
 
-P3 ist eine empirische Prämisse. Um ihre Wahrheit zu etablieren, muss man einen Hund finden, der das in P3 beschriebene Verhalten auch wirklich an den Tag legt. Dabei muss man Beobachtungsfehler sorgfältig vermeiden. Sieht man (am besten, wenn man die Aufnahme eines Experiments in Zeitlupe ansieht) genau, dass der Hund in die ersten beiden Wege schnüffelt? Dass er in den dritten nicht hineinschnüffelt? Man muss sich davor hüten, P3 einfach zu glauben, weil man das Vorurteil hat, dass Hunde viel können. Chrysipp formuliert P3 vorbildlich: Es ergibt sich aus seiner Beschreibung genau, wie ein Experiment zum Test von P3 aussehen würde. Die Antwort auf die Frage, ob P3 wahr ist, lautet also: Schauen wir!
+Um sich fragen zu können, ob die Prämissen wahr sind, muss man sie zunächst inhaltlich verstehen. Dafür muss man ungefähr wissen, was das Wort „Physikalismus“ bedeutet. Man kann das indirekt den ersten Sätzen des zitierten Textes entnehmen: Physikalismus ist die These, dass alles physikalisch ist. Etwas genauer gesagt: Physikalismus ist die These, dass alle Tatsachen (Fakten) physikalische Tatsachen sind. Daraus folgt: Wenn der Physikalismus wahr ist, dann kennt jemand, der alle physikalischen Tatsachen kennt, überhaupt alle Tatsachen. Zurzeit sind längst nicht alle physikalischen Tatsachen bekannt. Das berücksichtigt Jackson, indem er die physikalischen Tatsachen in einem weiten Sinn charakterisiert: als diejenigen Tatsachen, die eine dereinst vollendete Naturwissenschaft, die Physik, Chemie und Neurowissenschaft vereinigt, erkannt haben wird.
 
-Übrigens mag man sich fragen, ob die oben vorgenommene Rekonstruktion angemessen ist, wenn die Wahrheit von P3 nur das beschriebene Verhalten eines einzigen Hundes verlangt. Soll für das, was Chrysipp behauptet, einmal hinreichen oder soll wenigstens ein Hund dies üblicherweise tun? Will Chrysipp nicht etwas über arttypisches Verhalten von Hunden sagen? Dann sollte man das Experiment wohl mit vielen Hunden machen. Man mag deshalb eine formal ganz parallele Rekonstruktion erwägen, in der das Gegenstück zu P3 lautet:
+Da das Argument gültig ist, muss ein Verteidiger des Physikalismus, der seine Stichhaltigkeit bestreitet, wenigstens eine der Prämissen bestreiten. Hier gibt es verschiedene Möglichkeiten.
 
-* P3‘: Hunde, die an einer dreifachen Weggabelung, nachdem sie in zwei Wege geschnüffelt haben, die ein verfolgtes Tier nicht genommen hat, laufen (art-)typischerweise ohne weiteres Schnüffeln in den dritten Weg. 
+Zweifel an der Stichhaltigkeit 1: P2a zugeben und P3 bestreiten: Ja, wenn Mary etwas (Neues) lernen würde, dann wäre der Physikalismus falsch. Aber Mary lernt gar nichts Neues. Lernen kann man nämlich nur etwas, was es zu wissen gibt, und sie weiß schon alles. Sie gewinnt bloß neue (vielleicht überwältigende) Eindrücke.
 
-Freilich müsste man dann sehr genau sagen, unter welchen Bedingungen man die Wahrheit von P3‘ für empirisch nachgewiesen oder aber widerlegt hält (Wie viele Hunde testet man? Wie viele Ausreißer sind für arttypisches Verhalten erlaubt?).
+Variante, die ebenfalls P3 bestreitet: Mary lernt nichts Neues. Sie weiß sogar schon, wie rote und gelbe Dinge aussehen. *Wir* können uns nicht vorstellen, wie es ist, alles zu wissen. Diese Variante illustriert Daniel Dennett mit einer Fortsetzung der Geschichte: Man zeigt Mary als erstes eine blaue angemalte Banane und sie reagiert (sinngemäß) mit „Für wie dumm haltet ihr mich eigentlich?” (Dennett 1991, 399).
 
-P2 scheint ein klarer Fall zu sein. Aber auch hier ist größte methodische und begriffliche Vorsicht angebracht. Angenommen, P3 ist wahr. Können wir dem beobachteten Verhalten wirklich ohne weiteres entnehmen, dass der Hund den disjunktiven *modus tollens* mit drei Fällen angewendet hat? Ist das vielleicht nur eine Hypothese von uns, die sein Verhalten gut erklärt? Wieviel, und was, muss dem Hund durch den Kopf gehen, damit wir von „anwenden“ sprechen? Was haben wir damit gemeint? Es gibt einen Hinweis im Originaltext darauf, dass Chrysipp dieses Problem gesehen hat. Er schreibt vorsichtig, der Hund schließe *dynámei* wie beschrieben. Das Wort „dynámei“ ist an dieser Stelle schwer zu übersetzten. Hossenfelder übersetzt „dem Sinne nach“. Bury übersetzt „implicitly“. Die Antwort auf die Frage, ob P2 wahr ist, lautet also: Das hängt von einer guten Theorie über Hunde ab.
-
-P1 scheint über jeden Zweifel erhaben. Doch auch hier kann man einen Moment zögern. Damit wir dem Hund die Fähigkeit zu logischem Denken attestieren, sollte der disjunktive *modus tollens* mit drei Fällen lieber kein Fehlschluss sein. Fähigkeit zum logischen Denken ist ein *normatives* Konzept. Der Hund soll es *richtig* machen. P1 ist nur dann wahr, wenn der disjunktive *modus tollens* mit drei Fällen ein gültiger Schluss ist. Die Stoiker haben den disjunktiven *modus tollens* mit n Fällen (n $\geq$ 2) für so offensichtlich gültig gehalten, dass sie ihm den Status eines Axioms gegeben haben, das man nicht weiter begründet. Das ist mit „fünftes mehrgliedriges *unbewiesenes* Argument“ gemeint (sozusagen: „Axiom No. 5“). Aber hatten sie damit Recht? Das ist ein echtes Problem, selbst wenn man heutige *nichtklassische* Logiken ausklammert – was hiermit geschehen sei. Es fragt sich: Lässt sich ein disjunktiver *modus tollens* mit n Fällen immer in einen gültigen Schluss der klassischen Aussagenlogik übersetzen? Diese Frage wird im zweiten Teil des Abschnitts „Formale Detailanalyse“ diskutiert (er erfordert starke Nerven und kann übergangen werden). Die Antwort wird „ja“ lauten. Das etabliert die Wahrheit von P1 unter Voraussetzung der klassischen Aussagenlogik. Aber die Übersetzung wird schwieriger sein, als man zunächst meint. 
+Zweifel an der Stichhaltigkeit 2: P3 zugeben und P2a bestreiten. Mary lernt zwar etwas Neues, nämlich: wie es sich anfühlt, rot zu sehen. Aber der Physikalismus ist trotzdem nicht falsch. Denn Mary lernt nichts, was im hier einschlägigen Sinne des Wortes „Wissen“ Wissen ist. Das bezieht sich auf Tatsachen, und Mary hat schon komplettes Tatsachenwissen. Rot-Eindrücke (oder *wie* es ist, sie zu haben) sind keine Tatsachen.
 
 ## Formale Detailanalyse
 
-Das Hauptargument lässt sich leicht mit Mitteln der klassischen Aussagenlogik als deduktiv gültiges Argument formalisieren:
+Das Argument lässt sich wie folgt als gültiger Schluss der klassischen Aussagenlogik formalisieren:
 
 Abkürzungsverzeichnis
 
-* p: Es gibt einen Hund, der an einer dreifachen Weggabelung, nachdem er in zwei Wege geschnüffelt hat, die das verfolgte Tier nicht genommen hat, ohne weiteres Schnüffeln in den dritten Weg läuft.
-* q: Es gibt einen Hund, der einen *disjunktiven modus tollens* mit drei Fällen anwendet.
-* r: Es gibt es ist einen Hund, der zu logischem Denken in der Lage ist.
+$p:$ Der Physikalismus ist wahr.  
+$q:$ Mary weiß alles, was es zu wissen gibt.  
+$r:$ Mary lernt etwas.  
 
-Argument
+Rekonstruktion
 
 |||||
-|---|---|---|---|  
-| 1 | q $\to$ r | Prämisse | P1 |  
-| 2 | p $\to$ q | Prämisse | P2 |
-| 3	| p | Prämisse | P3 |
-| 4	| q | 2,3 *modus ponens* | Z1 |
-| 5	| r | 1,4 *modus ponens* | K |
+|---|---|---|---|
+|1|$p \to q$|Prämisse|P1|
+|2|$r \to \neg q$|Prämisse|P2a|
+|3|$r$|Prämisse|P3|
+|4|$\neg q$|2,3 modus ponens||
+|5|$\neg p$|1,4 modus ponens||
 
-Bei der Diskussion der Wahrheit von P1 hat sich die folgende Frage ergeben: Lässt sich ein disjunktiver *modus tollens* mit n Fällen (n $\geq$ 2) immer in einen gültigen Schluss mit Formeln der klassischen Aussagenlogik übersetzen? Um die Frage zu beantworten, muss man zunächst scharfstellen, was der disjunktive *modus tollens* mit n Fällen (n $\geq$ 2) genau ist. Er besteht aus einer disjunktiven Prämisse mit n Fällen und n – 1 weiteren Prämissen, in denen alle Fälle aus der disjunktiven Prämisse bis auf einen ausgeschlossen werden, der die Konklusion ist. Was sind die Wahrheitsbedingungen einer disjunktiven Prämisse in der Logik der Stoiker? Darüber gibt uns das folgende Fragment zur stoischen Logik Auskunft (Long/Sedley (1987), 35E):
+## Literaturangaben
 
->„[Für das, was wir auf Latein] *disiunctum* nennen [...gilt:] Von all den [Sätzen], die 	getrennt werden, muss genau einer wahr sein, die übrigen falsch.“
-
-Die Junktoren der klassischen Aussagenlogik sind, abgesehen vom einstelligen Negator, *zweistellige* Junktoren. Man wird daher zunächst nach einer Übersetzung für den Spezialfall des disjunktiven *modus tollens* mit *zwei* Fällen suchen. Hier gibt es zwei Kandidatinnen. In einem Fall wird das Zeichen $\lor$ verwendet, das als Zeichen für eine inklusive „Oder“-Verbindung eingeführt ist, im anderen Fall das Zeichen $\mathrel{\dot{\lor}}$, das als Zeichen für eine exklusive „Oder“-Verbindung stehen soll. Das metasprachliche Zeichen $\models$ drückt aus, dass, was rechts davon steht, aus dem folgt, was links davon steht. Die Kandidatinnen für eine Übersetzung sind:
-
-(1)	$p \lor q, \neg p \models q$  
-(2)	$p \mathrel{\dot{\lor}} q, \neg p \models q$
-
-
-
-*(1)* und *(2)* sind zwar beides gültige Schlüsse der klassischen Aussagenlogik. Man kann das mit einem üblichen Verfahren, zum Beispiel der Tableau-Methode, leicht zeigen. Aber sind beide gleich gute Übersetzungen des disjunktiven *modus tollens* mit *zwei* Fällen? Nein, (2) ist besser. Denn die Wahrheitsbedingungen von $p \lor q$ in (1) stimmen nicht mit denen der stoischen disjunktiven Prämisse mit zwei Fällen überein. $p \lor q$ wird auch dann wahr, wenn „p“ und „q“ beide wahr sind. Die von $p \mathrel{\dot{\lor}} q$ tun dies. Nachdem das geklärt ist, meint man leicht, eine angemessene Übersetzung des disjunktiven *modus tollens* mit drei Fällen zu haben, der sich auf n Fälle verallgemeinern lässt:
-
-
-
-(3) $(p \mathrel{\dot{\lor}} q) \mathrel{\dot{\lor}} r, \neg p, \neg q \models r$
-
-Das ist zwar wiederum ein gültiger Schluss der klassischen Aussagenlogik (wie sich wieder mit einem üblichen Verfahren leicht zeigen lässt – dasselbe gilt für $\mathrel{\dot{\lor}}$ statt $\lor$ und auch, wenn man anders klammert). Aber überraschenderweise hat (3) als Übersetzung des disjunktiven *modus tollens* mit drei Fällen dasselbe Problem wie (1): Wenn „p“, „q“ und „r“ alle wahr sind, ist $(p \mathrel{\dot{\lor}} q) \mathrel{\dot{\lor}}r$ wahr – was nicht zur stoischen Semantik für disjunktive Prämissen passt. Mit zweimal $\lor$ hat man das Problem erst recht. Was mit der disjunktiven Prämisse mit drei Fällen ausgedrückt werden soll, ist komplizierter. Der Hund jagt ein Kaninchen, nicht ein Photon. Ein Kaninchen nimmt nur einen Weg auf einmal. Die Disjunkte der stoischen disjunktiven Prämisse entsprechen diesem Stück Weltwissen:
-
-* „eines wahr, die übrigen falsch“.  
-* $p \lor \neg q \lor \neg r\hspace{10mm}\neg p \lor q \lor \neg r\hspace{10mm}\neg p \lor \neg q \lor r$
-
-Womit sollte man die Disjunkte verbinden? In Frage kommen $\mathrel{\dot{\lor}}$ und $\lor$:
-
-(4) $((p \lor \neg q \lor \neg r) \mathrel{\dot{\lor}} (\neg p \lor q \lor \neg r)) \mathrel{\dot{\lor}} (\neg p \lor \neg q \lor r)$  
-(5) $((p \lor \neg q \lor \neg r) \lor (\neg p \lor q \lor \neg r)) \lor (\neg p \lor \neg q \lor r)$
-
-Beide Varianten sind als Übersetzungen der disjunktiven Prämisse mit drei Fällen gleich gut: Sie werden genau in den drei Fällen wahr, die man auszeichnen möchte: nur p, nur q, nur r. Und die Schlüsse? Auch hier ist beides gültig (um sich zu überzeugen, sind sogar Wahrheitswerttabellen mal nützlich):
-
-(6) $((p \lor \neg q \lor \neg r) \mathrel{\dot{\lor}} (\neg p \lor q \lor \neg r)) \mathrel{\dot{\lor}} (\neg p \lor \neg q \lor r), \neg p, \neg q \models r$  
-(7) $((p \lor \neg q \lor \neg r) \lor (\neg p \lor q \lor \neg r)) \lor (\neg p \lor \neg q \lor r), \neg p, \neg q \models r$
-
-Mit nur zwei Fällen stimmt’s auch. Und mit n Fällen. Es bietet sich daher an, eine n-stellige stoische Disjunktion mit der folgenden Regel für eine abkürzende Notation zu simulieren:
-
-(Def. $\mathrel{\dot{\lor}}^n) \mathrel{B} \mathrel{\dot{\lor}}^n \alpha_1 ... \alpha_n \mathrel{X}$ kürzt ab: $\mathrel{B} (\alpha_1\lor \neg\alpha_2 \lor ... \lor \neg\alpha_n) \lor ... \lor (\neg\alpha_1 \lor ... \neg\alpha_{n-1} \lor \alpha_n) \mathrel{X}$
-
-Nun lässt sich als gültiges Schlussschema der klassischen Aussagenlogik festhalten:
-
-(8) $\mathrel{B} \mathrel{\dot{\lor}}^n \alpha_1 ... \alpha_n \mathrel{X}, \mathrel{B}\neg\alpha_1 X, ..., \mathrel{B}\neg\alpha_{n-1} \mathrel{X} \models\alpha_n$
-
-Ein Spezialfall dieses Schemas ist:
-
-(9) $\mathrel{\dot{\lor}}^3 p q r, \neg p, \neg q \models r$
-
-Das rechtfertigt den stoischen disjunktiven *modus tollens* mit drei Fällen vom Standpunkt der klassischen Aussagenlogik und bietet eine gute Motivation für die Wahrheit von P1. Für den Fall, dass P2 und P3 wahr sind, kann man festhalten: Ganz schön schlau, der Hund.
-
-## Literaturausgaben
-
-* Karlheinz Hülser (1987): *Die Fragmente zur Dialektik der Stoiker*. 4 Bde. Stuttgart-Bad Cannstadt 1987 f.
-* Anthony A. Long/David N. Sedley (1987): *The Hellenistic Philosophers*. Cambridge: Cambridge University Press.
-* Sextus Empiricus (1968): Grundriß der pyrrhonischen Skepsis. Eingeleitet und übersetzt von Malte Hossenfelder. Frankfurt/M.: Suhrkamp.
-* Sextus Empiricus (1933): *Outlines of Pyrrhonism*. Translated by R.G. Bury. Cambridge/MA: Harvard University Press. 
-* Niko Strobach (2019), *Einführung in die Logik*. WBG: Darmstadt.
+* Daniel Dennett (1991): *Consciousness Explained*, Boston: Little, Brown, & Co.  
+* Peter J. Ludlow, Yujin Nagasawa und Daniel Stoljar (Hrsg.) (2004): *There’s something about Mary: essays on phenomenal consciousness and Frank Jackson’s knowledge argument*, MIT Press, Cambridge (Massachusetts).
