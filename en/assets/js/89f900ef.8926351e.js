@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1326],{3417:function(e){e.exports=JSON.parse('{"allTagsPath":"/en/reconstructions/tags","slug":"/en/reconstructions/tags/tiere","name":"Tiere","count":1,"permalink":"/en/reconstructions/tags/tiere"}')}}]);

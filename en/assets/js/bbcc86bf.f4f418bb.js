@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5295],{8394:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/reconstructions/tags","slug":"/en/reconstructions/tags/jackson","name":"Jackson","count":1,"permalink":"/en/reconstructions/tags/jackson"}')}}]);
