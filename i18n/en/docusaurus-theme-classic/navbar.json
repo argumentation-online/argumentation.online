@@ -7,8 +7,8 @@
     "message": "Tags",
     "description": "Navbar item with label Tags"
   },
-  "item.label.Archiv": {
-    "message": "Archive",
+  "item.label.Alle": {
+    "message": "All",
     "description": "Navbar item with label Archiv"
   },
   "item.label.Neueste": {

@@ -7,9 +7,9 @@
     "message": "Tags",
     "description": "Navbar item with label Tags"
   },
-  "item.label.Archiv": {
-    "message": "Archiv",
-    "description": "Navbar item with label Archiv"
+  "item.label.All": {
+    "message": "All",
+    "description": "Navbar item with label All"
   },
   "item.label.Reconstructions": {
     "message": "Rekonstruktionen",
