@@ -79,6 +79,7 @@ export default function BlogPostItem(props) {
       baseUrl.length - (locale + "/").length
     );
   }
+  const slug = permalink.substring(permalink.lastIndexOf("/") + 1);
   
   return (
     <article
