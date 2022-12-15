@@ -1,24 +1,18 @@
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
 import React from 'react';
 import clsx from 'clsx';
-import {MDXProvider} from '@mdx-js/react';
 import Translate, {translate} from '@docusaurus/Translate';
 import Link from '@docusaurus/Link';
 import {useBaseUrlUtils} from '@docusaurus/useBaseUrl';
 import {usePluralForm} from '@docusaurus/theme-common';
 import {blogPostContainerID} from '@docusaurus/utils-common';
-import MDXComponents from '@theme/MDXComponents';
+import MDXContent from '@theme/MDXContent';
 import EditThisPage from '@theme/EditThisPage';
-import styles from './styles.module.css';
 import TagsListInline from '@theme/TagsListInline';
-import BlogPostAuthors from '@theme/BlogPostAuthors'; // Very simple pluralization: probably good enough for now
+import BlogPostAuthors from '@theme/BlogPostAuthors';
+import styles from './styles.module.css';
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
+// Very simple pluralization: probably good enough for now
 function useReadingTimePlural() {
   const {selectMessage} = usePluralForm();
   return (readingTimeFloat) => {
@@ -32,14 +26,11 @@ function useReadingTimePlural() {
             'Pluralized label for "{readingTime} min read". Use as much plural forms (separated by "|") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)',
           message: 'One min read|{readingTime} min read',
         },
-        {
-          readingTime,
-        },
+        {readingTime},
       ),
     );
   };
 }
-
 export default function BlogPostItem(props) {
   const readingTimePlural = useReadingTimePlural();
   const {withBaseUrl} = useBaseUrlUtils();
@@ -122,31 +113,25 @@ export default function BlogPostItem(props) {
       </header>
 
       {image && (
-        <meta
-          itemProp="image"
-          content={withBaseUrl(image, {
-            absolute: true,
-          })}
-        />
+        <meta itemProp="image" content={withBaseUrl(image, {absolute: true})} />
       )}
       <div className={`${styles.blogPostAbstract}`}>{description}</div>
-      <div // This ID is used for the feed generation to locate the main content
+      <div
+        // This ID is used for the feed generation to locate the main content
         id={isBlogPostPage ? blogPostContainerID : undefined}
         className="markdown"
         itemProp="articleBody">
-        <MDXProvider components={MDXComponents}>{children}</MDXProvider>
+        <MDXContent>{children}</MDXContent>
       </div>
 
       {(tagsExists || truncated) && (
         <footer
-          className={clsx('row docusaurus-mt-lg', {
-            [styles.blogPostDetailsFull]: isBlogPostPage,
-          })}>
+          className={clsx(
+            'row docusaurus-mt-lg',
+            isBlogPostPage && styles.blogPostDetailsFull,
+          )}>
           {tagsExists && (
-            <div
-              className={clsx('col', {
-                'col--9': truncatedPost,
-              })}>
+            <div className={clsx('col', {'col--9': truncatedPost})}>
               <TagsListInline tags={tags} />
             </div>
           )}
@@ -171,9 +156,7 @@ export default function BlogPostItem(props) {
                     description:
                       'The ARIA label for the link to full blog posts from excerpts',
                   },
-                  {
-                    title,
-                  },
+                  {title},
                 )}>
                 <b>
                   <Translate
