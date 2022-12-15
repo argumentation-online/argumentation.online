@@ -13,7 +13,7 @@ tags:
   - Moralphilosophie
   - informell
 lang: de
-id: Lanius_ArgOnl-2020-1 # identisch mit Dateiname
+slug: Lanius_ArgOnl-2020-1 # identisch mit Dateiname
 layout: layouts/post.njk
 ---
 
