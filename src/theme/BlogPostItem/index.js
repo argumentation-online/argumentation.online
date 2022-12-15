@@ -4,44 +4,45 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-import React from "react";
-import clsx from "clsx";
-import { MDXProvider } from "@mdx-js/react";
-import Translate, { translate } from "@docusaurus/Translate";
-import Link from "@docusaurus/Link";
-import { useBaseUrlUtils } from "@docusaurus/useBaseUrl";
-import { usePluralForm } from "@docusaurus/theme-common";
-import MDXComponents from "@theme/MDXComponents";
-import EditThisPage from "@theme/EditThisPage";
-import styles from "./styles.module.css";
-import TagsListInline from "@theme/TagsListInline";
-import BlogPostAuthors from "@theme/BlogPostAuthors"; // Very simple pluralization: probably good enough for now
+import React from 'react';
+import clsx from 'clsx';
+import {MDXProvider} from '@mdx-js/react';
+import Translate, {translate} from '@docusaurus/Translate';
+import Link from '@docusaurus/Link';
+import {useBaseUrlUtils} from '@docusaurus/useBaseUrl';
+import {usePluralForm} from '@docusaurus/theme-common';
+import {blogPostContainerID} from '@docusaurus/utils-common';
+import MDXComponents from '@theme/MDXComponents';
+import EditThisPage from '@theme/EditThisPage';
+import styles from './styles.module.css';
+import TagsListInline from '@theme/TagsListInline';
+import BlogPostAuthors from '@theme/BlogPostAuthors'; // Very simple pluralization: probably good enough for now
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 function useReadingTimePlural() {
-  const { selectMessage } = usePluralForm();
+  const {selectMessage} = usePluralForm();
   return (readingTimeFloat) => {
     const readingTime = Math.ceil(readingTimeFloat);
     return selectMessage(
       readingTime,
       translate(
         {
-          id: "theme.blog.post.readingTime.plurals",
+          id: 'theme.blog.post.readingTime.plurals',
           description:
             'Pluralized label for "{readingTime} min read". Use as much plural forms (separated by "|") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)',
-          message: "One min read|{readingTime} min read",
+          message: 'One min read|{readingTime} min read',
         },
         {
           readingTime,
-        }
-      )
+        },
+      ),
     );
   };
 }
 
-function BlogPostItem(props) {
+export default function BlogPostItem(props) {
   const readingTimePlural = useReadingTimePlural();
-  const { withBaseUrl } = useBaseUrlUtils();
+  const {withBaseUrl} = useBaseUrlUtils();
   const {
     children,
     frontMatter,
@@ -62,23 +63,29 @@ function BlogPostItem(props) {
     authors,
   } = metadata;
   const image = assets.image ?? frontMatter.image;
+  const truncatedPost = !isBlogPostPage && truncated;
+  const tagsExists = tags.length > 0;
+  const TitleHeading = isBlogPostPage ? 'h1' : 'h2';
   const {
     siteConfig: { baseUrl },
     i18n: { currentLocale },
   } = useDocusaurusContext();
 
-  const renderPostHeader = () => {
-    const TitleHeading = isBlogPostPage ? "h1" : "h2";
-    const slug = permalink.substring(permalink.lastIndexOf("/") + 1);
-    const locale = currentLocale == "de" ? "" : currentLocale + "/";
-    let defaultBaseUrl = baseUrl;
-    if (locale != "de") {
-      defaultBaseUrl = baseUrl.substring(
-        0,
-        baseUrl.length - (locale + "/").length
-      );
-    }
-    return (
+  let defaultBaseUrl = baseUrl;
+  const locale = currentLocale == "de" ? "" : currentLocale + "/";
+  if (locale != "de") {
+    defaultBaseUrl = baseUrl.substring(
+      0,
+      baseUrl.length - (locale + "/").length
+    );
+  }
+  
+  return (
+    <article
+      className={!isBlogPostPage ? 'margin-bottom--xl' : undefined}
+      itemProp="blogPost"
+      itemScope
+      itemType="http://schema.org/BlogPosting">
       <header>
         <TitleHeading className={styles.blogPostTitle} itemProp="headline">
           {isBlogPostPage ? (
@@ -89,14 +96,14 @@ function BlogPostItem(props) {
             </Link>
           )}
         </TitleHeading>
-        <div className={clsx(styles.blogPostData, "margin-vert--md")}>
+        <div className={clsx(styles.blogPostData, 'margin-vert--md')}>
           <time dateTime={date} itemProp="datePublished">
             {formattedDate}
           </time>
 
-          {typeof readingTime !== "undefined" && (
+          {typeof readingTime !== 'undefined' && (
             <>
-              {" · "}
+              {' · '}
               {readingTimePlural(readingTime)}
             </>
           )}
@@ -112,17 +119,6 @@ function BlogPostItem(props) {
           </Translate>
         </a>
       </header>
-    );
-  };
-
-  return (
-    <article
-      className={!isBlogPostPage ? "margin-bottom--xl" : undefined}
-      itemProp="blogPost"
-      itemScope
-      itemType="http://schema.org/BlogPosting"
-    >
-      {renderPostHeader()}
 
       {image && (
         <meta
@@ -133,24 +129,23 @@ function BlogPostItem(props) {
         />
       )}
       <div className={`${styles.blogPostAbstract}`}>{description}</div>
-      {isBlogPostPage && (
-        <div className="markdown" itemProp="articleBody">
-          <MDXProvider components={MDXComponents}>{children}</MDXProvider>
-        </div>
-      )}
+      <div // This ID is used for the feed generation to locate the main content
+        id={isBlogPostPage ? blogPostContainerID : undefined}
+        className="markdown"
+        itemProp="articleBody">
+        <MDXProvider components={MDXComponents}>{children}</MDXProvider>
+      </div>
 
-      {(tags.length > 0 || truncated) && (
+      {(tagsExists || truncated) && (
         <footer
-          className={clsx("row docusaurus-mt-lg", {
+          className={clsx('row docusaurus-mt-lg', {
             [styles.blogPostDetailsFull]: isBlogPostPage,
-          })}
-        >
-          {tags.length > 0 && (
+          })}>
+          {tagsExists && (
             <div
-              className={clsx("col", {
-                "col--9": !isBlogPostPage,
-              })}
-            >
+              className={clsx('col', {
+                'col--9': truncatedPost,
+              })}>
               <TagsListInline tags={tags} />
             </div>
           )}
@@ -161,17 +156,28 @@ function BlogPostItem(props) {
             </div>
           )}
 
-          {!isBlogPostPage && (
-            <div className="col col--3 text--right">
+          {truncatedPost && (
+            <div
+              className={clsx('col text--right', {
+                'col--3': tagsExists,
+              })}>
               <Link
                 to={metadata.permalink}
-                aria-label={`Read more about ${title}`}
-              >
+                aria-label={translate(
+                  {
+                    message: 'Read more about {title}',
+                    id: 'theme.blog.post.readMoreLabel',
+                    description:
+                      'The ARIA label for the link to full blog posts from excerpts',
+                  },
+                  {
+                    title,
+                  },
+                )}>
                 <b>
                   <Translate
                     id="theme.blog.post.readMore"
-                    description="The label used in blog post item excerpts to link to full blog posts"
-                  >
+                    description="The label used in blog post item excerpts to link to full blog posts">
                     Read More
                   </Translate>
                 </b>
@@ -183,5 +189,3 @@ function BlogPostItem(props) {
     </article>
   );
 }
-
-export default BlogPostItem;
