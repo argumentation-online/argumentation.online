@@ -64,7 +64,7 @@ jobs:
 
       - name: Install dependencies & build
         run: |
-          yarn ci
+          yarn install --frozen-lockfile
           yarn run build
 
       - uses: actions/download-artifact@master
