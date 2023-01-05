@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[3024],{849:e=>{e.exports=JSON.parse('{"label":"Philosophie des Geistes","permalink":"/reconstructions/tags/philosophie-des-geistes","allTagsPath":"/reconstructions/tags","count":2}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4736],{2878:n=>{n.exports=JSON.parse('{"label":"Logik","permalink":"/en/reconstructions/tags/logik","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

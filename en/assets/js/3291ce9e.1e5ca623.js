@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4131],{9197:e=>{e.exports=JSON.parse('{"label":"Existenz","permalink":"/en/reconstructions/tags/existenz","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

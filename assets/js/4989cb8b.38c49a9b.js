@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5021],{3890:function(n){n.exports=JSON.parse('{"allTagsPath":"/reconstructions/tags","slug":"/reconstructions/tags/maschinen","name":"Maschinen","count":1,"permalink":"/reconstructions/tags/maschinen"}')}}]);

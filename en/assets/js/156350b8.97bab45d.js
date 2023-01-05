@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1613],{6533:function(t){t.exports=JSON.parse('{"allTagsPath":"/en/reconstructions/tags","slug":"/en/reconstructions/tags/gott","name":"Gott","count":1,"permalink":"/en/reconstructions/tags/gott"}')}}]);

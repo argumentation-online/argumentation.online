@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8528],{6406:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/reconstructions/tags","slug":"/en/reconstructions/tags/antinomie","name":"Antinomie","count":2,"permalink":"/en/reconstructions/tags/antinomie"}')}}]);

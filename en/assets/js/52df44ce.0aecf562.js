@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5e3],{4973:e=>{e.exports=JSON.parse('{"label":"Satz vom Widerspruch","permalink":"/en/reconstructions/tags/satz-vom-widerspruch","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[3851],{6295:e=>{e.exports=JSON.parse('{"label":"Philosophie","permalink":"/en/reconstructions/tags/philosophie","allTagsPath":"/en/reconstructions/tags","count":6}')}}]);

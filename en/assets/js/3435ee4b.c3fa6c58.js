@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4706],{7777:n=>{n.exports=JSON.parse('{"label":"Modus Tollendo Ponens","permalink":"/en/reconstructions/tags/modus-tollendo-ponens","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

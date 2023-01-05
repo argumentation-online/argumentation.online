@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[93],{5463:s=>{s.exports=JSON.parse('{"label":"Ausschlussprinzip","permalink":"/reconstructions/tags/ausschlussprinzip","allTagsPath":"/reconstructions/tags","count":1}')}}]);

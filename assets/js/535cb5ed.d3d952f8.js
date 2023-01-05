@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6878],{353:function(e){e.exports=JSON.parse('{"allTagsPath":"/reconstructions/tags","slug":"/reconstructions/tags/gottesbeweis","name":"Gottesbeweis","count":1,"permalink":"/reconstructions/tags/gottesbeweis"}')}}]);
