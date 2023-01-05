@@ -20,7 +20,7 @@ tags:
   - informell
 # Tags können sich beziehen auf Gebiete (Philosophie, Politik, Klima, ...), Schulstufe (Sek I, Sek II, Uni), Sprache des Originaltextes (Griechisch, Latein, Englisch, Französisch, Deutsch, Spanisch, Italienisch), eingesetzte Rekonstruktionstechniken (informell, formal, Aussagenlogik, Prädikatenlogik, Modallogik, Höherstufige/andere Logik), Autor:in der Originaltexte
 lang: de # wird von Herausgebern ausgefüllt
-id: AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER # wird von Herausgebern ausgefüllt
+slug: AUTOR1-AUTOR2_ArgOnl-JAHR-NUMMER # wird von Herausgebern ausgefüllt
 ---
 
 

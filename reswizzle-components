@@ -1,0 +1,2 @@
+yarn run swizzle @docusaurus/theme-classic BlogPostItem/Content -- --eject
+yarn run swizzle @docusaurus/theme-classic BlogPostItem/Header -- --eject

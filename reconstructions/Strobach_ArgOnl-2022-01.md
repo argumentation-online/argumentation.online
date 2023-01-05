@@ -13,7 +13,7 @@ tags:
   - Physikalismus
   - Philosophie des Geistes
 lang: de
-id: Strobach_ArgOnl-2022-01
+slug: Strobach_ArgOnl-2022-01
 ---
 
 ## Bibliographische Angaben

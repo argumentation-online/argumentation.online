@@ -20,7 +20,7 @@ tags:
   - Ausschlussprinzip
   - Modus Tollendo Ponens
 lang: de
-id: Loewenstein_ArgOnl-2021-01
+slug: Loewenstein_ArgOnl-2021-01
 ---
 
 

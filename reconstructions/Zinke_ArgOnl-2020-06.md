@@ -12,7 +12,7 @@ tags:
   - Raum
   - Philosophie
 lang: de # wird von Herausgebern ausgefüllt
-id: Zinke_ArgOnl-2020-06 # wird von Herausgebern ausgefüllt
+slug: Zinke_ArgOnl-2020-06 # wird von Herausgebern ausgefüllt
 layout: layouts/post.njk # wird von Herausgebern ausgefüllt
 ---
 
