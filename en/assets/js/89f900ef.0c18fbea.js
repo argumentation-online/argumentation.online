@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1326],{3417:e=>{e.exports=JSON.parse('{"label":"Tiere","permalink":"/en/reconstructions/tags/tiere","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

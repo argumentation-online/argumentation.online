@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5265],{6703:n=>{n.exports=JSON.parse('{"label":"Stoa","permalink":"/en/reconstructions/tags/stoa","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);
