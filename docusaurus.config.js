@@ -31,6 +31,7 @@ module.exports = {
           // Please change this to your repo.
           path: "./reconstructions",
           routeBasePath: "/reconstructions",
+          archiveBasePath: '/all',
           editUrl:
             "https://github.com/facebook/docusaurus/edit/main/website/blog/",
           remarkPlugins: [remarkMath],
@@ -64,7 +65,7 @@ module.exports = {
             items: [
               { to: "/reconstructions", label: "Neueste" },
               { to: "/reconstructions/tags", label: "Tags" },
-              { to: "/reconstructions/archive", label: "Archiv" },
+              { to: "/reconstructions/all", label: "Alle" },
             ],
           },
           { to: "/the-project", label: "The Project", position: "left" },
