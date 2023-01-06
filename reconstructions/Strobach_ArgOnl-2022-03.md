@@ -1,6 +1,7 @@
 ---
 title: 'Kleanthes: Die Seele ist materiell'
 abstract: 'Die Philosophen der älteren Stoa hatten eine Aussagenlogik, die der heutigen klassischen Aussagenlogik recht ähnlich ist (einführend: Strobach 2019, 44-49). Sie orientierten sich beim Argumentieren an dieser Logik, was zu Argumenten von großer Klarheit führte. Von einem der frühesten Stoiker, Kleanthes (ca. 300 v. Chr.), ist eine bemerkenswerte Argumentation für eine Konklusion überliefert, welche die Stoiker selbst als These vertraten: Die Seele ist materiell. Die Argumentation ist bis zum heutigen Tag systematisch bedeutend: Kleanthes war offenbar der Ansicht, dass jeder, der seine These bestreitet, mit einem Problem der psychophysischen Interaktion konfrontiert ist, das unlösbar ist.'
+description: 'Die Philosophen der älteren Stoa hatten eine Aussagenlogik, die der heutigen klassischen Aussagenlogik recht ähnlich ist (einführend: Strobach 2019, 44-49). Sie orientierten sich beim Argumentieren an dieser Logik, was zu Argumenten von großer Klarheit führte. Von einem der frühesten Stoiker, Kleanthes (ca. 300 v. Chr.), ist eine bemerkenswerte Argumentation für eine Konklusion überliefert, welche die Stoiker selbst als These vertraten: Die Seele ist materiell. Die Argumentation ist bis zum heutigen Tag systematisch bedeutend: Kleanthes war offenbar der Ansicht, dass jeder, der seine These bestreitet, mit einem Problem der psychophysischen Interaktion konfrontiert ist, das unlösbar ist.'
 date: 2022-12-07
 authors:
   - name: Niko Strobach
