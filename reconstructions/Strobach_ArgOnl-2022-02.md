@@ -1,6 +1,7 @@
 ---
 title: 'Chrysipp: Der stoische Hund'
 abstract: 'Die Philosophen der älteren Stoa hatten eine Aussagenlogik, die der heutigen klassischen Aussagenlogik recht ähnlich ist (einführend: Strobach 2019, 44-49). Sie orientierten sich beim Argumentieren an dieser Logik, was zu Argumenten von großer Klarheit führte. Von einem der frühesten Stoiker, Chrysipp (ca. 280 – ca. 208 v. Chr.), ist ein bemerkenswertes Argument für eine Konklusion überliefert, welche die Stoiker selbst als These vertraten: Manche Tiere (außer dem Menschen) sind zu logischem Denken in der Lage. Das Argument ist bis zum heutigen Tag systematisch bedeutend, indem es zum Nachdenken über die Frage anregt, ob, und falls ja, wie Tiere denken können (Perler/Wild 2005).'
+description: 'Die Philosophen der älteren Stoa hatten eine Aussagenlogik, die der heutigen klassischen Aussagenlogik recht ähnlich ist (einführend: Strobach 2019, 44-49). Sie orientierten sich beim Argumentieren an dieser Logik, was zu Argumenten von großer Klarheit führte. Von einem der frühesten Stoiker, Chrysipp (ca. 280 – ca. 208 v. Chr.), ist ein bemerkenswertes Argument für eine Konklusion überliefert, welche die Stoiker selbst als These vertraten: Manche Tiere (außer dem Menschen) sind zu logischem Denken in der Lage. Das Argument ist bis zum heutigen Tag systematisch bedeutend, indem es zum Nachdenken über die Frage anregt, ob, und falls ja, wie Tiere denken können (Perler/Wild 2005).'
 date: 2022-12-06
 authors:
   - name: Niko Strobach
