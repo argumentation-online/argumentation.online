@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[7599],{9941:e=>{e.exports=JSON.parse('{"label":"Kleanthes","permalink":"/en/reconstructions/tags/kleanthes","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

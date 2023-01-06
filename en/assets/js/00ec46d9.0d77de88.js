@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[3479],{8506:n=>{n.exports=JSON.parse('{"label":"psychophysische Interaktion","permalink":"/en/reconstructions/tags/psychophysische-interaktion","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);
