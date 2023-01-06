@@ -47,5 +47,6 @@ und auf Englisch zum Beispiel in den folgenden Büchern:
 
 Empfehlenswerte Webseiten:
 
+- [Argumentieren lernen auf philovernetzt.de](http://www.philovernetzt.de/argumentieren-lernen/) - Unterrichtsmaterialien für den Philosophie- und Ethikunterricht.
 - [Critical Thinking Web](https://philosophy.hku.hk/think/) – mit mehr als 100 Übungen zum kritischen Denken.
 - [Argdown](http://argdown.org) – ein einfacher Syntax zur Darstellung und Visualisierung komplexer Argumentation.
