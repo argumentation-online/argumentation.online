@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8630],{4237:a=>{a.exports=JSON.parse('{"label":"Laktanz","permalink":"/reconstructions/tags/laktanz","allTagsPath":"/reconstructions/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9695],{3922:e=>{e.exports=JSON.parse('{"label":"Religionsphilosophie","permalink":"/en/reconstructions/tags/religionsphilosophie","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

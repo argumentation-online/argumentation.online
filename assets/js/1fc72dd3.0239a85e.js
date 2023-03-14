@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4283],{6979:n=>{n.exports=JSON.parse('{"label":"Latein","permalink":"/reconstructions/tags/latein","allTagsPath":"/reconstructions/tags","count":1}')}}]);

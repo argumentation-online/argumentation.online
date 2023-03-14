@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9056],{9688:e=>{e.exports=JSON.parse('{"label":"Epikur","permalink":"/reconstructions/tags/epikur","allTagsPath":"/reconstructions/tags","count":1}')}}]);
