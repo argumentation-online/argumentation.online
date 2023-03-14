@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[3946],{8628:n=>{n.exports=JSON.parse('{"label":"Platon","permalink":"/en/reconstructions/tags/platon","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

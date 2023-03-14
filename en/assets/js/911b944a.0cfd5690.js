@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6536],{4564:e=>{e.exports=JSON.parse('{"label":"Erkenntnistheorie","permalink":"/en/reconstructions/tags/erkenntnistheorie","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

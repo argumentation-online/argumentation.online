@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5801],{3037:n=>{n.exports=JSON.parse('{"label":"Kennzeichnung","permalink":"/reconstructions/tags/kennzeichnung","allTagsPath":"/reconstructions/tags","count":1}')}}]);
