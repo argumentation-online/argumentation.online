@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4784],{8171:s=>{s.exports=JSON.parse('{"label":"Empirismus","permalink":"/reconstructions/tags/empirismus","allTagsPath":"/reconstructions/tags","count":1}')}}]);

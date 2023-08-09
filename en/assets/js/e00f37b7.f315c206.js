@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[522],{9176:e=>{e.exports=JSON.parse('{"label":"Scheinproblem","permalink":"/en/reconstructions/tags/scheinproblem","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

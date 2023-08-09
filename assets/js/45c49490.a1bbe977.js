@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1911],{8615:e=>{e.exports=JSON.parse('{"label":"Metaphilosophie","permalink":"/reconstructions/tags/metaphilosophie","allTagsPath":"/reconstructions/tags","count":1}')}}]);

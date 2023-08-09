@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9682],{7845:n=>{n.exports=JSON.parse('{"label":"Wissenschaft","permalink":"/en/reconstructions/tags/wissenschaft","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);
