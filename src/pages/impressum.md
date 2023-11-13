@@ -1,9 +1,9 @@
 # Impressum
 
-Prof. Dr. Gregor Betz
+Junior-Prof. Dr. Dominik Balg
 
-KIT - ITZ
+Johannes Gutenberg-Universität – Philosophisches Seminar
+
+Jakob-Welder-Weg 18
   
-Douglasstr. 22
-  
-76133 Karlsruhe
+55128 Mainz
