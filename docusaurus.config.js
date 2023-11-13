@@ -33,7 +33,7 @@ module.exports = {
           routeBasePath: "/reconstructions",
           archiveBasePath: '/all',
           editUrl:
-            "https://github.com/facebook/docusaurus/edit/main/website/blog/",
+            "https://github.com/argumentation-online/argumentation.online/edit/master/",
           remarkPlugins: [remarkMath],
           rehypePlugins: [[rehypeKatex, { strict: false }]],
         },
