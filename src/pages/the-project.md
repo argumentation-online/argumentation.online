@@ -30,9 +30,9 @@ Reichen Sie Ihre Argumentrekonstruktion zur Veröffentlichung ein! (Bitte verwen
 
 ## herausgeber:innen
 
-**Herausgeberkollegium:** Gregor Betz, Georg Brun, Sonja Deppe, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
+**Herausgeberkollegium:** Dominik Balg, Gregor Betz, Georg Brun, Sonja Deppe, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
 
-**Geschäftsführende Herausgeber:innen:** Gregor Betz und Jonas Pfister.
+**Geschäftsführender Herausgeber:** Dominik Balg.
 
 Inspiriert von _Just the Arguments. 100 of the Most Important Arguments in Western Philosophy_ (hrsg. von Michael Bruce und Steven Barbone, Chichester: Wiley-Blackwell, 2011), ist die Idee zu _argumentation.online_ im Rahmen des [DFG-Forschungsnetzwerks „Argumentieren in der Schule“](https://blogs.phil.hhu.de/argumentiereninderschule/) entstanden und wird dort weiterentwickelt.
 
