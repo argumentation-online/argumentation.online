@@ -3,7 +3,7 @@ title: 'Derek Parfit: Das Nichtidentitäts-Problem'
 description: 'Das Nichtidentitäts-Problem ist ein zentrales moralphilosophisches Problem, das in jüngster Zeit insbesondere aufgrund seiner Implikationen mit Blick auf klima- und populationsethische Fragestellungen intensiv diskutiert worden ist. Im Kern dreht sich dieses Problem um unsere moralischen Verpflichtungen gegenüber Individuen, die durch unsere Handlungen überhaupt erst in Existenz kommen und deren Existenz unausweichlich mit einem gewissen Maß an Leid verbunden ist. Die entscheidende Frage ist dabei, wie die Verursachung dieses Leids moralisch zu bewerten ist, gegeben dass es niemanden gibt, dem dieses Leid hätte erspart werden können. Die hier vorgestellte informelle Rekonstruktion stellt eine der frühesten und einflussreichsten Formulierungen dieses Problems vor.'
 date: 2024-01-23
 author:
-  - name: 'Dominik Balg'
+  - name: Dominik Balg
     affiliation: Johannes Gutenberg-Universität Mainz
     email: dbalg@uni-mainz.de
 tags:
