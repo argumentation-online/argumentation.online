@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1925],{5834:e=>{e.exports=JSON.parse('{"label":"Gettier","permalink":"/reconstructions/tags/gettier","allTagsPath":"/reconstructions/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[754],{2243:n=>{n.exports=JSON.parse('{"label":"zuk\xfcnftige Personen","permalink":"/en/reconstructions/tags/zukunftige-personen","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

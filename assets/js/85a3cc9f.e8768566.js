@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6370],{4092:a=>{a.exports=JSON.parse('{"label":"Klima","permalink":"/reconstructions/tags/klima","allTagsPath":"/reconstructions/tags","count":1}')}}]);

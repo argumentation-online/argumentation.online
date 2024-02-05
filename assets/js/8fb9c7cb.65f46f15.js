@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1083],{8925:t=>{t.exports=JSON.parse('{"label":"Parfit","permalink":"/reconstructions/tags/parfit","allTagsPath":"/reconstructions/tags","count":1}')}}]);

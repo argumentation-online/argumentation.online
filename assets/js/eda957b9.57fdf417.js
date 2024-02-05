@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9014],{2309:a=>{a.exports=JSON.parse('{"label":"Moral","permalink":"/reconstructions/tags/moral","allTagsPath":"/reconstructions/tags","count":1}')}}]);
