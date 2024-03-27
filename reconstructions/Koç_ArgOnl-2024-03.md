@@ -21,8 +21,6 @@ G. E. Moore, *Principia Ethica*, Cambridge University Press: Cambridge 1903, §1
 
 ## Textstelle
 
-Parfit entwickelt das Nichtidentitäts-Problem anhand des folgenden Gedankenexperiments:
-
 >The hypothesis that disagreement about the meaning of good is disagreement with regard to the correct analysis of a given whole, may be most plainly seen to be incorrect by consideration of the fact that, whatever definition may be offered, it may always, be asked, with significance, of the complex so defined, whether it is itself good. To take, for instance, one of the more plausible, because one of the more complicated of such proposed definitions, it may easily be thought, at first sight, that to be good may mean to be that which we desire to desire. Thus if we apply this definition to a particular instance and say “When we think that A is good, we are thinking that A is one of the things which we desire to desire,” our proposition may seem quite plausible. But, if we carry the investigation further, and ask ourselves “Is it good to desire to desire A?” it is apparent, on a little reflection, that this question is itself as intelligible, as the original question, “Is A good?”—that we are, in fact, now asking for exactly the same information about the desire to desire A, for which we formerly asked with regard to A itself. But it is also apparent that the meaning of this second question cannot be correctly analyzed into “Is the desire to desire A one of the things which we desire to desire?”: we have not before our minds anything so complicated as the question “Do we desire to desire to desire to desire A?” Moreover any one can easily convince himself by inspection that the predicate of this proposition—”good”—is positively different from notion of “desiring to desire” which enters into its subject: “That we should desire to desire A is good” is not merely equivalent to “That A should be good is good.” It may indeed be true that what we desire to desire is always good; perhaps, even the converse may be true: but it is very doubtful whether this is the case, and the mere fact that we understand very well what is meant by doubting it, shews clearly that we have two different notions before our mind.
 
 
@@ -51,7 +49,6 @@ Bezüglich Prämisse 2 ist anzumerken, dass Kritiker des Arguments der offenen F
 Abschließend sollte erwähnt werden, dass die Konklusion der obigen Rekonstruktion verschiedene mögliche Implikationen hat. G. E. Moore selbst verstand seinen Gedankengang als eine Argumentation dafür, dass die Qualität des Gutseins zwar eine reale, aber keine natürliche Qualität ist. Zumindest in der obigen Konstruktion ist die Konklusion des Arguments der offenen Frage aber durchaus auch mit anderen Implikationen verträglich. Es wäre zum Beispiel auch denkbar, dass der Ausdruck „gut” nicht anhand eines beschreibenden Ausdrucks definierbar ist, weil die Qualität des Gutseins nicht real ist. Mit anderen Worten, die obige Rekonstruktion des Arguments der offenen Frage kann auch als hinführendes Argument für den moralischen Nihilismus verstanden werden.
 
 
-
 ## Literaturangaben
 
 Frege, G. (1892). Über Sinn und Bedeutung. In M. Beaney (Ed.), The Frege Reader. Blackwell.
@@ -59,6 +56,4 @@ Frege, G. (1892). Über Sinn und Bedeutung. In M. Beaney (Ed.), The Frege Reader
 Smith, M. (1995). The Moral Problem. Blackwell. 
 
 Van Roojen, M. S. (2015). Metaethics: A Contemporary Introduction (First edition). Routledge, Taylor & Francis Group.
-
-
 
