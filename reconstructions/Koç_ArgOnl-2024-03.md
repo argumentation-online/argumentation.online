@@ -2,7 +2,7 @@
 title: 'G. E. Moore: Das Argument der offenen Frage'
 description: 'G. E. Moores Argument der offenen Frage ist eines der bedeutendsten Argumente des 20. Jahrhunderts im Bereich der Ethik. Zahlreiche Philosophen haben über dieses Argument nachgedacht, es auf unterschiedliche Weise rekonstruiert, kritisiert und bewertet. In der folgenden Rekonstruktion wird Moores Gedankengang in der Principia Ethica als ein Argument für die These, dass der Begriff „gut” nicht durch einen beschreibenden Ausdruck definierbar ist, verstanden. In dem Kommentar der Rekonstruktion zeigen sich potentielle Schwächen des Arguments in dieser Form, die unter anderem damit zu tun haben, was wir unter analytischen Definitionen verstehen. Der Kommentar berücksichtigt auch den Einwand eines möglichen Zirkelschlusses. Meistens wird das Argument der offenen Frage als ein Argument für den moralischen Intuitionismus („Non-Naturalism”) verstanden. In der vorgetragenen Rekonstruktion wäre die Konklusion allerdings auch mit dem moralischen Nihilismus verträglich. Insgesamt bietet die folgende Interpretation eine erste Erkundung von Moores Gedanken, die die interpretatorische Flexibilität im Text der Principia Ethica anerkennt.'
 date: 2024-03-27
-author:
+authors:
   - name: Kaj André Zeller
     affiliation: Koç University Istanbul
     email: kaj.zeller@gmail.com
@@ -11,7 +11,7 @@ tags:
   - Moralphilosophie
   - Metaethik
 lang: de
-id: Koç_ArgOnline-2024-03
+slug: Koc_ArgOnline-2024-03
 ---
 
 ## Bibliographische Angaben
