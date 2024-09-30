@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6522],{6119:n=>{n.exports=JSON.parse('{"label":"Emotionen","permalink":"/en/reconstructions/tags/emotionen","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

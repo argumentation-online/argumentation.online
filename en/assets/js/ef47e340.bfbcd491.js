@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[196],{8296:e=>{e.exports=JSON.parse('{"label":"Verk\xf6rperung","permalink":"/en/reconstructions/tags/verkorperung","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);
