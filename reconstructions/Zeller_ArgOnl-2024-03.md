@@ -11,7 +11,7 @@ tags:
   - Moralphilosophie
   - Metaethik
 lang: de
-slug: Koc_ArgOnline-2024-03
+slug: Zeller_ArgOnl-2024-03
 ---
 
 ## Bibliographische Angaben
