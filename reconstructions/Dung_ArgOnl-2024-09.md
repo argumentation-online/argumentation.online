@@ -39,7 +39,7 @@ James‘ Argumentation lässt sich als ein Schluss von drei Prämissen (1, 2 und
 
 ---
 
-5. 5.	Emotionen sind nichts weiter als Körpergefühle (*Folgt aus 3 und 4*).
+5. Emotionen sind nichts weiter als Körpergefühle (*Folgt aus 3 und 4*).
 
 ## Erläuterung
 
