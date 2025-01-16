@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[218],{3687:n=>{n.exports=JSON.parse('{"label":"Neutralit\xe4tsprinzip","permalink":"/en/reconstructions/tags/neutralitatsprinzip","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

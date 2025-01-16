@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5615],{8113:n=>{n.exports=JSON.parse('{"label":"Populationsethik","permalink":"/en/reconstructions/tags/populationsethik","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

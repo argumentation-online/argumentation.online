@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[715],{1780:n=>{n.exports=JSON.parse('{"label":"John Broome","permalink":"/reconstructions/tags/john-broome","allTagsPath":"/reconstructions/tags","count":1}')}}]);

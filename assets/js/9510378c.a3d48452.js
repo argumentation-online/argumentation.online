@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6803],{1715:e=>{e.exports=JSON.parse('{"label":"Axiologie","permalink":"/reconstructions/tags/axiologie","allTagsPath":"/reconstructions/tags","count":1}')}}]);
