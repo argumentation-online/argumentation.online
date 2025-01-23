@@ -14,6 +14,7 @@ tags:
   - Axiologie
 lang: de
 slug: Lohmar_ArgOnl-2025-01
+id: Lohmar_ArgOnl-2025-01
 ---
 
 ## Bibliographische Angaben
