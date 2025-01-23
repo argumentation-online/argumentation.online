@@ -23,6 +23,7 @@ Broome, John (2004), Weighing Lives, Oxford: Oxford University Press, https://do
 ## Textstelle
 
 Broomes Argument richtet sich gegen das starke Neutralitätsprinzip, welches er auch als „principle of equal existence“ bezeichnet.[^1] Er definiert dieses wie folgt: 
+
 > *Principle of equal existence.* Suppose two distributions have the same population of people, except that an extra person exists in one who does not exist in the other. Suppose each person who exists in both distributions is equally as well off in one as she is in the other. Then there is some range of wellbeings (called ‘the neutral range’) such that, if the extra person's wellbeing is within this range, the two distributions are equally good. (Broome 2004, 146)
 
 Um gegen dieses Prinzip zu argumentieren, nutzt Broome das folgende Beispiel von drei verschiedenen Distributionen A, B, und C – also Verteilungen von Wohlergehen auf Individuen einer bestimmten Population. Die Zahlen, die den Distributionen zugeordnet sind, symbolisieren das Wohlergehen der Individuen in dieser Distribution (wobei höhere Zahlen ein höheres Wohlergehen repräsentieren). Zahlen in einer Spalte beziehen sich auf das Wohlergehen desselben Individuums (das folglich in allen Distributionen existiert, in denen ihm eine Zahl zugeordnet ist) und „Ω” bedeutet, dass das Individuum in dieser Distribution nicht existiert.[^2]
