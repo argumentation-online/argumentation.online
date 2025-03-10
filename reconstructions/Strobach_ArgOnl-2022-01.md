@@ -14,6 +14,7 @@ tags:
   - Philosophie des Geistes
 lang: de
 slug: Strobach_ArgOnl-2022-01
+id: Strobach_ArgOnl-2022-01
 ---
 
 ## Bibliographische Angaben
