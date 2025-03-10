@@ -19,6 +19,7 @@ tags:
 # Tags können sich beziehen auf Gebiete (Philosophie, Politik, Klima, ...), Schulstufe (Sek I, Sek II, Uni), Sprache des Originaltextes (Griechisch, Latein, Englisch, Französisch, Deutsch, Spanisch, Italienisch), eingesetzte Rekonstruktionstechniken (informell, formal, Aussagenlogik, Prädikatenlogik, Modallogik, Höherstufige/andere Logik), Autor:in der Originaltexte
 lang: de # wird von Herausgebern ausgefüllt
 slug: Zinke_ArgOnl-2020-04 # wird von Herausgebern ausgefüllt
+id: Zinke_ArgOnl-2020-04
 layout: layouts/post.njk # wird von Herausgebern ausgefüllt
 ---
 
