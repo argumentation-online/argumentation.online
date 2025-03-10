@@ -21,6 +21,7 @@ tags:
   - Modus Tollendo Ponens
 lang: de
 slug: Loewenstein_ArgOnl-2021-01
+id: Loewenstein_ArgOnl-2021-01
 ---
 
 
