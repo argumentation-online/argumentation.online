@@ -14,6 +14,7 @@ tags:
   - Logik
 lang: de
 slug: Strobach_ArgOnl-2022-02
+id: Strobach_ArgOnl-2022-02
 ---
 
 ## Bibliographische Angaben
