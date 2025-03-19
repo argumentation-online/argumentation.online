@@ -30,7 +30,7 @@ Reichen Sie Ihre Argumentrekonstruktion zur Veröffentlichung ein! (Bitte verwen
 
 ## herausgeber:innen
 
-**Herausgeberkollegium:** Dominik Balg, Gregor Betz, Georg Brun, Sonja Deppe, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
+**Herausgeberkollegium:** Dominik Balg, Gregor Betz, Georg Brun, Sonja Deppe, David Lanius, David Löwenstein, Jonas Pfister, Niko Strobach, Alexandra Zinke.
 
 **Geschäftsführender Herausgeber:** Dominik Balg.
 
