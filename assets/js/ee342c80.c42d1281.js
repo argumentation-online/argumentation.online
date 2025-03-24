@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8657],{8862:e=>{e.exports=JSON.parse('{"label":"Sek II","permalink":"/reconstructions/tags/sek-ii","allTagsPath":"/reconstructions/tags","count":1}')}}]);

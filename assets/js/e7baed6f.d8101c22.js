@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4600],{5024:n=>{n.exports=JSON.parse('{"label":"Franz\xf6sisch","permalink":"/reconstructions/tags/franzosisch","allTagsPath":"/reconstructions/tags","count":1}')}}]);

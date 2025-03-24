@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8122],{4300:e=>{e.exports=JSON.parse('{"label":"Elisabeth von der Pfalz","permalink":"/en/reconstructions/tags/elisabeth-von-der-pfalz","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);
