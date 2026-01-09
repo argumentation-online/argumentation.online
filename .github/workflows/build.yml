@@ -7,57 +7,58 @@ on:
 
 jobs:
   generate-pdfs:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     container:
       image: docker://pandoc/latex:2.9
       options: --entrypoint=sh
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+      
       - name: install titling
         run: |
           tlmgr install titling
+          
       - name: install font
         run: |
           tlmgr install libertine && updmap-sys --enable Map=libertine.map
+          
       - name: prepare output directories
         run: |
           for d in reconstructions/*/; do
             mkdir -p pdfs/$d
           done
-      # - name: prepare en output directories
-      #   run: |
-      #     for d in ./i18n/en/docusaurus-plugin-content-blog/*/; do
-      #       mkdir -p pdfs/en/$d
-      #     done
+          
       - name: copy german files into tmp folder
         run: |
           cp -R ./reconstructions/. tmp-pandoc/
-      # - name: copy english files into tmp folder
-      #   run: |
-      #     cp -R ./i18n/en/docusaurus-plugin-content-blog/. tmp-pandoc/en/
+          
       - name: replace authors with author in tmp files
         run: |
           find ./tmp-pandoc/ -type f -exec perl -i -w -0777pe 's/---.*\Kauthors:(?=.*---)/author:/s' {} +
+          
       - name: convert md to pdf
         run: |
           (cd ./tmp-pandoc && find *  -iname '*.md' -type f -exec sh -c 'pandoc ${0} -o ../pdfs/${0%.md}.pdf --metadata-file=../pdf-styles/meta_aao-latex.yaml  --template=../pdf-styles/argonl_latex.template --pdf-engine=lualatex --lua-filter=../pdf-styles/inferenceline.lua' {} \;)
-      - uses: actions/upload-artifact@master
+          
+      - uses: actions/upload-artifact@v4
         with:
           name: pdfs
           path: pdfs
           retention-days: 1
+          
   build-and-deploy:
     needs: generate-pdfs
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
 
     strategy:
       matrix:
-        node-version: [19.x]
+        node-version: [22.x]  # Updated from 19.x (EOL) to 22.x (LTS)
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+      
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
           cache: "yarn"
@@ -67,13 +68,13 @@ jobs:
           yarn install --frozen-lockfile
           yarn run build
 
-      - uses: actions/download-artifact@master
+      - uses: actions/download-artifact@v4
         with:
           name: pdfs
           path: build/pdfs
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           publish_dir: ./build
           github_token: ${{ secrets.GITHUB_TOKEN }}
