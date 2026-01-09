@@ -51,8 +51,10 @@ Konklusion: Also ist es schlecht, deinen kleinen Bruder dazu zu bringen, die Kat
 2. Wenn dieses Argument gültig ist, hat „schlecht” dieselbe Bedeutung in der Hauptprämisse wie in der Nebenprämisse.
 3. In der Hauptprämisse liegt die Bedeutung von „schlecht” nicht darin, eine Verurteilung auszudrücken.
 4. Nach der Theorie, dass es nicht beschreibend, sondern verurteilend ist, eine bestimmte Handlung als „schlecht” zu bezeichnen, liegt die Bedeutung von „schlecht” in der Nebenprämisse darin, das Quälen der Katze zu verurteilen.
----
-Die Theorie, dass es nicht beschreibend, sondern verurteilend ist, eine bestimmte Handlung als „schlecht” zu bezeichnen, ist falsch.
+
+-----
+
+5. Die Theorie, dass es nicht beschreibend, sondern verurteilend ist, eine bestimmte Handlung als „schlecht” zu bezeichnen, ist falsch.
 
 
 ## Kommentar
