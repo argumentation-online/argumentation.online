@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1084],{2653:e=>{e.exports=JSON.parse('{"label":"Metaethik","permalink":"/reconstructions/tags/metaethik","allTagsPath":"/reconstructions/tags","count":1}')}}]);

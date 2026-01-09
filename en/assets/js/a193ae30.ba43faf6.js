@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[3465],{6073:e=>{e.exports=JSON.parse('{"label":"R.M. Hare","permalink":"/en/reconstructions/tags/r-m-hare","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

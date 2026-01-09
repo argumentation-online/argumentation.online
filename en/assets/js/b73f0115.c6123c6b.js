@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4288],{7772:n=>{n.exports=JSON.parse('{"label":"Nichtkognitivismus","permalink":"/en/reconstructions/tags/nichtkognitivismus","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

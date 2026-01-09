@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9434],{3640:e=>{e.exports=JSON.parse('{"label":"Sprachphilosophie","permalink":"/en/reconstructions/tags/sprachphilosophie","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

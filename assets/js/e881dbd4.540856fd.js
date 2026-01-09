@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6237],{2347:e=>{e.exports=JSON.parse('{"label":"Gottlob Frege","permalink":"/reconstructions/tags/gottlob-frege","allTagsPath":"/reconstructions/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9420],{7966:e=>{e.exports=JSON.parse('{"label":"John Searle","permalink":"/en/reconstructions/tags/john-searle","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[7842],{2860:e=>{e.exports=JSON.parse('{"label":"Peter Geach","permalink":"/reconstructions/tags/peter-geach","allTagsPath":"/reconstructions/tags","count":1}')}}]);
