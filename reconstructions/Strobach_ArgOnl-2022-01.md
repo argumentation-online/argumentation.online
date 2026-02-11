@@ -81,7 +81,7 @@ Rekonstruktion
 |2|$r \to \neg q$|Prämisse|P2a|
 |3|$r$|Prämisse|P3|
 |4|$\neg q$|2,3 modus ponens||
-|5|$\neg p$|1,4 modus ponens||
+|5|$\neg p$|1,4 modus tollens||
 
 ## Literaturangaben
 
