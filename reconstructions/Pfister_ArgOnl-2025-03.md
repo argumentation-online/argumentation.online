@@ -44,18 +44,18 @@ Original Französisch
 
 Das Argument kann wie folgt als eine Reductio ad absurdum rekonstruiert werden:
 
-(1) Die Seele ist eine denkende, nicht-ausgedehnte, immaterielle Substanz. (Annahme)
-(2) Die Seele bestimmt die Bewegung des Körpers, um willentliche Handlungen auszuführen.
-(3) Jede Bestimmung der Bewegung des Körpers geschieht entweder a) durch den Anstoß der bewegten Sache, entsprechend der Weise, wie sie von der bewegenden angestoßen wird, oder b) durch die Beschaffenheit und die Gestalt der Oberfläche der bewegten Sache.
-(4) Für Bewegung durch a) ist Berührung erforderlich.
-(5) Berührung ist mit einer immateriellen Sache unvereinbar, d.h.: Wenn eine Bewegung Berührung erfordert und die Seele eine denkende, nicht-ausgedehnte, immaterielle Substanz ist, dann kann die Seele nicht die Bewegung bestimmen.
-(6) Für Bewegung durch b) ist Ausdehnung erforderlich.
-(7) Der Begriff der Seele schließt Ausdehnung aus, d.h.: Wenn eine Bewegung Ausdehnung erfordert und die Seele eine denkende, nicht-ausgedehnte, immaterielle Substanz ist, dann kann die Seele nicht die Bewegung bestimmen.
+(1) Die Seele ist eine denkende, nicht-ausgedehnte, immaterielle Substanz. (Annahme)  
+(2) Die Seele bestimmt die Bewegung des Körpers, um willentliche Handlungen auszuführen.  
+(3) Jede Bestimmung der Bewegung des Körpers geschieht entweder a) durch den Anstoß der bewegten Sache, entsprechend der Weise, wie sie von der bewegenden angestoßen wird, oder b) durch die Beschaffenheit und die Gestalt der Oberfläche der bewegten Sache.  
+(4) Für Bewegung durch a) ist Berührung erforderlich.  
+(5) Berührung ist mit einer immateriellen Sache unvereinbar, d.h.: Wenn eine Bewegung Berührung erfordert und die Seele eine denkende, nicht-ausgedehnte, immaterielle Substanz ist, dann kann die Seele nicht die Bewegung bestimmen.  
+(6) Für Bewegung durch b) ist Ausdehnung erforderlich.  
+(7) Der Begriff der Seele schließt Ausdehnung aus, d.h.: Wenn eine Bewegung Ausdehnung erfordert und die Seele eine denkende, nicht-ausgedehnte, immaterielle Substanz ist, dann kann die Seele nicht die Bewegung bestimmen.  
 
 Daraus folgt:
 
-(8) Die Seele kann keine Bewegung des Körpers bestimmen. (Aus 1, 3, 4, 5, 6, und 7)
-(9) Die Seele bestimmt die Bewegung des Körpers, und die Seele bestimmt nicht die Bewegung des Körpers. (aus 2 und 8) Widerspruch!
+(8) Die Seele kann keine Bewegung des Körpers bestimmen. (Aus 1, 3, 4, 5, 6, und 7)  
+(9) Die Seele bestimmt die Bewegung des Körpers, und die Seele bestimmt nicht die Bewegung des Körpers. (aus 2 und 8) Widerspruch!  
 
 Daraus folgt:
 
@@ -77,26 +77,26 @@ Das Argument lässt sich wie folgt formalisieren:
 
 Abkürzungsverzeichnis
 
-p: Die Seele ist eine denkende, immaterielle, nicht-ausgedehnte Substanz.
-q: Die Seele bestimmt die Bewegung des Körpers, um willentliche Handlungen auszuführen.
-r: Die Bewegung einer Sache wird durch Anstoß einer bewegenden Sache bestimmt.
-s: Die Bewegung einer Sache wird durch die Beschaffenheit und Gestalt ihrer Oberfläche bestimmt.
-t: Für die Bewegung ist Berührung erforderlich.
-u: Für die Bewegung ist Ausdehnung erforderlich.
+p: Die Seele ist eine denkende, immaterielle, nicht-ausgedehnte Substanz.  
+q: Die Seele bestimmt die Bewegung des Körpers, um willentliche Handlungen auszuführen.  
+r: Die Bewegung einer Sache wird durch Anstoß einer bewegenden Sache bestimmt.  
+s: Die Bewegung einer Sache wird durch die Beschaffenheit und Gestalt ihrer Oberfläche bestimmt.  
+t: Für die Bewegung ist Berührung erforderlich.  
+u: Für die Bewegung ist Ausdehnung erforderlich.  
 
 Argument
 
-(1)	p
-(2)	q
-(3)	r ∨ s 
-(4)	r → t
-(5)	(p ∧ t) → ¬q
-(6)	s → u
-(7)	(p ∧ u) → ¬q
-⊢
-(8)	¬q (aus 1, 3, 4, 5, 6, 7)
-(9)	q ∧ ¬q (aus 2, 8)
-⊢
+(1)	p  
+(2)	q  
+(3)	r ∨ s   
+(4)	r → t  
+(5)	(p ∧ t) → ¬q  
+(6)	s → u  
+(7)	(p ∧ u) → ¬q  
+⊢  
+(8)	¬q (aus 1, 3, 4, 5, 6, 7)  
+(9)	q ∧ ¬q (aus 2, 8)  
+⊢  
 (10)	¬p (per Reductio ad absurdum)
 
 
