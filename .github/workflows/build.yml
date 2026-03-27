@@ -20,7 +20,7 @@ jobs:
           
       - name: install font
         run: |
-          tlmgr install libertine && updmap-sys --enable Map=libertine.map
+          tlmgr install libertinus libertinus-otf libertinus-fonts
           
       - name: prepare output directories
         run: |
