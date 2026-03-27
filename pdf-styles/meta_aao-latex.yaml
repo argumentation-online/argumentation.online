@@ -6,8 +6,14 @@ classoption:
   - DIV=8
 lang: de-DE
 colorlinks: true
-mainfont: Linux Libertine O
-mathfont: Latin Modern Math
+mainfont: LibertinusSerif-Regular.otf
+mainfontoptions:         
+  - BoldFont = LibertinusSerif-Bold.otf
+  - ItalicFont = LibertinusSerif-Italic.otf
+  - BoldItalicFont = LibertinusSerif-BoldItalic.otf
+mathfont: LibertinusMath-Regular.otf
+mathfontoptions:
+  - AutoFakeBold
 header-includes:
   - \setkomafont{disposition}{\bfseries}
   - \usepackage{scrlayer-scrpage}
