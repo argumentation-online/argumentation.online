@@ -16,6 +16,7 @@ mathfontoptions:
   - AutoFakeBold
 header-includes:
   - \setkomafont{disposition}{\bfseries}
+  - \setkomafont{descriptionlabel}{\normalfont\bfseries}
   - \usepackage{scrlayer-scrpage}
   - \usepackage{titling}
   - \lohead{\small \thedate}
