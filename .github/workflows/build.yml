@@ -14,9 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: install titling
+      - name: install TeX packages
         run: |
-          tlmgr install titling
+          tlmgr install titling datetime2 datetime2-german datetime2-english
           
       - name: install font
         run: |
