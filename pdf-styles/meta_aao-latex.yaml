@@ -19,6 +19,7 @@ header-includes:
   - \setkomafont{descriptionlabel}{\normalfont\bfseries}
   - \usepackage{scrlayer-scrpage}
   - \usepackage{titling}
+  - \usepackage[useregional=text]{datetime2}
   - \lohead{\small \thedate}
   - \rohead{\small argumentation.online}
 ---
