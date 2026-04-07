@@ -1,38 +1,17 @@
 ---
 title: 'Peter van Inwagens Konsequenzargument gegen die Kompatibilität von Willensfreiheit und Determinismus'
-abstract: 'Eine zentrale Frage des Problems des freien Willens ist, ob der
-Determinismus mit Willensfreiheit vereinbar ist: Kann es zugleich sein,
-dass die Vergangenheit zusammen mit den Naturgesetzen eine einzige
-Zukunft bestimmt und wir trotzdem fähig sind, anders zu handeln? Das
-Standardargument gegen die Kompatibilität von Willensfreiheit und
-Determinismus ist das Konsequenzargument: Wenn der Determinismus wahr
-ist, dann sind unsere Handlungen die Konsequenzen der Naturgesetze und
-der Vergangenheit. Aber es liegt nicht an uns, was die Naturgesetze sind
-oder was in der fernen Vergangenheit geschah. Also liegt es auch nicht
-an uns, was die Konsequenzen der Naturgesetze und fernen Vergangenheit
-sind -- einschließlich unserer Handlungen. Die wohl einflussreichsten
-Varianten des Arguments legte Peter van Inwagen vor. Im Folgenden
-rekonstruiere ich die m. E. bis dato beste seiner Varianten sowie die
-wichtigsten Erwiderungen.'
-description: 'Eine zentrale Frage des Problems des freien Willens ist, ob der
-Determinismus mit Willensfreiheit vereinbar ist: Kann es zugleich sein,
-dass die Vergangenheit zusammen mit den Naturgesetzen eine einzige
-Zukunft bestimmt und wir trotzdem fähig sind, anders zu handeln? Das
-Standardargument gegen die Kompatibilität von Willensfreiheit und
-Determinismus ist das Konsequenzargument: Wenn der Determinismus wahr
-ist, dann sind unsere Handlungen die Konsequenzen der Naturgesetze und
-der Vergangenheit. Aber es liegt nicht an uns, was die Naturgesetze sind
-oder was in der fernen Vergangenheit geschah. Also liegt es auch nicht
-an uns, was die Konsequenzen der Naturgesetze und fernen Vergangenheit
-sind -- einschließlich unserer Handlungen. Die wohl einflussreichsten
-Varianten des Arguments legte Peter van Inwagen vor. Im Folgenden
-rekonstruiere ich die m. E. bis dato beste seiner Varianten sowie die
-wichtigsten Erwiderungen.'
+abstract: 'Eine zentrale Frage des Problems des freien Willens ist, ob der Determinismus mit Willensfreiheit vereinbar ist: Kann es zugleich sein, dass die Vergangenheit zusammen mit den Naturgesetzen eine einzige Zukunft bestimmt und wir trotzdem fähig sind, anders zu handeln? Das Standardargument gegen die Kompatibilität von Willensfreiheit und Determinismus ist das Konsequenzargument: Wenn der Determinismus wahr ist, dann sind unsere Handlungen die Konsequenzen der Naturgesetze und der Vergangenheit. Aber es liegt nicht an uns, was die Naturgesetze sind oder was in der fernen Vergangenheit geschah. Also liegt es auch nicht an uns, was die Konsequenzen der Naturgesetze und fernen Vergangenheit sind -- einschließlich unserer Handlungen. Die wohl einflussreichsten Varianten des Arguments legte Peter van Inwagen vor. Im Folgenden rekonstruiere ich die m. E. bis dato beste seiner Varianten sowie die wichtigsten Erwiderungen.'
+description: 'Eine zentrale Frage des Problems des freien Willens ist, ob der Determinismus mit Willensfreiheit vereinbar ist: Kann es zugleich sein, dass die Vergangenheit zusammen mit den Naturgesetzen eine einzige Zukunft bestimmt und wir trotzdem fähig sind, anders zu handeln? Das Standardargument gegen die Kompatibilität von Willensfreiheit und Determinismus ist das Konsequenzargument: Wenn der Determinismus wahr ist, dann sind unsere Handlungen die Konsequenzen der Naturgesetze und der Vergangenheit. Aber es liegt nicht an uns, was die Naturgesetze sind oder was in der fernen Vergangenheit geschah. Also liegt es auch nicht an uns, was die Konsequenzen der Naturgesetze und fernen Vergangenheit sind -- einschließlich unserer Handlungen. Die wohl einflussreichsten Varianten des Arguments legte Peter van Inwagen vor. Im Folgenden rekonstruiere ich die m. E. bis dato beste seiner Varianten sowie die wichtigsten Erwiderungen.'
 date: 2026-03-24
-authors:
-    name: Henning Kirschbaum
-    affiliation: Johannes-Gutenberg-Universität Mainz
+author:
+  - name: Henning Kirschbaum
+    affiliation: 'Johannes-Gutenberg-Universität Mainz'
     email: henning.kirschbaum@uni-mainz.de
+tags:
+  - Nozick
+  - Hedonismus
+  - Moralphilosophie
+  - informell
 lang: de
 slug: Kirschbaum_ArgOnl-2026-03
 id: Kirschbaum_ArgOnl-2026-03
@@ -41,7 +20,7 @@ id: Kirschbaum_ArgOnl-2026-03
 
 ## Bibliographische Angaben
 
-Van Inwagen, Peter. 2017b. „Freedom to Break the Laws". In *Thinking
+Van Inwagen, Peter. 2017c. „Freedom to Break the Laws“. In *Thinking
 about Free Will*, von Peter van Inwagen. Cambridge University Press.
 [DOI: 10.1017/9781316711101](https://doi.org/10.1017/9781316711101).
 
@@ -75,9 +54,9 @@ Laws* vorträgt.[^2]
 (Zu i.) *Kompatibilismus* ist die These, dass Willensfreiheit und
 Determinismus vereinbar sind; *Inkompatibilismus* ist die These, dass
 Willensfreiheit und Determinismus nicht kompatibel sind (van Inwagen
-2017d, 152). Während besonders ‚Willensfreiheit' und ‚Determinismus'
+2017d, 152). Während besonders ‚Willensfreiheit‘ und ‚Determinismus‘
 verschieden verwendet werden, werde ich zur Rekonstruktion des Arguments
-van Inwagens beide Begriffe sowie ‚Vereinbarkeit' nun so definieren, wie
+van Inwagens beide Begriffe sowie ‚Vereinbarkeit‘ nun so definieren, wie
 er sie verwendet.
 
 *Determinismus* oder, genauer, Prädeterminismus ist die These, dass die
@@ -92,7 +71,7 @@ zweite *strikt* impliziert.
 *Willensfreiheit* ist die These, dass jemand im relevanten Sinne fähig
 ist, anders zu handeln (van Inwagen 2017d, 151, 2017a, 225).[^3] Um zu
 erklären, was unter dem relevanten Sinn zu verstehen ist, sei auf einen
-Fall als Paradigma verweisen:
+Fall als Paradigma verwiesen:
 
 > Early last January, Sally was admitted both to Julliard to study
 > piano and to the Harvard Law School. At that time she wanted very
@@ -108,12 +87,12 @@ Der relevante Sinn ist der, in dem eine Person wie Sally während ihrer
 Überlegungen davon ausgeht, zugleich fähig zu sein, eine Handlung
 auszuführen, und fähig zu sein, die Handlung nicht auszuführen.[^4]
 
-Zur Definition von ‚Vereinbarkeit' und ‚strikte Implikation' ist
+Zur Definition von ‚Vereinbarkeit‘ und ‚strikte Implikation‘ ist
 metaphysische Modalität nötig. Metaphysische Notwendigkeit ist die
 stärkste (weiteste und grundlegende) Art von objektiver Notwendigkeit
 (im Unterschied zu epistemischer, doxastischer, deontischer und
 teleologischer; Williamson 2016); über sie können ‚metaphysische
-Möglichkeit', ‚Kompatibilität' und ‚strikte Implikation' wie folgt
+Möglichkeit‘, ‚Kompatibilität‘ und ‚strikte Implikation‘ wie folgt
 definiert werden:
 
 -   Metaphysisch notwendig: Eine Proposition ist *metaphysisch möglich*
@@ -130,14 +109,14 @@ definiert werden:
     59).
 
 (Zu ii.) Vor dem Hintergrund der so definierten Begriffe komme ich nun
-zu van Inwagens erster Variante des Konsequenzarguments wie er sie in
+zu van Inwagens erster Variante des Konsequenzarguments, wie er sie in
 *Freedom to Break the Laws* präsentiert:
 
 „The argument begins with the story of a judge (J) who did not raise his
 hand at a certain moment (T) when his doing so would have prevented a
-prisoner's being put to death." (van Inwagen 2017c, 140) „L is the
-conjunction of all laws of nature into a single proposition" (van
-Inwagen 2017c, 141); "strict implication is my entailment" (van Inwagen
+prisoner‘s being put to death.“ (van Inwagen 2017c, 140) „L is the
+conjunction of all laws of nature into a single proposition“ (van
+Inwagen 2017c, 141); „strict implication is my entailment“ (van Inwagen
 2017c, 143n20).
 
 >> L conjoined with the whole truth about the past strictly implies
@@ -153,10 +132,10 @@ Inwagen 2017c, 141); "strict implication is my entailment" (van Inwagen
 >> J was able to arrange things in a way such that he was predetermined
 >> not to arrange things in that way.
 >
-> Let us call this the Trivial Entailment (since it is "uninstructive"
-> to be informed that it holds). Let us give the name 'the Antecedent'
-> to the conjunction of determinism ('L conjoined with the whole truth
-> about the past strictly implies every truth') and the thesis that J
+> Let us call this the Trivial Entailment (since it is “uninstructive”
+> to be informed that it holds). Let us give the name ‘the Antecedent’
+> to the conjunction of determinism (‘L conjoined with the whole truth
+> about the past strictly implies every truth’) and the thesis that J
 > did not raise his hand at T but was able to raise his hand at T.
 >
 > Now consider the following argument for incompatibilism, which takes
@@ -179,20 +158,18 @@ Inwagen 2017c, 141); "strict implication is my entailment" (van Inwagen
 > ability. But the Antecedent entails that J has this ability, and the
 > Antecedent is a possible state of affairs if free will and
 > determinism are compatible. It follows that free will and
-> determinism are not compatible.
->
-> (van Inwagen 2017c, 143--44)
+> determinism are not compatible. (van Inwagen 2017c, 143--44)
 
 ## Argumentrekonstruktion
 
 Das Argument hat zwei Prämissen und eine Konklusion: erstens die
-Prämisse, die van Inwagen ‚triviale strikte Implikation' (‚Trivial
-Entailment') nennt, dass die Konjunktion aus Willensfreiheit und
+Prämisse, die van Inwagen ‚triviale strikte Implikation‘ (‚Trivial
+Entailment‘) nennt, dass die Konjunktion aus Willensfreiheit und
 Determinismus eine gewisse Fähigkeit strikt impliziert; zweitens die
-Prämisse, die ‚Unmöglichkeitsthese' genannt werden kann, dass die
+Prämisse, die ‚Unmöglichkeitsthese‘ genannt werden kann, dass die
 Fähigkeit, die die Konjunktion von Willensfreiheit und Determinismus
 strikt impliziert, metaphysisch unmöglich ist; drittens die Konklusion,
-die ‚Inkompatibilismus' genannt wird, dass die Konjunktion aus
+die ‚Inkompatibilismus‘ genannt wird, dass die Konjunktion aus
 Willensfreiheit und Determinismus metaphysisch unmöglich ist. Im
 Folgenden rekonstruiere ich (I.) die erste Prämisse, die triviale
 strikte Implikation, (II.) die zweite Prämisse, die Unmöglichkeitsthese,
@@ -211,20 +188,20 @@ Wahrheit über die Vergangenheit zu Z (van Inwagen 2017c, 141--43).
 van Inwagen wie folgt aus:
 
 -   „L is the conjunction of all laws of nature into a single
-    proposition" (van Inwagen 2017c, 141).
+    proposition“ (van Inwagen 2017c, 141).
 
--   „\[S\]trict implication is my entailment" (van Inwagen 2017c,
+-   „\[S\]trict implication is my entailment“ (van Inwagen 2017c,
     143n20).
 
--   „Let us give the name 'the Antecedent' to the conjunction of
-    determinism ('L conjoined with the whole truth about the past
-    strictly implies every truth') and the thesis that J did not raise
-    his hand at T but was able to raise his hand at T." (van Inwagen
+-   „Let us give the name ‘the Antecedent’ to the conjunction of
+    determinism (‘L conjoined with the whole truth about the past
+    strictly implies every truth’) and the thesis that J did not raise
+    his hand at T but was able to raise his hand at T.“ (van Inwagen
     2017c, 144)
 
--   "\[T\]he Antecedent entails J was able to arrange things in a way
+-   „\[T\]he Antecedent entails J was able to arrange things in a way
     such that L conjoined with the whole truth about the past strictly
-    implies that he did not arrange things that way." (van Inwagen
+    implies that he did not arrange things that way.“ (van Inwagen
     2017c, 144)
 
 Vor diesem Hintergrund rekonstruiere ich die triviale strikte
@@ -246,12 +223,12 @@ zu (1), meiner Rekonstruktion der ersten Prämisse:[^5]
 Inwagen wie folgt aus:
 
 -   „L is the conjunction of all laws of nature into a single
-    proposition" (van Inwagen 2017c, 141).
+    proposition“ (van Inwagen 2017c, 141).
 
 -   „\[T\]he Antecedent entails J was able to arrange things in a way
     such that his arranging things in that way conjoined with the whole
     truth about the past strictly implies the falsity of L. And no one
-    has this ability. No one could possibly have this ability." (van
+    has this ability. No one could possibly have this ability.“ (van
     Inwagen 2017c, 144)
 
 Vor diesem Hintergrund rekonstruiere ich die Unmöglichkeitsthese wie
@@ -271,7 +248,7 @@ zu (2), meiner Rekonstruktion der zweiten Prämisse:[^6]
 (Zu III.) Seine Konklusion, den Inkompatibilismus, drückt van Inwagen
 schließlich wie folgt aus:
 
--   „It follows that free will and determinism are not compatible." (van
+-   „It follows that free will and determinism are not compatible.“ (van
     Inwagen 2017c, 144)
 
 Vor diesem Hintergrund rekonstruiere ich den Inkompatibilismus wie
@@ -299,7 +276,7 @@ Arguments.[^8]
     H nicht ausführt, dann ist P zu Z nicht im relevanten Sinne fähig, H
     auszuführen.
     
---
+-----
 
 (3) Also: Metaphysisch notwendig: Wenn es zu Z prädeterminiert ist, dass
     P H nicht ausführt, dann ist P zu Z nicht im relevanten Sinne fähig,
@@ -311,9 +288,9 @@ Das Argument ist deduktiv gültig. Prämisse (1) ist wahr per Definition;
 denn (1) folgt aus der Definition des Prädeterminismus, die stipulativ
 ist: Die Definition des Prädeterminismus soll nicht zu einer früheren
 Verwendung des Begriffs passen, sondern postuliert lediglich, welche
-Bedeutung ‚prädeterminiert' im Kontext des Konsequenzarguments hat
+Bedeutung ‚prädeterminiert‘ im Kontext des Konsequenzarguments hat
 (Gupta und Mackereth 2023; Carnap 1952) -- eben deshalb nennt van
-Inwagen seine erste Prämisse ‚trivial'. Also ist das Argument genau dann
+Inwagen seine erste Prämisse ‚trivial‘. Also ist das Argument genau dann
 schlüssig, d. h. hat nur wahre Prämissen und ist deduktiv gültig, wenn
 (2) wahr ist.
 
@@ -417,67 +394,67 @@ aber nicht so evident wie (B).[^13]
 Bennett, Jonathan. 2003. *A Philosophical Guide to Conditionals*. Oxford
 University Press.
 
-Carnap, Rudolf. 1952. „Meaning Postulates". *Philosophical Studies* 3
+Carnap, Rudolf. 1952. „Meaning Postulates“. *Philosophical Studies* 3
 (5): 63--73.
 
-Gupta, Anil, und Stephen Mackereth. 2023. „Definitions". In *The
+Gupta, Anil, und Stephen Mackereth. 2023. „Definitions“. In *The
 Stanford Encyclopedia of Philosophy*, Fall 2023, herausgegeben von
 Edward Zalta und Uri Nodelman.
 [URL: plato.stanford.edu/archives/fall2023/entries/definitions](https://plato.stanford.edu/archives/fall2023/entries/definitions/).
 
 Van Inwagen, Peter. 1975. „The Incompatibility of Free Will and
-Determinism". *Philosophical Studies* 27 (3): 185--99.
+Determinism“. *Philosophical Studies* 27 (3): 185--99.
 
 Van Inwagen, Peter. 1983. *An Essay on Free Will*. Clarendon Press.
 
-Van Inwagen, Peter. 2017a. „Ability". In *Thinking about Free Will*, von
+Van Inwagen, Peter. 2017a. „Ability“. In *Thinking about Free Will*, von
 Peter van Inwagen. Cam-bridge University Press.
 [DOI: 10.1017/9781316711101](https://doi.org/10.1017/9781316711101).
 
 Van Inwagen, Peter. 2017b. „Author's Preface to the French Translation
-of An Essay on Free Will". In *Thinking about Free Will*, von Peter van
+of An Essay on Free Will“. In *Thinking about Free Will*, von Peter van
 Inwagen. Cambridge University Press.
 [DOI: 10.1017/9781316711101](https://doi.org/10.1017/9781316711101).
 
-Van Inwagen, Peter. 2017c. „Freedom to Break the Laws". In *Thinking
+Van Inwagen, Peter. 2017c. „Freedom to Break the Laws“. In *Thinking
 about Free Will*, von Peter van Inwagen. Cambridge University Press.
 [DOI: 10.1017/9781316711101](https://doi.org/10.1017/9781316711101).
 
 Van Inwagen, Peter. 2017d. „How to Think about the Problem of Free
-Will". In *Thinking about Free Will*, von Peter van Inwagen. Cambridge
+Will“. In *Thinking about Free Will*, von Peter van Inwagen. Cambridge
 University Press. [DOI: 10.1017/9781316711101](https://doi.org/10.1017/9781316711101).
 
-Van Inwagen, Peter. 2017e. „Introduction: Van Inwagen on Free Will". In
+Van Inwagen, Peter. 2017e. „Introduction: Van Inwagen on Free Will“. In
 *Thinking about Free Will*, von Peter van Inwagen. Cambridge University
 Press. [DOI: 10.1017/9781316711101](https://doi.org/10.1017/9781316711101).
 
-Van Inwagen, Peter. 2017f. „The Problem of Fr\*\* W\*ll". In *Thinking
+Van Inwagen, Peter. 2017f. „The Problem of Fr\*\* W\*ll“. In *Thinking
 about Free Will*, von Peter van Inwagen. Cambridge University Press.
 [DOI: 10.1017/9781316711101](https://doi.org/10.1017/9781316711101).
 
 Kuźniar, Adrian. 2023. „Are We Free to Work Miracles? On Peter van
-Inwagen's Concept of the Miraculous". *Religious Studies* 59 (2):
+Inwagen's Concept of the Miraculous“. *Religious Studies* 59 (2):
 252--60. [DOI: 10.1017/S003441252200021X](https://doi.org/10.1017/S003441252200021X).
 
-Lewis, David. 1986a. „Are We Free to Break the Laws?" In *Philosophical
+Lewis, David. 1986a. „Are We Free to Break the Laws?“ In *Philosophical
 Papers*, von David Lewis, Bd. 2. Oxford University Press.
 [DOI: 10.1093/0195036468.003.0010](https://doi.org/10.1093/0195036468.003.0010).
 
-Lewis, David. 1986b. „Counterfactual Dependence and Time's Arrow". In
+Lewis, David. 1986b. „Counterfactual Dependence and Time's Arrow“. In
 *Philosophical Papers*, von David Lewis, Bd. 2. Oxford University Press.
 [DOI: 10.1093/0195036468.003.0002](https://doi.org/10.1093/0195036468.003.0002).
 
-O'Connor, Timothy, und Christopher Franklin. 2022. „Free Will". In *The
+O'Connor, Timothy, und Christopher Franklin. 2022. „Free Will“. In *The
 Stanford Encyclopedia of Philosophy*, Winter 2022, herausgegeben von
 Edward Zalta und Uri Nodelman.
 [URL: plato.stanford.edu/archives/win2022/entries/freewill](https://plato.stanford.edu/archives/win2022/entries/freewill/).
 
-Vihvelin, Kadri. 2022. „Arguments for Incompatibilism". In *The Stanford
+Vihvelin, Kadri. 2022. „Arguments for Incompatibilism“. In *The Stanford
 Encyclopedia of Philosophy*, Fall 2022, herausgegeben von Edward Zalta
 und Uri Nodelman.
 [URL: plato.stanford.edu/archives/fall2022/entries/incompatibilism-arguments](https://plato.stanford.edu/archives/fall2022/entries/incompatibilism-arguments/).
 
-Williamson, Timothy. 2016. „Modal Science". *Canadian Journal of
+Williamson, Timothy. 2016. „Modal Science“. *Canadian Journal of
 Philosophy* 46 (4--5): 453--92.
 [DOI: 10.1080/00455091.2016.1205851](https://doi.org/10.1080/00455091.2016.1205851).
 
@@ -491,7 +468,7 @@ Philosophy* 46 (4--5): 453--92.
     Willensfreiheit als Urheberschaft, das bei van Inwagen aber keine
     Rolle spielt (O'Connor und Franklin 2022).
 
-[^4]: Für Bedeutungen von ‚Fähigkeit', die für Willensfreiheit
+[^4]: Für Bedeutungen von ‚Fähigkeit‘, die für Willensfreiheit
     irrelevant sind, siehe van Inwagen (1983, 8--13).
 
 [^5]: Dies entspricht der metaphysisch notwendigen Äquivalenz von
@@ -505,6 +482,7 @@ Philosophy* 46 (4--5): 453--92.
     $\square\lbrack\square\lbrack(\text{G}^{*} \land \text{V}^{*}) \rightarrow \neg\text{H}^{*}\rbrack \rightarrow \neg\text{F}^{*}\rbrack$.
 
 [^7]: Dies entspricht der metaphysisch notwendigen Äquivalenz von
+    
     $\neg\Diamond\lbrack\text{F}^{*} \land \text{D}^{*}\rbrack$ und
     $\square\lbrack\text{D}^{*} \rightarrow \neg\text{F}^{*}\rbrack$.
 
