@@ -1,7 +1,7 @@
 ---
 title: 'Peter van Inwagens Konsequenzargument gegen die Kompatibilität von Willensfreiheit und Determinismus'
-abstract: 'Eine zentrale Frage des Problems des freien Willens ist, ob der Determinismus mit Willensfreiheit vereinbar ist: Kann es zugleich sein, dass die Vergangenheit zusammen mit den Naturgesetzen eine einzige Zukunft bestimmt und wir trotzdem fähig sind, anders zu handeln? Das Standardargument gegen die Kompatibilität von Willensfreiheit und Determinismus ist das Konsequenzargument: Wenn der Determinismus wahr ist, dann sind unsere Handlungen die Konsequenzen der Naturgesetze und der Vergangenheit. Aber es liegt nicht an uns, was die Naturgesetze sind oder was in der fernen Vergangenheit geschah. Also liegt es auch nicht an uns, was die Konsequenzen der Naturgesetze und fernen Vergangenheit sind -- einschließlich unserer Handlungen. Die wohl einflussreichsten Varianten des Arguments legte Peter van Inwagen vor. Im Folgenden rekonstruiere ich die m. E. bis dato beste seiner Varianten sowie die wichtigsten Erwiderungen.'
-description: 'Eine zentrale Frage des Problems des freien Willens ist, ob der Determinismus mit Willensfreiheit vereinbar ist: Kann es zugleich sein, dass die Vergangenheit zusammen mit den Naturgesetzen eine einzige Zukunft bestimmt und wir trotzdem fähig sind, anders zu handeln? Das Standardargument gegen die Kompatibilität von Willensfreiheit und Determinismus ist das Konsequenzargument: Wenn der Determinismus wahr ist, dann sind unsere Handlungen die Konsequenzen der Naturgesetze und der Vergangenheit. Aber es liegt nicht an uns, was die Naturgesetze sind oder was in der fernen Vergangenheit geschah. Also liegt es auch nicht an uns, was die Konsequenzen der Naturgesetze und fernen Vergangenheit sind -- einschließlich unserer Handlungen. Die wohl einflussreichsten Varianten des Arguments legte Peter van Inwagen vor. Im Folgenden rekonstruiere ich die m. E. bis dato beste seiner Varianten sowie die wichtigsten Erwiderungen.'
+abstract: 'Eine zentrale Frage des Problems des freien Willens ist, ob der Determinismus mit Willensfreiheit vereinbar ist: Kann es zugleich sein, dass die Vergangenheit zusammen mit den Naturgesetzen eine einzige Zukunft bestimmt und wir trotzdem fähig sind, anders zu handeln? Das Standardargument gegen die Kompatibilität von Willensfreiheit und Determinismus ist das Konsequenzargument: Wenn der Determinismus wahr ist, dann sind unsere Handlungen die Konsequenzen der Naturgesetze und der Vergangenheit. Aber es liegt nicht an uns, was die Naturgesetze sind oder was in der fernen Vergangenheit geschah. Also liegt es auch nicht an uns, was die Konsequenzen der Naturgesetze und fernen Vergangenheit sind – einschließlich unserer Handlungen. Die wohl einflussreichsten Varianten des Arguments legte Peter van Inwagen vor. Im Folgenden rekonstruiere ich die m. E. bis dato beste seiner Varianten sowie die wichtigsten Erwiderungen.'
+description: 'Eine zentrale Frage des Problems des freien Willens ist, ob der Determinismus mit Willensfreiheit vereinbar ist: Kann es zugleich sein, dass die Vergangenheit zusammen mit den Naturgesetzen eine einzige Zukunft bestimmt und wir trotzdem fähig sind, anders zu handeln? Das Standardargument gegen die Kompatibilität von Willensfreiheit und Determinismus ist das Konsequenzargument: Wenn der Determinismus wahr ist, dann sind unsere Handlungen die Konsequenzen der Naturgesetze und der Vergangenheit. Aber es liegt nicht an uns, was die Naturgesetze sind oder was in der fernen Vergangenheit geschah. Also liegt es auch nicht an uns, was die Konsequenzen der Naturgesetze und fernen Vergangenheit sind – einschließlich unserer Handlungen. Die wohl einflussreichsten Varianten des Arguments legte Peter van Inwagen vor. Im Folgenden rekonstruiere ich die m. E. bis dato beste seiner Varianten sowie die wichtigsten Erwiderungen.'
 date: 2026-03-24
 authors:
   - name: Henning Kirschbaum
@@ -37,7 +37,7 @@ Grundgedanke lautet:
 > (including our present acts) are not up to us. (van Inwagen 1983,
 > 56)
 
-In *An Essay on Free Will* legt Peter van Inwagen (1983, 56--58) die
+In *An Essay on Free Will* legt Peter van Inwagen (1983, 56–58) die
 wohl wichtigsten Varianten des Konsequenzarguments vor: eine erste
 Variante, die recht komplex ist, aber in der Willensfreiheitsdebatte
 übliches Vokabular verwendet; eine zweite Variante, die recht einfach
@@ -47,7 +47,7 @@ besondere modale Prinzipien einsetzt.
 Ich werde die erste Variante rekonstruieren. Bevor ich zur
 Rekonstruktion komme, werde ich (i.) die Begriffe, die im Argument eine
 Rolle spielen, in van Inwagens Sinne definieren und (ii.) van Inwagens
-(2017c, 139--48) jüngste und einfachste Darstellung der ersten Variante
+(2017c, 139–48) jüngste und einfachste Darstellung der ersten Variante
 des Konsequenzarguments wiedergeben, die er in *Freedom to Break the
 Laws* vorträgt.[^2]
 
@@ -158,7 +158,7 @@ Inwagen 2017c, 141); „strict implication is my entailment“ (van Inwagen
 > ability. But the Antecedent entails that J has this ability, and the
 > Antecedent is a possible state of affairs if free will and
 > determinism are compatible. It follows that free will and
-> determinism are not compatible. (van Inwagen 2017c, 143--44)
+> determinism are not compatible. (van Inwagen 2017c, 143–44)
 
 ## Argumentrekonstruktion
 
@@ -182,7 +182,7 @@ gewisser Zeitpunkt (z. B. 8.9.1966), P eine gewisse Person (z. B.
 Peter), H ein gewisser raum-zeitlich bestimmter Handlungstyp (z. B.
 Handheben am 18.3.1974 in New York), G die Konjunktion aller
 Naturgesetze in einer einzigen Proposition und V zu Z die gesamte
-Wahrheit über die Vergangenheit zu Z (van Inwagen 2017c, 141--43).
+Wahrheit über die Vergangenheit zu Z (van Inwagen 2017c, 141–43).
 
 (Zu I.) Seine erste Prämisse, die triviale strikte Implikation, drückt
 van Inwagen wie folgt aus:
@@ -289,25 +289,25 @@ denn (1) folgt aus der Definition des Prädeterminismus, die stipulativ
 ist: Die Definition des Prädeterminismus soll nicht zu einer früheren
 Verwendung des Begriffs passen, sondern postuliert lediglich, welche
 Bedeutung ‚prädeterminiert‘ im Kontext des Konsequenzarguments hat
-(Gupta und Mackereth 2023; Carnap 1952) -- eben deshalb nennt van
+(Gupta und Mackereth 2023; Carnap 1952) – eben deshalb nennt van
 Inwagen seine erste Prämisse ‚trivial‘. Also ist das Argument genau dann
 schlüssig, d. h. hat nur wahre Prämissen und ist deduktiv gültig, wenn
 (2) wahr ist.
 
 Die Wahrheit von (2) ist umstritten. Das wohl wichtigste Argument gegen
 die Plausibilität von (2) und insoweit für den Kompatibilismus stammt
-von David Lewis (1986a; van Inwagen 2017b, 186--87). Die Negation von
+von David Lewis (1986a; van Inwagen 2017b, 186–87). Die Negation von
 (2) impliziert strikt die These, dass es möglich ist, dass eine Person
 fähig ist, eine Handlung auszuführen, sodass, würde sie sie ausführen,
 ein Naturgesetz falsch wäre, d. h. gebrochen würde, oder die
 Vergangenheit falsch wäre, d. h. anders wäre.[^9] Zunächst mag es
 deshalb scheinen, dass eine Person, die (2) negiert, damit behauptet,
 wir könnten die Fähigkeit haben, die Naturgesetze zu brechen oder die
-Vergangenheit zu ändern -- eine absurd falsche Konsequenz. Es folgt,
+Vergangenheit zu ändern – eine absurd falsche Konsequenz. Es folgt,
 dass (2) wahr ist. So gesehen handelt es sich bei dem Argument um eine
 Reductio ad absurdum des Kompatibilismus (Lewis 1986a, 296).
 
-Wie Lewis (1986a, 291--95) zeigt, muss allerdings zwischen einer starken
+Wie Lewis (1986a, 291–95) zeigt, muss allerdings zwischen einer starken
 und einer schwachen Version der These unterschieden werden, dass wir
 fähig sein können, so zu handeln, dass ein Naturgesetz gebrochen oder
 die Vergangenheit verändert wird. Während die starke These absurd ist,
@@ -337,7 +337,7 @@ oder eine möglichst kleine Veränderung der gesamten Vergangenheit
 stattfinden, der oder die verursachen würde, dass J seine Hand hebt.
 Z. B. könnten naturgesetzwidrigerweise ein paar zusätzliche Neuronen in
 einer Ecke von Js Gehirn feuern, mit dem Ergebnis, dass J die Hand hebt
-(Lewis 1986b, 44, 1986a, 294--95). Js Handheben wäre aber weder selbst
+(Lewis 1986b, 44, 1986a, 294–95). Js Handheben wäre aber weder selbst
 ein Naturgesetzbruch noch eine Vergangenheitsveränderung noch würde es
 etwas Derartiges verursachen. Deshalb gilt: Würde J unter
 deterministischen Bedingungen seine Hand heben, obwohl er das in
@@ -347,7 +347,7 @@ Vergangenheit verändern.
 Wenn eine Kompatibilistin daher behauptet, J sei fähig, seine Hand zu
 heben, obwohl er dies prädeterminerterweise nicht tut, behauptet sie
 nicht zwingend, dass J fähig ist, eine Handlung auszuführen, die selbst
-die Naturgesetze brechen oder die Vergangenheit verändern würde -- sie
+die Naturgesetze brechen oder die Vergangenheit verändern würde – sie
 behauptet nicht die Fähigkeit, die Naturgesetze zu brechen oder die
 Vergangenheit zu verändern. Alles, worauf sie verpflichtet ist, ist die
 schwache These, dass J eine Fähigkeit hat, sodass *irgendein*
@@ -355,7 +355,7 @@ Naturgesetzbruch oder *irgendeine* Vergangenheitsveränderung stattfinden
 würde, würde er sie einsetzen.
 
 Laut van Inwagen (2017c, 142) sind Lewis' Ausführungen vollkommen
-richtig. Er (2017c, 146--47) erwidert mit einem anderen Argument:
+richtig. Er (2017c, 146–47) erwidert mit einem anderen Argument:
 Erstens ist es völlig plausibel, dass niemand die Fähigkeit haben kann,
 ein Wunder zu wirken. Zweitens schlägt van Inwagen eine Wunderdefinition
 vor, die zusammen mit der Negation von (2) strikt impliziert, dass
@@ -395,7 +395,7 @@ Bennett, Jonathan. 2003. *A Philosophical Guide to Conditionals*. Oxford
 University Press.
 
 Carnap, Rudolf. 1952. „Meaning Postulates“. *Philosophical Studies* 3
-(5): 63--73.
+(5): 63–73.
 
 Gupta, Anil, und Stephen Mackereth. 2023. „Definitions“. In *The
 Stanford Encyclopedia of Philosophy*, Fall 2023, herausgegeben von
@@ -403,7 +403,7 @@ Edward Zalta und Uri Nodelman.
 [URL: plato.stanford.edu/archives/fall2023/entries/definitions](https://plato.stanford.edu/archives/fall2023/entries/definitions/).
 
 Van Inwagen, Peter. 1975. „The Incompatibility of Free Will and
-Determinism“. *Philosophical Studies* 27 (3): 185--99.
+Determinism“. *Philosophical Studies* 27 (3): 185–99.
 
 Van Inwagen, Peter. 1983. *An Essay on Free Will*. Clarendon Press.
 
@@ -434,7 +434,7 @@ about Free Will*, von Peter van Inwagen. Cambridge University Press.
 
 Kuźniar, Adrian. 2023. „Are We Free to Work Miracles? On Peter van
 Inwagen's Concept of the Miraculous“. *Religious Studies* 59 (2):
-252--60. [DOI: 10.1017/S003441252200021X](https://doi.org/10.1017/S003441252200021X).
+252–60. [DOI: 10.1017/S003441252200021X](https://doi.org/10.1017/S003441252200021X).
 
 Lewis, David. 1986a. „Are We Free to Break the Laws?“ In *Philosophical
 Papers*, von David Lewis, Bd. 2. Oxford University Press.
@@ -455,13 +455,13 @@ und Uri Nodelman.
 [URL: plato.stanford.edu/archives/fall2022/entries/incompatibilism-arguments](https://plato.stanford.edu/archives/fall2022/entries/incompatibilism-arguments/).
 
 Williamson, Timothy. 2016. „Modal Science“. *Canadian Journal of
-Philosophy* 46 (4--5): 453--92.
+Philosophy* 46 (4–5): 453–92.
 [DOI: 10.1080/00455091.2016.1205851](https://doi.org/10.1080/00455091.2016.1205851).
 
 [^1]: Für weitere Argumente für den Inkompatibilismus, siehe Vihvelin
     (2022).
 
-[^2]: Für frühere Darstellungen, siehe van Inwagen (1975; 1983, 68--78).
+[^2]: Für frühere Darstellungen, siehe van Inwagen (1975; 1983, 68–78).
 
 [^3]: Neben dem Verständnis von Willensfreiheit als Freiheit, anders zu
     handeln, gibt es insbesondere auch das Verständnis von
@@ -469,7 +469,7 @@ Philosophy* 46 (4--5): 453--92.
     Rolle spielt (O'Connor und Franklin 2022).
 
 [^4]: Für Bedeutungen von ‚Fähigkeit‘, die für Willensfreiheit
-    irrelevant sind, siehe van Inwagen (1983, 8--13).
+    irrelevant sind, siehe van Inwagen (1983, 8–13).
 
 [^5]: Dies entspricht der metaphysisch notwendigen Äquivalenz von
     $\square\lbrack(\text{F}^{*} \land \text{D}^{*}) \rightarrow (\text{F}^{*} \land \text{I}^{*})\rbrack$
@@ -502,7 +502,7 @@ Philosophy* 46 (4--5): 453--92.
 [^12]: Ich ignoriere hier alle anderen als die rekonstruierten
     Argumente, die für oder gegen (A) oder (B) sprechen.
 
-[^13]: Van Inwagen (2017e, 13--14) ist kein solcher Inkompatibilist;
+[^13]: Van Inwagen (2017e, 13–14) ist kein solcher Inkompatibilist;
     vielmehr ist seine Antwort auf die Frage, ob der freie Wille möglich
     ist, dass dies ein Mysterium ist, weil die Argumente für und gegen
     Willensfreiheit gleich plausibel schlüssig erscheinen.

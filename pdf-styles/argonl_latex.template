@@ -391,7 +391,7 @@ $endif$
 $endif$
 \author{$for(author)$$author.name$\\{\small $author.affiliation$}$sep$ \and $endfor$}
 
-\date{$date$}
+\date{\DTMdate{$date$}}
 $if(beamer)$
 $if(institute)$
 \institute{$for(institute)$$institute$$sep$ \and $endfor$}
