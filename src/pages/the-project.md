@@ -32,7 +32,7 @@ Reichen Sie Ihre Argumentrekonstruktion zur Veröffentlichung ein! (Bitte verwen
 
 **Herausgeberkollegium:** Dominik Balg, Gregor Betz, Georg Brun, Sonja Deppe, David Lanius, David Löwenstein, Jonas Pfister, Niko Strobach, Alexandra Zinke.
 
-**Geschäftsführender Herausgeber:** Dominik Balg.
+**Technische Assistenz:** Felix Kopecky.
 
 Inspiriert von _Just the Arguments. 100 of the Most Important Arguments in Western Philosophy_ (hrsg. von Michael Bruce und Steven Barbone, Chichester: Wiley-Blackwell, 2011), ist die Idee zu _argumentation.online_ im Rahmen des [DFG-Forschungsnetzwerks „Argumentieren in der Schule“](https://blogs.phil.hhu.de/argumentiereninderschule/) entstanden und wird dort weiterentwickelt.
 
