@@ -32,7 +32,7 @@ Submit your argument reconstruction for publication! (Please do so, preferably, 
 
 **Board of Editors:** Gregor Betz, Georg Brun, Sonja Deppe, David Lanius, David Löwenstein, Tobias Martin, Jonas Pfister, Niko Strobach, Alexandra Zinke.
 
-**Managing Editors:** Gregor Betz und Jonas Pfister.
+**Editorial Assistant:** Felix Kopecky.
 
 Inspired by _Just the Arguments. 100 of the Most Important Arguments in Western Philosophy_ (ed. by Michael Bruce and Steven Barbone, Chichester: Wiley-Blackwell, 2011), the idea for _argumentation.online_ originated at the [DFG Research Network „Argumentieren in der Schule“ ("Arguing at School")](https://blogs.phil.hhu.de/argumentiereninderschule/), where it is still discussed and further improved.
 
