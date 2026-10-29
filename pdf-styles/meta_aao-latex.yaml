@@ -1,5 +1,5 @@
 ---
-documentclass: scrarticle
+documentclass: scrartcl
 classoption:
   - a4paper
   - fontsize=12pt
@@ -18,6 +18,8 @@ header-includes:
   - \setkomafont{disposition}{\bfseries}
   - \setkomafont{descriptionlabel}{\normalfont\bfseries}
   - \usepackage{scrlayer-scrpage}
+  - \usepackage{array}
+  - \usepackage{calc}
   - \usepackage{titling}
   - \usepackage[useregional=text]{datetime2}
   - \lohead{\small \thedate}
