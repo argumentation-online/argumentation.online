@@ -258,6 +258,7 @@ $highlighting-macros$
 $endif$
 $if(tables)$
 \usepackage{longtable,booktabs}
+\newcounter{none} % see https://github.com/jgm/pandoc/issues/11201
 $if(beamer)$
 \usepackage{caption}
 % Make caption package work with longtable
