@@ -9,14 +9,17 @@ jobs:
   generate-pdfs:
     runs-on: ubuntu-24.04
     container:
-      image: docker://pandoc/latex:2.9
+      image: docker://pandoc/latex:3.10-ubuntu
       options: --entrypoint=sh
     steps:
       - uses: actions/checkout@v4
-      
-      - name: install TeX packages
+
+      - name: Update tlmgr
+        run: tlmgr update --self
+        
+      - name: install TeX class and packages
         run: |
-          tlmgr install titling datetime2 datetime2-german datetime2-english tracklang etoolbox xkeyval
+          tlmgr install koma-script titling datetime2 datetime2-german datetime2-english tracklang etoolbox xkeyval
           
       - name: install font
         run: |
